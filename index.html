@@ -1,0 +1,633 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Английские разговорные фразы для уровня Pre-Intermediate: карточки, тесты, озвучка.">
+<style>
+:root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0}
+img{max-width:100%}
+[hidden]{display:none!important}
+</style>
+<title>Разговорник A2</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Unbounded:wght@500;700&display=swap">
+<style>
+/* Layout: one narrow column app shell. Sticky header with tabs, views swap below; the flashcard is the hero. */
+:root{
+  --bg:#F4F6FA; --surface:#FFFFFF; --sunk:#E9EDF4; --ink:#131B2D; --muted:#586179; --line:#D7DDE8;
+  --accent:#B3202E; --accent-ink:#FFFFFF; --accent-soft:#F7E2E4;
+  --good:#1D7649; --good-soft:#DCF1E5; --warn:#8F5E00; --warn-soft:#FAEED3;
+  --font-display:"Unbounded","Golos Text",system-ui,sans-serif;
+  --font-body:"Golos Text",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --r:14px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E131D; --surface:#161D2B; --sunk:#1D2536; --ink:#E7EBF3; --muted:#9AA3B6; --line:#2A3348;
+    --accent:#FF6470; --accent-ink:#1C0609; --accent-soft:#3A1B21;
+    --good:#55C98F; --good-soft:#153120; --warn:#E7B64C; --warn-soft:#352A14;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E131D; --surface:#161D2B; --sunk:#1D2536; --ink:#E7EBF3; --muted:#9AA3B6; --line:#2A3348;
+  --accent:#FF6470; --accent-ink:#1C0609; --accent-soft:#3A1B21;
+  --good:#55C98F; --good-soft:#153120; --warn:#E7B64C; --warn-soft:#352A14;
+  color-scheme:dark;
+}
+body{background:var(--bg);color:var(--ink);font-family:var(--font-body);font-size:16px;line-height:1.5}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.wrap{max-width:760px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+button:focus-visible,input:focus-visible,.tile:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+h1,h2,h3{text-wrap:balance;margin:0}
+
+/* header */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:10px 14px;padding-block:10px;flex-wrap:wrap}
+.brand{font-family:var(--font-display);font-weight:700;font-size:1rem;display:flex;align-items:center;gap:8px;letter-spacing:-.01em}
+.brand b{font-size:.68rem;background:var(--accent);color:var(--accent-ink);border-radius:6px;padding:3px 6px;letter-spacing:.04em}
+.tabs{display:flex;gap:2px;margin-left:auto;background:var(--sunk);border-radius:10px;padding:3px}
+.tab{padding:6px 12px;border-radius:8px;font-size:.9rem;font-weight:500;color:var(--muted)}
+.tab[aria-current="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgb(0 0 0 / .08)}
+.icon-btn{width:36px;height:36px;border-radius:10px;display:grid;place-items:center;color:var(--muted)}
+.icon-btn:hover{background:var(--sunk);color:var(--ink)}
+.icon-btn svg{width:20px;height:20px}
+@media (max-width:520px){.tabs{order:3;margin-left:0;width:100%}.tab{flex:1}}
+
+main{padding-block:22px 56px;display:flex;flex-direction:column;gap:22px}
+.eyebrow{font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);font-weight:600}
+.h1{font-family:var(--font-display);font-weight:700;font-size:clamp(1.35rem,4.5vw,1.8rem);line-height:1.2;letter-spacing:-.02em}
+.muted{color:var(--muted)}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.back{color:var(--muted);font-size:.9rem;display:inline-flex;gap:6px;align-items:center}
+.back:hover{color:var(--ink)}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:11px 16px;border-radius:12px;font-weight:600;font-size:.95rem;border:1px solid var(--line);background:var(--surface)}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.primary:hover{filter:brightness(1.06)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn svg{width:18px;height:18px}
+.seg{display:inline-flex;background:var(--sunk);border-radius:10px;padding:3px;gap:2px}
+.seg button{padding:5px 10px;border-radius:8px;font-size:.85rem;color:var(--muted);font-weight:500}
+.seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgb(0 0 0 / .08)}
+
+/* summary */
+.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.summary div{background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.summary strong{font-family:var(--font-display);font-size:1.35rem;font-variant-numeric:tabular-nums;font-weight:500}
+.summary span{font-size:.8rem;color:var(--muted)}
+
+/* section tiles */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
+.tile{text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.tile:hover:not(:disabled){border-color:var(--muted)}
+.tile:disabled{background:transparent;border-style:dashed;cursor:default}
+.tile h3{font-size:1rem;font-weight:600;line-height:1.3}
+.tile .meta{display:flex;justify-content:space-between;gap:8px;font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
+.bar{height:6px;border-radius:3px;background:var(--sunk);display:flex;overflow:hidden}
+.bar i{display:block;height:100%}
+.bar .l{background:var(--good)}.bar .p{background:var(--warn)}
+.chip{font-size:.72rem;font-weight:600;padding:2px 8px;border-radius:99px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
+.legend{display:flex;gap:14px;font-size:.78rem;color:var(--muted);flex-wrap:wrap}
+.legend i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:0}
+
+/* mode cards in section */
+.modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
+.mode{text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px;display:flex;flex-direction:column;gap:4px}
+.mode:hover{border-color:var(--muted)}
+.mode strong{font-size:1rem}
+.mode span{font-size:.85rem;color:var(--muted)}
+.mode.main{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.mode.main span{color:var(--accent-ink);opacity:.85}
+
+/* phrase list */
+.list{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.item{display:grid;grid-template-columns:1fr auto;gap:4px 10px;padding:12px 14px;border-top:1px solid var(--line);align-items:start}
+.item:first-child{border-top:0}
+.item .t{min-width:0}
+.item .en{font-weight:600}
+.item .ru{color:var(--muted);font-size:.92rem}
+.item .src{font-size:.75rem;color:var(--muted);margin-top:2px}
+.item .acts{display:flex;gap:2px;align-items:center}
+.lvl{font-size:.68rem;font-weight:700;letter-spacing:.05em;padding:1px 6px;border-radius:5px;border:1px solid var(--line);color:var(--muted);vertical-align:2px;margin-left:6px}
+.lvl.b1{border-color:var(--warn);color:var(--warn)}
+.star[aria-pressed="true"]{color:var(--accent)}
+.star[aria-pressed="true"] svg{fill:currentColor}
+mark{background:var(--warn-soft);color:inherit;border-radius:3px}
+
+/* flashcard */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:20px;display:flex;flex-direction:column;gap:16px;min-height:300px;cursor:pointer;box-shadow:0 1px 0 var(--line),0 12px 32px -18px rgb(19 27 45 / .35)}
+.card-top{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.pips{display:flex;gap:4px}
+.pips i{width:16px;height:5px;border-radius:3px;background:var(--sunk)}
+.pips i.on{background:var(--good)}
+.q{font-size:clamp(1.4rem,5vw,1.9rem);font-weight:600;line-height:1.25;letter-spacing:-.01em;text-wrap:balance}
+.ans{border-top:1px dashed var(--line);padding-top:14px;display:flex;flex-direction:column;gap:12px}
+.a{font-size:1.2rem;font-weight:500}
+.ex{background:var(--sunk);border-radius:12px;padding:10px 12px;font-size:.92rem;display:flex;flex-direction:column;gap:2px}
+.ex p{margin:0}
+.ex p::before{content:"— ";color:var(--muted)}
+.hint{margin-top:auto;font-size:.85rem;color:var(--muted);text-align:center}
+.speak-row{display:flex;gap:8px;flex-wrap:wrap}
+.speak{display:inline-flex;gap:6px;align-items:center;padding:7px 12px;border-radius:99px;background:var(--sunk);font-size:.85rem;font-weight:500}
+.speak:hover{background:var(--line)}
+.speak svg{width:16px;height:16px}
+.grade{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.grade button{padding:14px 6px;border-radius:14px;font-weight:600;display:flex;flex-direction:column;align-items:center;gap:2px;border:1px solid transparent}
+.grade small{font-weight:400;font-size:.72rem;opacity:.8}
+.g-bad{background:var(--accent-soft);color:var(--accent)}
+.g-mid{background:var(--warn-soft);color:var(--warn)}
+.g-good{background:var(--good-soft);color:var(--good)}
+.grade button:hover{border-color:currentColor}
+.kbd{font-size:.75rem;color:var(--muted);text-align:center}
+@media (hover:none){.kbd{display:none}}
+
+/* quiz */
+.qcard{background:var(--surface);border:1px solid var(--line);border-radius:20px;padding:20px;display:flex;flex-direction:column;gap:16px}
+.progress{height:4px;background:var(--sunk);border-radius:2px;overflow:hidden}
+.progress i{display:block;height:100%;background:var(--accent);transition:width .25s}
+.opts{display:flex;flex-direction:column;gap:8px}
+.opt{text-align:left;padding:13px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);font-weight:500}
+.opt:hover:not(:disabled){border-color:var(--muted)}
+.opt:disabled{cursor:default}
+.opt.right{background:var(--good-soft);border-color:var(--good);color:var(--good)}
+.opt.wrong{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+.slot{min-height:58px;border:1px dashed var(--line);border-radius:12px;padding:8px;display:flex;flex-wrap:wrap;gap:6px;align-content:flex-start}
+.slot.right{border-style:solid;border-color:var(--good);background:var(--good-soft)}
+.slot.wrong{border-style:solid;border-color:var(--accent);background:var(--accent-soft)}
+.bank{display:flex;flex-wrap:wrap;gap:6px}
+.word{padding:8px 12px;border-radius:10px;background:var(--sunk);font-weight:500;border:1px solid var(--line)}
+.word:hover{border-color:var(--muted)}
+.word.used{visibility:hidden}
+.feedback{font-size:.95rem;display:flex;flex-direction:column;gap:4px}
+.feedback .ok{color:var(--good);font-weight:600}
+.feedback .no{color:var(--accent);font-weight:600}
+.result{text-align:center;display:flex;flex-direction:column;gap:12px;align-items:center;padding-block:20px}
+.result .big{font-family:var(--font-display);font-size:3rem;font-weight:700;font-variant-numeric:tabular-nums}
+
+.search{width:100%;box-sizing:border-box;padding:13px 14px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink);font:inherit;font-size:1rem}
+.empty{text-align:center;padding:36px 16px;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:var(--r);display:flex;flex-direction:column;gap:10px;align-items:center}
+.empty strong{color:var(--ink);font-size:1.05rem}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:.9rem;z-index:20;max-width:calc(100% - 32px)}
+footer{font-size:.8rem;color:var(--muted);padding-block:0 32px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">Разговорник <b>A2</b></div>
+    <nav class="tabs" aria-label="Разделы приложения">
+      <button class="tab" data-act="nav" data-view="home">Темы</button>
+      <button class="tab" data-act="nav" data-view="search">Поиск</button>
+      <button class="tab" data-act="nav" data-view="favs">Избранное</button>
+    </nav>
+    <button class="icon-btn" id="themeBtn" data-act="theme" aria-label="Сменить тему"></button>
+  </div>
+</header>
+<main class="wrap" id="app" aria-live="polite"><p class="muted">Загружаю фразы…</p></main>
+<footer class="wrap" id="foot"></footer>
+<div class="toast" id="toast" hidden></div>
+<input type="file" id="fileIn" accept=".json,application/json" hidden>
+
+<script>
+(() => {
+const LS = 'phrasebook.v1.';
+const load = (k, d) => { try { const v = localStorage.getItem(LS + k); return v ? JSON.parse(v) : d; } catch (e) { return d; } };
+const save = (k, v) => { try { localStorage.setItem(LS + k, JSON.stringify(v)); } catch (e) {} };
+
+const DAY = 864e5;
+const INTERVALS = [0, 1, 3, 7, 16, 35, 90]; // days per box
+const LEARNED = 3;                            // box from which a phrase counts as learned
+const MAX_BOX = INTERVALS.length - 1;
+
+let DATA = null, ALL = [], BYSEC = {};
+let progress = load('progress', {});
+let favs = new Set(load('favs', []));
+let settings = Object.assign({ dir: 'en', theme: 'system' }, load('settings', {}));
+let view = { name: 'home' };
+let session = null;
+
+const $app = document.getElementById('app');
+const esc = s => String(s).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const shuffle = a => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+const plural = (n, one, few, many) => { const m10 = n % 10, m100 = n % 100; return m10 === 1 && m100 !== 11 ? one : m10 >= 2 && m10 <= 4 && (m100 < 10 || m100 >= 20) ? few : many; };
+
+const IC = {
+  speak: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5 6 9H3v6h3l5 4z"/><path d="M15.5 8.5a5 5 0 0 1 0 7"/><path d="M18.5 5.5a9 9 0 0 1 0 13"/></svg>',
+  star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1 6.2L12 17.3 6.5 20.2l1-6.2L3 9.6l6.2-.9z"/></svg>',
+  sun: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+  moon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"/></svg>',
+  auto: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5v17a8.5 8.5 0 0 0 0-17z" fill="currentColor"/></svg>',
+  back: '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M15 6l-6 6 6 6"/></svg>'
+};
+
+/* ---------- theme ---------- */
+function applyTheme() {
+  const root = document.documentElement;
+  if (settings.theme === 'system') root.removeAttribute('data-theme'); else root.setAttribute('data-theme', settings.theme);
+  const b = document.getElementById('themeBtn');
+  const label = { system: 'Тема: как в системе', light: 'Тема: светлая', dark: 'Тема: тёмная' }[settings.theme];
+  b.innerHTML = { system: IC.auto, light: IC.sun, dark: IC.moon }[settings.theme];
+  b.title = label; b.setAttribute('aria-label', label + '. Нажмите, чтобы сменить');
+}
+
+/* ---------- speech ---------- */
+let voice = null;
+function pickVoice() {
+  if (!('speechSynthesis' in window)) return;
+  const vs = speechSynthesis.getVoices();
+  const gb = vs.filter(v => /en[-_]GB/i.test(v.lang));
+  voice = gb.find(v => /Google UK|Serena|Kate|Daniel|Libby|Sonia|Ryan|Martha|Arthur/i.test(v.name)) || gb[0] || vs.find(v => /^en/i.test(v.lang)) || null;
+  renderFoot();
+}
+function speak(text, slow) {
+  if (!('speechSynthesis' in window)) { toast('Этот браузер не умеет озвучивать текст'); return; }
+  speechSynthesis.cancel();
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = 'en-GB'; if (voice) u.voice = voice;
+  u.rate = slow ? 0.7 : 0.95;
+  speechSynthesis.speak(u);
+}
+function renderFoot() {
+  const f = document.getElementById('foot');
+  let v = 'Озвучка недоступна в этом браузере.';
+  if ('speechSynthesis' in window) v = voice ? `Голос: ${esc(voice.name)}${/en[-_]GB/i.test(voice.lang) ? '' : ' (британский голос в системе не найден)'}` : 'Голос загружается…';
+  f.innerHTML = `${v} · Прогресс хранится только в этом браузере.`;
+}
+
+/* ---------- data ---------- */
+function ingest(json) {
+  if (!json || !Array.isArray(json.sections)) throw new Error('В файле нет списка sections');
+  DATA = json; ALL = []; BYSEC = {};
+  json.sections.forEach(s => {
+    BYSEC[s.id] = [];
+    (s.phrases || []).forEach(p => {
+      if (!p || !p.en || !p.ru) return;
+      const it = { key: s.id + '|' + p.en, sid: s.id, stitle: s.title, p };
+      ALL.push(it); BYSEC[s.id].push(it);
+    });
+  });
+}
+const secTitle = id => (DATA.sections.find(s => s.id === id) || {}).title || '';
+function deckOf(id) {
+  if (id === 'fav') return ALL.filter(x => favs.has(x.key));
+  if (id === 'all') return ALL;
+  return BYSEC[id] || [];
+}
+const deckTitle = id => id === 'fav' ? 'Избранное' : id === 'all' ? 'Все темы' : secTitle(id);
+function stats(deck) {
+  const now = Date.now(); let learned = 0, learning = 0, due = 0;
+  deck.forEach(x => { const p = progress[x.key]; if (!p) return; if (p.box >= LEARNED) learned++; else learning++; if (p.due <= now) due++; });
+  return { total: deck.length, learned, learning, due, fresh: deck.length - learned - learning };
+}
+
+/* ---------- spaced repetition ---------- */
+function rate(it, grade) {
+  const now = Date.now();
+  const p = progress[it.key] || { box: 0, due: 0, n: 0 };
+  if (grade === 'good') { p.box = Math.min(p.box + 1, MAX_BOX); p.due = now + INTERVALS[p.box] * DAY; }
+  else if (grade === 'mid') { p.box = Math.max(p.box - 1, 0); p.due = now + 10 * 60e3; }
+  else { p.box = 0; p.due = now + 60e3; }
+  p.n = (p.n || 0) + 1;
+  progress[it.key] = p; save('progress', progress);
+}
+function nextCard(deck, lastKey, extra) {
+  const now = Date.now();
+  const due = deck.filter(x => progress[x.key] && progress[x.key].due <= now && x.key !== lastKey)
+                  .sort((a, b) => progress[a.key].due - progress[b.key].due);
+  if (due.length) return due[0];
+  const fresh = deck.find(x => !progress[x.key] && x.key !== lastKey);
+  if (fresh) return fresh;
+  const last = deck.find(x => x.key === lastKey);
+  if (last && progress[last.key] && progress[last.key].due <= now) return last;
+  if (extra) { // "practise anyway": weakest first, a bit of randomness
+    const pool = shuffle(deck.filter(x => x.key !== lastKey)).sort((a, b) => (progress[a.key]?.box || 0) - (progress[b.key]?.box || 0));
+    return pool[0] || deck[0] || null;
+  }
+  return null;
+}
+const weakest = (deck, n) => shuffle(deck).sort((a, b) => (progress[a.key]?.box ?? -1) - (progress[b.key]?.box ?? -1)).slice(0, n);
+
+/* ---------- shared bits ---------- */
+const lvl = l => `<span class="lvl ${l === 'B1' ? 'b1' : ''}">${esc(l || 'A2')}</span>`;
+const starBtn = key => `<button class="icon-btn star" data-act="fav" data-key="${esc(key)}" aria-pressed="${favs.has(key)}" aria-label="${favs.has(key) ? 'Убрать из избранного' : 'В избранное'}">${IC.star}</button>`;
+const speakBtn = (it, label) => `<button class="${label ? 'speak' : 'icon-btn'}" data-act="speak" data-key="${esc(it.key)}" aria-label="Послушать">${IC.speak}${label ? 'Слушать' : ''}</button>`;
+const exLines = ex => ex ? `<div class="ex">${ex.split(' / ').map(l => `<p>${esc(l)}</p>`).join('')}</div>` : '';
+function bar(s) {
+  if (!s.total) return '<div class="bar"></div>';
+  return `<div class="bar" aria-hidden="true"><i class="l" style="width:${s.learned / s.total * 100}%"></i><i class="p" style="width:${s.learning / s.total * 100}%"></i></div>`;
+}
+function itemRow(it, opts = {}) {
+  const hl = t => opts.q ? esc(t).replace(opts.re, m => `<mark>${m}</mark>`) : esc(t);
+  return `<div class="item"><div class="t"><div class="en">${hl(it.p.en)}${lvl(it.p.lvl)}</div><div class="ru">${hl(it.p.ru)}</div>${opts.src ? `<div class="src">${esc(it.stitle)}</div>` : ''}</div>
+    <div class="acts">${speakBtn(it)}${starBtn(it.key)}</div></div>`;
+}
+const backBtn = (to, label) => `<button class="back" data-act="go" data-to='${esc(JSON.stringify(to))}'>${IC.back}${esc(label)}</button>`;
+function toast(msg) { const t = document.getElementById('toast'); t.textContent = msg; t.hidden = false; clearTimeout(toast.t); toast.t = setTimeout(() => t.hidden = true, 2200); }
+function dirSeg() {
+  return `<div class="seg" role="group" aria-label="Направление">
+    <button data-act="dir" data-dir="en" aria-pressed="${settings.dir === 'en'}">EN → RU</button>
+    <button data-act="dir" data-dir="ru" aria-pressed="${settings.dir === 'ru'}">RU → EN</button></div>`;
+}
+
+/* ---------- views ---------- */
+function go(v) {
+  if (v.name !== 'cards' && v.name !== 'mc' && v.name !== 'build') session = null;
+  view = v; render(); window.scrollTo(0, 0);
+}
+function render() {
+  document.querySelectorAll('.tab').forEach(t => {
+    const tabView = { home: 'home', section: 'home', cards: 'home', mc: 'home', build: 'home', search: 'search', favs: 'favs' }[view.name];
+    t.setAttribute('aria-current', t.dataset.view === tabView);
+  });
+  if (!DATA) return;
+  ({ home: vHome, section: vSection, cards: vCards, mc: vMC, build: vBuild, search: vSearch, favs: vFavs })[view.name]();
+}
+
+function vHome() {
+  const s = stats(ALL);
+  const filled = DATA.sections.filter(x => BYSEC[x.id].length).length;
+  $app.innerHTML = `
+    <div style="display:flex;flex-direction:column;gap:6px">
+      <div class="eyebrow">Английский для уровня Pre-Intermediate</div>
+      <h1 class="h1">Фразы, которые говорят каждый день</h1>
+      <p class="muted" style="margin:0">${filled} из ${DATA.sections.length} тем заполнены · ${ALL.length} ${plural(ALL.length, 'фраза', 'фразы', 'фраз')} · британское произношение</p>
+    </div>
+    <div class="summary">
+      <div><strong>${s.learned}</strong><span>выучено</span></div>
+      <div><strong>${s.learning}</strong><span>в процессе</span></div>
+      <div><strong>${s.due}</strong><span>пора повторить</span></div>
+    </div>
+    ${s.due ? `<button class="btn primary" data-act="go" data-to='{"name":"cards","deck":"all"}'>Повторить ${s.due} ${plural(s.due, 'фразу', 'фразы', 'фраз')} из всех тем</button>` : ''}
+    <div style="display:flex;flex-direction:column;gap:10px">
+      <div class="row" style="justify-content:space-between"><h2 class="eyebrow">Темы</h2>
+        <div class="legend"><span><i style="background:var(--good)"></i>выучено</span><span><i style="background:var(--warn)"></i>в процессе</span></div></div>
+      <div class="grid">${DATA.sections.map(sec => {
+        const d = BYSEC[sec.id], st = stats(d);
+        if (!d.length) return `<button class="tile" disabled><h3 class="muted">${esc(sec.title)}</h3><div class="meta"><span>Скоро: фразы ещё не добавлены</span></div></button>`;
+        return `<button class="tile" data-act="go" data-to='${esc(JSON.stringify({ name: 'section', id: sec.id }))}'>
+          <div class="row" style="justify-content:space-between;align-items:flex-start;flex-wrap:nowrap"><h3>${esc(sec.title)}</h3>${st.due ? `<span class="chip">${st.due} к повтору</span>` : ''}</div>
+          ${bar(st)}
+          <div class="meta"><span>${st.learned} / ${st.total} выучено</span><span>${st.fresh} новых</span></div></button>`;
+      }).join('')}</div>
+    </div>`;
+}
+
+function vSection() {
+  const id = view.id, d = deckOf(id), st = stats(d);
+  const show = view.limit || 40;
+  const levels = { A2: d.filter(x => x.p.lvl !== 'B1').length, B1: d.filter(x => x.p.lvl === 'B1').length };
+  $app.innerHTML = `
+    ${backBtn({ name: 'home' }, 'Все темы')}
+    <div style="display:flex;flex-direction:column;gap:8px">
+      <h1 class="h1">${esc(deckTitle(id))}</h1>
+      <p class="muted" style="margin:0">${st.total} ${plural(st.total, 'фраза', 'фразы', 'фраз')}: ${levels.A2} уровня A2, ${levels.B1} уровня B1 · выучено ${st.learned}</p>
+      ${bar(st)}
+    </div>
+    <div class="modes">
+      <button class="mode main" data-act="go" data-to='${esc(JSON.stringify({ name: 'cards', deck: id }))}'><strong>Карточки</strong><span>${st.due ? `${st.due} к повтору, ` : ''}${st.fresh} новых</span></button>
+      <button class="mode" data-act="go" data-to='${esc(JSON.stringify({ name: 'mc', deck: id }))}'><strong>Тест: перевод</strong><span>10 вопросов, 4 варианта</span></button>
+      <button class="mode" data-act="go" data-to='${esc(JSON.stringify({ name: 'build', deck: id }))}'><strong>Тест: собери фразу</strong><span>Расставь слова по порядку</span></button>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:10px">
+      <h2 class="eyebrow">Все фразы темы</h2>
+      <div class="list">${d.slice(0, show).map(it => itemRow(it)).join('')}</div>
+      ${d.length > show ? `<button class="btn" data-act="more">Показать ещё ${Math.min(40, d.length - show)} из ${d.length - show}</button>` : ''}
+    </div>`;
+}
+
+function vCards() {
+  const deck = deckOf(view.deck);
+  if (!session) session = { deck: view.deck, cur: null, last: null, flipped: false, done: 0, extra: false };
+  if (!session.cur) session.cur = nextCard(deck, session.last, session.extra);
+  const it = session.cur, st = stats(deck);
+  const head = `${backBtn(view.deck === 'all' || view.deck === 'fav' ? { name: view.deck === 'fav' ? 'favs' : 'home' } : { name: 'section', id: view.deck }, deckTitle(view.deck))}
+    <div class="row" style="justify-content:space-between"><div class="muted" style="font-size:.9rem">Сегодня: ${session.done} · к повтору ${st.due} · новых ${st.fresh}</div>${dirSeg()}</div>`;
+  if (!it) {
+    $app.innerHTML = head + `<div class="empty"><strong>${deck.length ? 'На сегодня всё повторено' : 'Здесь пока пусто'}</strong>
+      <span>${deck.length ? 'Следующие фразы станут доступны по расписанию повторений. Можно потренироваться дополнительно — начнём с самых трудных.' : 'Добавьте фразы в избранное звёздочкой.'}</span>
+      ${deck.length ? '<button class="btn primary" data-act="extra">Тренироваться ещё</button>' : ''}</div>`;
+    return;
+  }
+  const front = settings.dir === 'en' ? it.p.en : it.p.ru;
+  const backTxt = settings.dir === 'en' ? it.p.ru : it.p.en;
+  const box = progress[it.key]?.box || 0;
+  const speakers = `<div class="speak-row">${speakBtn(it, true)}<button class="speak" data-act="speak" data-key="${esc(it.key)}" data-slow="1">Медленно</button></div>`;
+  $app.innerHTML = head + `
+    <div class="card" data-act="flip" role="button" tabindex="0" aria-label="Карточка. Нажмите, чтобы ${session.flipped ? 'скрыть' : 'показать'} ответ">
+      <div class="card-top">
+        <div class="row" style="gap:8px">${lvl(it.p.lvl)}<span class="muted" style="font-size:.8rem">${progress[it.key] ? 'повторение' : 'новая'}</span></div>
+        <div class="row" style="gap:6px"><div class="pips" title="Уровень запоминания: ${box} из ${MAX_BOX}">${Array.from({ length: MAX_BOX }, (_, i) => `<i class="${i < box ? 'on' : ''}"></i>`).join('')}</div>${starBtn(it.key)}</div>
+      </div>
+      <div class="q">${esc(front)}</div>
+      ${settings.dir === 'en' ? speakers : ''}
+      ${session.flipped ? `<div class="ans"><div class="a">${esc(backTxt)}</div>${settings.dir === 'ru' ? speakers : ''}${exLines(it.p.ex)}</div>` : '<div class="hint">Вспомните перевод и нажмите на карточку</div>'}
+    </div>
+    ${session.flipped ? `<div class="grade">
+      <button class="g-bad" data-act="grade" data-g="bad">Не знаю<small>через минуту</small></button>
+      <button class="g-mid" data-act="grade" data-g="mid">Не уверен<small>через 10 мин</small></button>
+      <button class="g-good" data-act="grade" data-g="good">Знаю<small>через ${INTERVALS[Math.min(box + 1, MAX_BOX)]} ${plural(INTERVALS[Math.min(box + 1, MAX_BOX)], 'день', 'дня', 'дней')}</small></button>
+    </div><div class="kbd">Клавиши: 1, 2, 3 — оценка · пробел — перевернуть · P — послушать</div>` : '<div class="kbd">Пробел — перевернуть карточку · P — послушать</div>'}`;
+}
+
+/* quiz: choose translation */
+function vMC() {
+  const deck = deckOf(view.deck);
+  const backTo = view.deck === 'fav' ? { name: 'favs' } : { name: 'section', id: view.deck };
+  if (!session) {
+    const pool = deck.length >= 4 ? deck : ALL;
+    const qs = weakest(deck, 10).map(it => {
+      const field = settings.dir === 'en' ? 'ru' : 'en';
+      const others = shuffle(pool.filter(x => x.key !== it.key && x.p[field] !== it.p[field])).slice(0, 3);
+      return { it, opts: shuffle([it, ...others]) };
+    });
+    session = { qs, i: 0, score: 0, picked: null, dir: settings.dir };
+  }
+  const S = session;
+  if (!S.qs.length) { $app.innerHTML = backBtn(backTo, deckTitle(view.deck)) + '<div class="empty"><strong>Нет фраз для теста</strong></div>'; return; }
+  if (S.i >= S.qs.length) return resultView(S.score, S.qs.length, backTo);
+  const q = S.qs[S.i], showF = S.dir === 'en' ? 'en' : 'ru', ansF = S.dir === 'en' ? 'ru' : 'en';
+  $app.innerHTML = `${backBtn(backTo, deckTitle(view.deck))}
+    <div class="qcard">
+      <div class="row" style="justify-content:space-between"><span class="eyebrow">Вопрос ${S.i + 1} из ${S.qs.length}</span><span class="muted" style="font-size:.9rem">Верно: ${S.score}</span></div>
+      <div class="progress"><i style="width:${S.i / S.qs.length * 100}%"></i></div>
+      <div class="muted" style="font-size:.9rem">Выберите правильный перевод</div>
+      <div class="q">${esc(q.it.p[showF])}</div>
+      ${S.dir === 'en' ? `<div class="speak-row">${speakBtn(q.it, true)}</div>` : ''}
+      <div class="opts">${q.opts.map((o, k) => {
+        let cls = '';
+        if (S.picked !== null) { if (o.key === q.it.key) cls = 'right'; else if (k === S.picked) cls = 'wrong'; }
+        return `<button class="opt ${cls}" data-act="pick" data-k="${k}" ${S.picked !== null ? 'disabled' : ''}>${esc(o.p[ansF])}</button>`;
+      }).join('')}</div>
+      ${S.picked !== null ? `${exLines(q.it.p.ex)}<button class="btn primary" data-act="nextq">${S.i + 1 < S.qs.length ? 'Дальше' : 'Результат'}</button>` : ''}
+    </div>`;
+}
+
+/* quiz: build the phrase */
+const norm = s => s.toLowerCase().replace(/[’‘]/g, "'").replace(/[.,!?;:"«»—]/g, '').replace(/\s+/g, ' ').trim();
+function vBuild() {
+  const deck = deckOf(view.deck);
+  const backTo = view.deck === 'fav' ? { name: 'favs' } : { name: 'section', id: view.deck };
+  if (!session) {
+    const fit = deck.filter(x => { const n = x.p.en.split(/\s+/).length; return n >= 3 && n <= 10; });
+    const qs = weakest(fit, 10).map(it => ({ it, words: shuffle(it.p.en.split(/\s+/).map((w, i) => ({ w: w.replace(/[.,!?]+$/, ''), i }))) }));
+    session = { qs, i: 0, score: 0, chosen: [], checked: null };
+  }
+  const S = session;
+  if (!S.qs.length) { $app.innerHTML = backBtn(backTo, deckTitle(view.deck)) + '<div class="empty"><strong>Нет подходящих фраз</strong><span>Для этого теста нужны фразы из 3–10 слов.</span></div>'; return; }
+  if (S.i >= S.qs.length) return resultView(S.score, S.qs.length, backTo);
+  const q = S.qs[S.i];
+  $app.innerHTML = `${backBtn(backTo, deckTitle(view.deck))}
+    <div class="qcard">
+      <div class="row" style="justify-content:space-between"><span class="eyebrow">Фраза ${S.i + 1} из ${S.qs.length}</span><span class="muted" style="font-size:.9rem">Верно: ${S.score}</span></div>
+      <div class="progress"><i style="width:${S.i / S.qs.length * 100}%"></i></div>
+      <div class="muted" style="font-size:.9rem">Соберите по-английски</div>
+      <div class="q">${esc(q.it.p.ru)}</div>
+      <div class="slot ${S.checked === null ? '' : S.checked ? 'right' : 'wrong'}" aria-label="Ваш ответ">${S.chosen.map((wi, pos) => `<button class="word" data-act="unword" data-pos="${pos}" ${S.checked !== null ? 'disabled' : ''}>${esc(q.words[wi].w)}</button>`).join('') || '<span class="muted" style="padding:8px">Нажимайте на слова ниже</span>'}</div>
+      <div class="bank">${q.words.map((w, wi) => `<button class="word ${S.chosen.includes(wi) ? 'used' : ''}" data-act="word" data-wi="${wi}" ${S.checked !== null ? 'disabled' : ''}>${esc(w.w)}</button>`).join('')}</div>
+      ${S.checked === null
+        ? `<div class="row"><button class="btn primary" data-act="check" ${S.chosen.length ? '' : 'disabled'}>Проверить</button><button class="btn" data-act="clearw" ${S.chosen.length ? '' : 'disabled'}>Сбросить</button></div>`
+        : `<div class="feedback">${S.checked ? '<span class="ok">Верно!</span>' : '<span class="no">Не совсем. Правильно:</span>'}<strong>${esc(q.it.p.en)}</strong></div>
+           <div class="speak-row">${speakBtn(q.it, true)}</div>
+           <button class="btn primary" data-act="nextb">${S.i + 1 < S.qs.length ? 'Дальше' : 'Результат'}</button>`}
+    </div>`;
+}
+
+function resultView(score, total, backTo) {
+  const pct = score / total;
+  $app.innerHTML = `${backBtn(backTo, deckTitle(view.deck))}
+    <div class="qcard result">
+      <div class="eyebrow">Результат</div>
+      <div class="big">${score}/${total}</div>
+      <p class="muted" style="margin:0">${pct === 1 ? 'Отлично, без ошибок.' : pct >= .7 ? 'Хороший результат. Ошибки вернутся в карточках раньше.' : 'Фразы с ошибками будут чаще попадаться в карточках.'}</p>
+      <div class="row" style="justify-content:center"><button class="btn primary" data-act="again">Ещё раз</button><button class="btn" data-act="go" data-to='${esc(JSON.stringify(backTo))}'>К теме</button></div>
+    </div>`;
+}
+
+function vSearch() {
+  const q = view.q || '';
+  $app.innerHTML = `<div style="display:flex;flex-direction:column;gap:8px"><h1 class="h1">Поиск</h1>
+      <input class="search" id="q" type="search" placeholder="Слово по-английски или по-русски" value="${esc(q)}" autocomplete="off"></div>
+    <div id="res"></div>`;
+  const inp = document.getElementById('q');
+  inp.addEventListener('input', () => { view.q = inp.value; renderResults(); });
+  renderResults();
+  if (!('ontouchstart' in window)) inp.focus();
+}
+function renderResults() {
+  const box = document.getElementById('res'), raw = (view.q || '').trim();
+  if (raw.length < 2) { box.innerHTML = `<p class="muted" style="margin:0">Введите хотя бы 2 буквы. Ищем по ${ALL.length} ${plural(ALL.length, 'фразе', 'фразам', 'фразам')} во всех темах.</p>`; return; }
+  const n = s => s.toLowerCase().replace(/ё/g, 'е');
+  const nq = n(raw);
+  const hits = ALL.filter(x => n(x.p.en).includes(nq) || n(x.p.ru).includes(nq));
+  const re = new RegExp(raw.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/[её]/gi, '[её]'), 'gi');
+  box.innerHTML = hits.length
+    ? `<div style="display:flex;flex-direction:column;gap:8px"><span class="muted" style="font-size:.9rem">Найдено: ${hits.length}${hits.length > 100 ? ', показаны первые 100' : ''}</span>
+       <div class="list">${hits.slice(0, 100).map(it => itemRow(it, { src: true, q: raw, re })).join('')}</div></div>`
+    : `<div class="empty"><strong>Ничего не нашлось</strong><span>Попробуйте другое слово или его начало, например «book» вместо «booking».</span></div>`;
+}
+
+function vFavs() {
+  const d = deckOf('fav');
+  $app.innerHTML = `<div style="display:flex;flex-direction:column;gap:6px"><h1 class="h1">Избранное</h1>
+      <p class="muted" style="margin:0">${d.length ? `${d.length} ${plural(d.length, 'фраза', 'фразы', 'фраз')}` : 'Отмечайте звёздочкой фразы, которые хотите выучить в первую очередь.'}</p></div>
+    ${d.length ? `<div class="modes">
+      <button class="mode main" data-act="go" data-to='{"name":"cards","deck":"fav"}'><strong>Карточки</strong><span>Только избранные фразы</span></button>
+      <button class="mode" data-act="go" data-to='{"name":"mc","deck":"fav"}'><strong>Тест: перевод</strong><span>4 варианта ответа</span></button>
+      <button class="mode" data-act="go" data-to='{"name":"build","deck":"fav"}'><strong>Тест: собери фразу</strong><span>Расставь слова</span></button></div>
+      <div class="list">${d.map(it => itemRow(it, { src: true })).join('')}</div>`
+    : `<div class="empty"><strong>Пока ничего нет</strong><span>Звёздочка есть на каждой карточке и в каждом списке фраз.</span><button class="btn" data-act="nav" data-view="home">Перейти к темам</button></div>`}`;
+}
+
+/* ---------- events ---------- */
+const byKey = k => ALL.find(x => x.key === k);
+document.addEventListener('click', e => {
+  const el = e.target.closest('[data-act]'); if (!el) return;
+  const act = el.dataset.act;
+  if (act !== 'flip') e.stopPropagation();
+  switch (act) {
+    case 'nav': go({ name: el.dataset.view }); break;
+    case 'go': go(JSON.parse(el.dataset.to)); break;
+    case 'theme': settings.theme = { system: 'light', light: 'dark', dark: 'system' }[settings.theme]; save('settings', settings); applyTheme(); break;
+    case 'speak': { const it = byKey(el.dataset.key); if (it) speak(it.p.en, el.dataset.slow); break; }
+    case 'fav': {
+      const k = el.dataset.key; favs.has(k) ? favs.delete(k) : favs.add(k); save('favs', [...favs]);
+      toast(favs.has(k) ? 'Добавлено в избранное' : 'Убрано из избранного');
+      if (view.name === 'search') renderResults(); else render();
+      break;
+    }
+    case 'more': view.limit = (view.limit || 40) + 40; render(); break;
+    case 'dir':
+      settings.dir = el.dataset.dir; save('settings', settings);
+      if (session) session.flipped = false; render(); break;
+    case 'flip': if (e.target.closest('button')) return; session.flipped = !session.flipped; render(); break;
+    case 'grade': gradeCard(el.dataset.g); break;
+    case 'extra': session.extra = true; session.cur = null; render(); break;
+    case 'pick': {
+      const S = session, q = S.qs[S.i], k = +el.dataset.k; S.picked = k;
+      if (q.opts[k].key === q.it.key) S.score++; else demote(q.it);
+      render(); break;
+    }
+    case 'nextq': session.i++; session.picked = null; render(); break;
+    case 'word': session.chosen.push(+el.dataset.wi); render(); break;
+    case 'unword': session.chosen.splice(+el.dataset.pos, 1); render(); break;
+    case 'clearw': session.chosen = []; render(); break;
+    case 'check': {
+      const S = session, q = S.qs[S.i];
+      const ans = S.chosen.map(i => q.words[i].w).join(' ');
+      S.checked = norm(ans) === norm(q.it.p.en);
+      if (S.checked) S.score++; else demote(q.it);
+      render(); break;
+    }
+    case 'nextb': session.i++; session.chosen = []; session.checked = null; render(); break;
+    case 'again': session = null; render(); break;
+  }
+});
+function demote(it) { const p = progress[it.key]; if (p) { p.box = 0; p.due = Date.now(); save('progress', progress); } }
+function gradeCard(g) {
+  if (!session || !session.cur || !session.flipped) return;
+  rate(session.cur, g); session.done++;
+  session.last = session.cur.key; session.cur = null; session.flipped = false;
+  render();
+}
+document.addEventListener('keydown', e => {
+  if (view.name !== 'cards' || !session || e.target.matches('input') || e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.key === ' ' || e.key === 'Enter') { if (e.target.closest('button') && e.key === 'Enter') return; e.preventDefault(); if (session.cur) { session.flipped = !session.flipped; render(); } }
+  else if (session.flipped && ['1', '2', '3'].includes(e.key)) gradeCard({ 1: 'bad', 2: 'mid', 3: 'good' }[e.key]);
+  else if ((e.key === 'p' || e.key === 'з') && session.cur) speak(session.cur.p.en);
+});
+
+/* ---------- boot ---------- */
+function showLoader(err) {
+  $app.innerHTML = `<div class="empty"><strong>Не удалось загрузить фразы</strong>
+    <span>${esc(err)}. Если вы открыли файл с компьютера, браузер может запрещать чтение соседних файлов. Выберите файл phrases.json вручную.</span>
+    <button class="btn primary" data-act="pickfile">Выбрать phrases.json</button></div>`;
+}
+document.addEventListener('click', e => { if (e.target.closest('[data-act="pickfile"]')) document.getElementById('fileIn').click(); });
+document.getElementById('fileIn').addEventListener('change', e => {
+  const f = e.target.files[0]; if (!f) return;
+  const r = new FileReader();
+  r.onload = () => { try { ingest(JSON.parse(r.result)); render(); } catch (err) { showLoader('Файл не похож на phrases.json: ' + err.message); } };
+  r.readAsText(f);
+});
+
+applyTheme();
+renderFoot();
+if ('speechSynthesis' in window) { pickVoice(); speechSynthesis.addEventListener?.('voiceschanged', pickVoice); }
+render();
+fetch('phrases.json', { cache: 'no-cache' })
+  .then(r => { if (!r.ok) throw new Error('Ошибка ' + r.status); return r.json(); })
+  .then(j => { ingest(j); render(); })
+  .catch(err => showLoader(err.message || 'Ошибка сети'));
+})();
+</script>
+
+</body>
+</html>
