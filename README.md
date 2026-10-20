@@ -3,7 +3,7 @@
 Веб-приложение для изучения английских разговорных фраз на уровне Pre-Intermediate (A2).
 Работает в браузере на телефоне и компьютере, ничего устанавливать не нужно.
 
-Сайт: https://elmiraburkitova88-collab.github.io/razgovornik/
+Сайт: https://elmiraburkitova88-collab.github.io/Razgovornik/
 
 ## Что умеет
 
