@@ -4366,17 +4366,2192 @@
   {
    "id": "doctor",
    "title": "Врач и аптека",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "I'd like to make an appointment with a doctor.",
+     "ru": "Я хотел бы записаться к врачу.",
+     "ex": "I'd like to make an appointment with a doctor. / Is tomorrow at ten OK?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to see a GP.",
+     "ru": "Мне нужно к терапевту. (GP — врач общей практики, брит.)",
+     "ex": "I've had a cough for weeks. I need to see a GP.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you registered with a GP?",
+     "ru": "Вы прикреплены к врачу общей практики?",
+     "ex": "Are you registered with a GP? / No, I'm just visiting.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it urgent?",
+     "ru": "Это срочно?",
+     "ex": "I need to see a doctor. / Is it urgent? / Not really.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I get an appointment today?",
+     "ru": "Можно записаться на сегодня?",
+     "ex": "Can I get an appointment today? / Only at 5:40.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The earliest appointment is on Thursday.",
+     "ru": "Ближайшая запись — на четверг.",
+     "ex": "I'm sorry, the earliest appointment is on Thursday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you call me if there's a cancellation?",
+     "ru": "Позвоните мне, если кто-то отменит запись?",
+     "ex": "Thursday is too late. Can you call me if there's a cancellation?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a walk-in centre nearby?",
+     "ru": "Здесь есть клиника, куда можно прийти без записи?",
+     "ex": "I can't wait a week. Is there a walk-in centre nearby?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where is A&E?",
+     "ru": "Где отделение неотложной помощи? (A&E — брит.)",
+     "ex": "Excuse me, where is A&E? / Follow the red line.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Call 111 if it's not an emergency.",
+     "ru": "Если это не экстренный случай, звоните 111. (Британия)",
+     "ex": "Call 999 in an emergency. Call 111 if it's not an emergency.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What seems to be the problem?",
+     "ru": "Что вас беспокоит?",
+     "ex": "Come in. What seems to be the problem? / I've got a pain in my chest.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are your symptoms?",
+     "ru": "Какие у вас симптомы?",
+     "ex": "What are your symptoms? / A cough and a high temperature.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How long have you had these symptoms?",
+     "ru": "Как давно у вас эти симптомы?",
+     "ex": "How long have you had these symptoms? / About a week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been feeling unwell for a few days.",
+     "ru": "Я плохо себя чувствую уже несколько дней.",
+     "ex": "I've been feeling unwell for a few days, so I came in.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I haven't been feeling well lately.",
+     "ru": "В последнее время я неважно себя чувствую.",
+     "ex": "I haven't been feeling well lately. I'm always tired.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think I'm coming down with something.",
+     "ru": "Кажется, я заболеваю.",
+     "ex": "I think I'm coming down with something. My throat hurts.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've caught a cold.",
+     "ru": "Я простудился.",
+     "ex": "Why are you staying home? / I've caught a cold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got a terrible headache.",
+     "ru": "У меня ужасно болит голова.",
+     "ex": "I've got a terrible headache. Have you got any painkillers?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a sore throat.",
+     "ru": "У меня болит горло.",
+     "ex": "I've got a sore throat and I can't speak much.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a high temperature.",
+     "ru": "У меня высокая температура.",
+     "ex": "I've got a high temperature. It's 38.5.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a runny nose.",
+     "ru": "У меня насморк.",
+     "ex": "I've got a runny nose and I keep sneezing.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I keep sneezing.",
+     "ru": "Я всё время чихаю.",
+     "ex": "I keep sneezing. Maybe it's hay fever.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been coughing a lot.",
+     "ru": "Я сильно кашляю.",
+     "ex": "I've been coughing a lot, especially at night.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I feel dizzy.",
+     "ru": "У меня кружится голова.",
+     "ex": "I feel dizzy when I stand up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been sick twice this morning.",
+     "ru": "Меня дважды стошнило утром. (be sick — рвота, брит.)",
+     "ex": "I've been sick twice this morning. / Have you eaten anything unusual?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got a stomach ache.",
+     "ru": "У меня болит живот.",
+     "ex": "I've got a stomach ache after dinner.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got diarrhoea.",
+     "ru": "У меня диарея.",
+     "ex": "I've got diarrhoea. Is it something I ate?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've lost my appetite.",
+     "ru": "У меня пропал аппетит.",
+     "ex": "I've lost my appetite. I don't want to eat anything.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't sleep at night.",
+     "ru": "Я не могу спать по ночам.",
+     "ex": "I can't sleep at night because of the pain.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I feel tired all the time.",
+     "ru": "Я всё время чувствую усталость.",
+     "ex": "I feel tired all the time, even after eight hours' sleep.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It hurts here.",
+     "ru": "Болит вот здесь.",
+     "ex": "Where does it hurt? / It hurts here.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It hurts when I breathe.",
+     "ru": "Больно, когда я дышу.",
+     "ex": "It hurts when I breathe deeply.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a sharp pain.",
+     "ru": "Это острая боль.",
+     "ex": "What kind of pain is it? / It's a sharp pain.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's more of a dull ache.",
+     "ru": "Скорее ноющая боль.",
+     "ex": "Is it a sharp pain? / No, it's more of a dull ache.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The pain comes and goes.",
+     "ru": "Боль то появляется, то проходит.",
+     "ex": "Is the pain constant? / No, it comes and goes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's getting worse.",
+     "ru": "Становится хуже.",
+     "ex": "How's your knee? / It's getting worse.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a bit better than yesterday.",
+     "ru": "Немного лучше, чем вчера.",
+     "ex": "How do you feel? / It's a bit better than yesterday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've hurt my back.",
+     "ru": "Я повредил спину.",
+     "ex": "I've hurt my back. I can't lift anything.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think I've sprained my ankle.",
+     "ru": "Кажется, я растянул лодыжку.",
+     "ex": "I fell playing football. I think I've sprained my ankle.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've cut my finger.",
+     "ru": "Я порезал палец.",
+     "ex": "I've cut my finger. Have you got a plaster?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've burnt my hand.",
+     "ru": "Я обжёг руку.",
+     "ex": "I've burnt my hand on the oven.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My knee is swollen.",
+     "ru": "У меня опухло колено.",
+     "ex": "My knee is swollen and I can't walk properly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got a rash.",
+     "ru": "У меня сыпь.",
+     "ex": "I've got a rash on my arms. It's very itchy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been bitten by something.",
+     "ru": "Меня что-то укусило.",
+     "ex": "I've been bitten by something. Look, it's red.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you allergic to anything?",
+     "ru": "У вас есть на что-нибудь аллергия?",
+     "ex": "Are you allergic to anything? / Yes, to penicillin.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm allergic to penicillin.",
+     "ru": "У меня аллергия на пенициллин.",
+     "ex": "Before you give me anything, I'm allergic to penicillin.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have any other medical conditions?",
+     "ru": "У вас есть другие заболевания?",
+     "ex": "Do you have any other medical conditions? / I have asthma.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have asthma.",
+     "ru": "У меня астма.",
+     "ex": "I have asthma, so I always carry an inhaler.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm diabetic.",
+     "ru": "У меня диабет.",
+     "ex": "I'm diabetic. Is this medicine OK for me?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have high blood pressure.",
+     "ru": "У меня высокое давление.",
+     "ex": "I have high blood pressure, so I take tablets every day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you taking any medication?",
+     "ru": "Вы принимаете какие-нибудь лекарства?",
+     "ex": "Are you taking any medication? / Just vitamins.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm on antibiotics.",
+     "ru": "Я принимаю антибиотики.",
+     "ex": "Would you like some wine? / No, thanks. I'm on antibiotics.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm pregnant.",
+     "ru": "Я беременна.",
+     "ex": "Can I take this? I'm pregnant.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let me take your temperature.",
+     "ru": "Давайте измерим температуру.",
+     "ex": "Let me take your temperature. / It's 37.9.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to check your blood pressure.",
+     "ru": "Сейчас я измерю вам давление.",
+     "ex": "I'm going to check your blood pressure. Relax your arm.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you roll up your sleeve?",
+     "ru": "Закатайте рукав, пожалуйста.",
+     "ex": "Can you roll up your sleeve? / Sure.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Take a deep breath.",
+     "ru": "Сделайте глубокий вдох.",
+     "ex": "Take a deep breath... and out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Breathe in and hold it.",
+     "ru": "Вдохните и задержите дыхание.",
+     "ex": "Breathe in and hold it. OK, breathe out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Open your mouth and say \"ah\".",
+     "ru": "Откройте рот и скажите «а».",
+     "ex": "Open your mouth and say \"ah\". / Ahh.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Does it hurt when I press here?",
+     "ru": "Больно, когда я нажимаю здесь?",
+     "ex": "Does it hurt when I press here? / Yes, a lot!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Lie down on the bed, please.",
+     "ru": "Лягте на кушетку, пожалуйста.",
+     "ex": "Lie down on the bed, please. I need to check your stomach.",
+     "lvl": "A2"
+    },
+    {
+     "en": "You need a blood test.",
+     "ru": "Вам нужно сдать анализ крови.",
+     "ex": "You need a blood test. The nurse will do it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We'll need to do an X-ray.",
+     "ru": "Нужно будет сделать рентген.",
+     "ex": "It might be broken. We'll need to do an X-ray.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's nothing serious.",
+     "ru": "Ничего серьёзного.",
+     "ex": "Is it serious, doctor? / No, it's nothing serious.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's just a virus.",
+     "ru": "Это просто вирус.",
+     "ex": "Do I need antibiotics? / No, it's just a virus.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You've got an infection.",
+     "ru": "У вас инфекция.",
+     "ex": "You've got an infection, so I'll give you antibiotics.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You should stay in bed for a couple of days.",
+     "ru": "Вам стоит пару дней полежать в постели.",
+     "ex": "You've got flu. You should stay in bed for a couple of days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Drink plenty of water.",
+     "ru": "Пейте много воды.",
+     "ex": "Drink plenty of water and rest.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Get plenty of rest.",
+     "ru": "Побольше отдыхайте.",
+     "ex": "Get plenty of rest and don't go to work.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll give you a prescription.",
+     "ru": "Я выпишу вам рецепт.",
+     "ex": "I'll give you a prescription. Take it to any chemist.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Take one tablet three times a day.",
+     "ru": "Принимайте по одной таблетке три раза в день.",
+     "ex": "Take one tablet three times a day for a week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Take it after meals.",
+     "ru": "Принимайте после еды.",
+     "ex": "When should I take it? / Take it after meals.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Take it on an empty stomach.",
+     "ru": "Принимайте натощак.",
+     "ex": "Take it on an empty stomach, before breakfast.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Finish the whole course of antibiotics.",
+     "ru": "Пропейте весь курс антибиотиков.",
+     "ex": "Finish the whole course of antibiotics, even if you feel better.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are there any side effects?",
+     "ru": "Есть ли побочные эффекты?",
+     "ex": "Are there any side effects? / It might make you tired.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It might make you drowsy.",
+     "ru": "От этого может клонить в сон.",
+     "ex": "It might make you drowsy, so don't drive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't drink alcohol with these tablets.",
+     "ru": "Не пейте алкоголь с этими таблетками.",
+     "ex": "Don't drink alcohol with these tablets. / OK.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Come back if it doesn't get better.",
+     "ru": "Приходите снова, если не станет лучше.",
+     "ex": "Come back if it doesn't get better in a week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to refer you to a specialist.",
+     "ru": "Я направлю вас к специалисту.",
+     "ex": "I'm going to refer you to a specialist at the hospital.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm on a waiting list for an operation.",
+     "ru": "Я в очереди на операцию.",
+     "ex": "How's your knee? / Not great. I'm on a waiting list for an operation.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How long will it take to recover?",
+     "ru": "Сколько времени займёт выздоровление?",
+     "ex": "How long will it take to recover? / About two weeks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do I need to come back?",
+     "ru": "Мне нужно прийти ещё раз?",
+     "ex": "Do I need to come back? / Yes, in ten days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have a sick note?",
+     "ru": "Можно больничный? (sick note — справка для работы, брит.)",
+     "ex": "Can I have a sick note for my employer? / Yes, for one week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm off work sick.",
+     "ru": "Я на больничном.",
+     "ex": "Are you at work today? / No, I'm off work sick.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a late-night chemist near here?",
+     "ru": "Здесь есть аптека, которая работает допоздна?",
+     "ex": "It's 10 pm. Is there a late-night chemist near here?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I get this without a prescription?",
+     "ru": "Это можно купить без рецепта?",
+     "ex": "Can I get this without a prescription? / Yes, it's over the counter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You need a prescription for that.",
+     "ru": "На это нужен рецепт.",
+     "ex": "Can I have some antibiotics? / Sorry, you need a prescription for that.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to pick up a prescription.",
+     "ru": "Я хочу забрать лекарство по рецепту.",
+     "ex": "Hello, I'd like to pick up a prescription. / What's the name?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is my prescription ready?",
+     "ru": "Моё лекарство по рецепту готово?",
+     "ex": "Is my prescription ready? / Yes, here it is.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like something for a cold.",
+     "ru": "Мне что-нибудь от простуды.",
+     "ex": "I'd like something for a cold. / Try these.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Have you got anything for a headache?",
+     "ru": "У вас есть что-нибудь от головной боли?",
+     "ex": "Have you got anything for a headache? / Paracetamol or ibuprofen?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have anything for hay fever?",
+     "ru": "Есть что-нибудь от сенной лихорадки? (аллергия на пыльцу)",
+     "ex": "Do you have anything for hay fever? My eyes are so itchy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you recommend something for a cough?",
+     "ru": "Посоветуете что-нибудь от кашля?",
+     "ex": "Can you recommend something for a cough? / Is it dry or chesty?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it a dry cough or a chesty cough?",
+     "ru": "Кашель сухой или влажный? (chesty — брит.)",
+     "ex": "I need cough medicine. / Is it a dry cough or a chesty cough?",
+     "lvl": "B1"
+    },
+    {
+     "en": "A packet of paracetamol, please.",
+     "ru": "Упаковку парацетамола, пожалуйста.",
+     "ex": "A packet of paracetamol, please. / Sixteen tablets?",
+     "lvl": "A2"
+    },
+    {
+     "en": "How many should I take?",
+     "ru": "Сколько штук принимать?",
+     "ex": "How many should I take? / Two every four hours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How often should I take it?",
+     "ru": "Как часто это принимать?",
+     "ex": "How often should I take it? / Twice a day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I take it with ibuprofen?",
+     "ru": "Можно принимать вместе с ибупрофеном?",
+     "ex": "Can I take it with ibuprofen? / Yes, that's fine.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it safe for children?",
+     "ru": "Это безопасно для детей?",
+     "ex": "Is it safe for children? / Not for children under twelve.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it OK to take during pregnancy?",
+     "ru": "Это можно принимать при беременности?",
+     "ex": "Is it OK to take during pregnancy? / You should ask your doctor.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have any plasters?",
+     "ru": "У вас есть пластырь? (plaster — брит.)",
+     "ex": "Do you have any plasters? / Yes, in aisle two.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I need some eye drops.",
+     "ru": "Мне нужны глазные капли.",
+     "ex": "My eyes are dry. I need some eye drops.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you sell sun cream?",
+     "ru": "У вас продаётся солнцезащитный крем?",
+     "ex": "Do you sell sun cream? / Yes, factor 30 or 50?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got toothache.",
+     "ru": "У меня болит зуб. (брит. без артикля)",
+     "ex": "I've got toothache. I need a dentist.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I need an emergency dental appointment.",
+     "ru": "Мне нужно срочно к стоматологу.",
+     "ex": "I need an emergency dental appointment. The pain is terrible.",
+     "lvl": "B1"
+    },
+    {
+     "en": "One of my fillings has come out.",
+     "ru": "У меня выпала пломба.",
+     "ex": "One of my fillings has come out. Can you see me today?",
+     "lvl": "B1"
+    },
+    {
+     "en": "My gums are bleeding.",
+     "ru": "У меня кровоточат дёсны.",
+     "ex": "My gums are bleeding when I brush my teeth.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to have my eyes tested.",
+     "ru": "Мне нужно проверить зрение.",
+     "ex": "I can't read small words. I need to have my eyes tested.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've broken my glasses.",
+     "ru": "Я разбил очки.",
+     "ex": "I've broken my glasses. Can you repair them?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do I need to pay for this?",
+     "ru": "Мне нужно за это платить?",
+     "ex": "Do I need to pay for this? / Not with your insurance.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have travel insurance?",
+     "ru": "У вас есть туристическая страховка?",
+     "ex": "Do you have travel insurance? / Yes, here's the policy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have a copy of my medical report?",
+     "ru": "Можно копию медицинского заключения?",
+     "ex": "Can I have a copy of my medical report for my insurance?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been vaccinated.",
+     "ru": "Я привит.",
+     "ex": "Have you had the flu jab? / Yes, I've been vaccinated.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When was your last tetanus jab?",
+     "ru": "Когда вам последний раз делали прививку от столбняка? (jab — укол, брит.)",
+     "ex": "It's a deep cut. When was your last tetanus jab?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm scared of needles.",
+     "ru": "Я боюсь уколов.",
+     "ex": "Don't worry, it's quick. / I'm scared of needles.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You'll feel a little scratch.",
+     "ru": "Сейчас будет небольшой укол. (так говорят медсёстры в Британии)",
+     "ex": "OK, you'll feel a little scratch. All done!",
+     "lvl": "B1"
+    },
+    {
+     "en": "How are you feeling today?",
+     "ru": "Как вы себя сегодня чувствуете?",
+     "ex": "How are you feeling today? / Much better, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I feel much better, thanks.",
+     "ru": "Мне гораздо лучше, спасибо.",
+     "ex": "How's your cold? / I feel much better, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "You should see a doctor about that.",
+     "ru": "Тебе стоит показаться с этим врачу.",
+     "ex": "My back still hurts. / You should see a doctor about that.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I hope you feel better soon.",
+     "ru": "Надеюсь, тебе скоро станет лучше.",
+     "ex": "I've got flu. / Oh no! I hope you feel better soon.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Get well soon!",
+     "ru": "Выздоравливай!",
+     "ex": "I'm off sick today. / Get well soon!",
+     "lvl": "A2"
+    }
+   ]
   },
   {
    "id": "work",
    "title": "Работа и офис",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "I work in marketing.",
+     "ru": "Я работаю в маркетинге.",
+     "ex": "What do you do? / I work in marketing.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What does your job involve?",
+     "ru": "В чём заключается твоя работа?",
+     "ex": "What does your job involve? / Mostly talking to clients.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I deal with customer complaints.",
+     "ru": "Я занимаюсь жалобами клиентов.",
+     "ex": "What do you do there? / I deal with customer complaints.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm responsible for the budget.",
+     "ru": "Я отвечаю за бюджет.",
+     "ex": "Ask Anna. She's responsible for the budget.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm in charge of a small team.",
+     "ru": "Я руковожу небольшой командой.",
+     "ex": "I'm in charge of a small team of four designers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I report to the sales director.",
+     "ru": "Я подчиняюсь директору по продажам.",
+     "ex": "Who's your boss? / I report to the sales director.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been with the company for three years.",
+     "ru": "Я работаю в компании три года.",
+     "ex": "How long have you worked here? / I've been with the company for three years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I work nine to five.",
+     "ru": "Я работаю с девяти до пяти.",
+     "ex": "What are your hours? / I work nine to five.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I work flexible hours.",
+     "ru": "У меня гибкий график.",
+     "ex": "Can you start later? / Yes, I work flexible hours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I work part-time.",
+     "ru": "Я работаю неполный день.",
+     "ex": "Do you work every day? / No, I work part-time.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm self-employed.",
+     "ru": "Я работаю на себя.",
+     "ex": "Who do you work for? / Nobody. I'm self-employed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm between jobs at the moment.",
+     "ru": "Сейчас я в поиске работы.",
+     "ex": "What do you do? / I'm between jobs at the moment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm working from home today.",
+     "ru": "Сегодня я работаю из дома.",
+     "ex": "Are you coming to the office? / No, I'm working from home today.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm in the office on Tuesdays and Thursdays.",
+     "ru": "Я бываю в офисе по вторникам и четвергам.",
+     "ex": "When can we meet? / I'm in the office on Tuesdays and Thursdays.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We have a team meeting every Monday.",
+     "ru": "У нас каждый понедельник собрание команды.",
+     "ex": "We have a team meeting every Monday at ten.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's on the agenda today?",
+     "ru": "Что сегодня в повестке?",
+     "ex": "What's on the agenda today? / The budget and the new website.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you got a minute?",
+     "ru": "Есть минутка?",
+     "ex": "Have you got a minute? / Sure, what's up?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have a quick word?",
+     "ru": "Можно тебя на пару слов?",
+     "ex": "Can I have a quick word? / Of course, come in.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's set up a meeting.",
+     "ru": "Давай назначим встречу.",
+     "ex": "We need to talk about this. Let's set up a meeting.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you free on Monday morning?",
+     "ru": "Ты свободен в понедельник утром?",
+     "ex": "Are you free on Monday morning? / After ten, yes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Does Thursday at two work for you?",
+     "ru": "Тебе удобно в четверг в два?",
+     "ex": "Does Thursday at two work for you? / Perfect.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll send you an invite.",
+     "ru": "Я пришлю тебе приглашение (в календарь).",
+     "ex": "Thursday at two then. I'll send you an invite.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can we reschedule?",
+     "ru": "Можем перенести встречу?",
+     "ex": "Can we reschedule? I've got a doctor's appointment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Something's come up.",
+     "ru": "У меня кое-что случилось.",
+     "ex": "Sorry, I have to leave. Something's come up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm afraid I can't make it.",
+     "ru": "Боюсь, я не смогу прийти.",
+     "ex": "Are you coming to the meeting? / I'm afraid I can't make it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's get started.",
+     "ru": "Давайте начнём.",
+     "ex": "OK, everyone's here. Let's get started.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The aim of today's meeting is to discuss the budget.",
+     "ru": "Цель сегодняшней встречи — обсудить бюджет.",
+     "ex": "Good morning. The aim of today's meeting is to discuss the budget.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's move on to the next point.",
+     "ru": "Перейдём к следующему пункту.",
+     "ex": "Great. Let's move on to the next point.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's stick to the agenda.",
+     "ru": "Давайте придерживаться повестки.",
+     "ex": "That's interesting, but let's stick to the agenda.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you go over that again?",
+     "ru": "Можешь ещё раз пройтись по этому?",
+     "ex": "Sorry, could you go over that again? / Sure.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I just add something?",
+     "ru": "Можно я кое-что добавлю?",
+     "ex": "Can I just add something? / Go ahead.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry to interrupt, but we're running out of time.",
+     "ru": "Извините, что перебиваю, но у нас заканчивается время.",
+     "ex": "Sorry to interrupt, but we're running out of time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's discuss that later.",
+     "ru": "Давай обсудим это позже.",
+     "ex": "What about the new office? / Let's discuss that later.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who's taking the minutes?",
+     "ru": "Кто ведёт протокол?",
+     "ex": "Before we start, who's taking the minutes? / I will.",
+     "lvl": "B1"
+    },
+    {
+     "en": "So, to sum up, we need more time.",
+     "ru": "Итак, подводя итог: нам нужно больше времени.",
+     "ex": "So, to sum up, we need more time and more people.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Any other questions?",
+     "ru": "Есть ещё вопросы?",
+     "ex": "Any other questions? No? Thanks, everyone.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Just to clarify, the deadline is Friday?",
+     "ru": "Просто уточню: срок — пятница?",
+     "ex": "Just to clarify, the deadline is Friday? / Yes, end of the day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you clarify what you mean?",
+     "ru": "Можете уточнить, что вы имеете в виду?",
+     "ex": "We need to change our approach. / Could you clarify what you mean?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can we go through this together?",
+     "ru": "Можем пройтись по этому вместе?",
+     "ex": "I don't understand this report. Can we go through this together?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll send you the details by email.",
+     "ru": "Я пришлю подробности по почте.",
+     "ex": "I'll send you the details by email after the meeting.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you send me the report?",
+     "ru": "Можешь прислать мне отчёт?",
+     "ex": "Could you send me the report before Friday? / Sure.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you copy me in?",
+     "ru": "Поставь меня в копию. (copy in — брит.)",
+     "ex": "I'm writing to the client. / Can you copy me in?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Please find the report attached.",
+     "ru": "Отчёт во вложении. (в письме)",
+     "ex": "Dear Mr Lee, please find the report attached.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry for the late reply.",
+     "ru": "Извините за поздний ответ.",
+     "ex": "Hi Tom, sorry for the late reply. I was on holiday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thanks for getting back to me.",
+     "ru": "Спасибо, что ответил.",
+     "ex": "Hi Sarah, thanks for getting back to me so quickly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I look forward to hearing from you.",
+     "ru": "Жду вашего ответа. (в конце письма)",
+     "ex": "Thank you for your help. I look forward to hearing from you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Kind regards.",
+     "ru": "С уважением. (подпись в письме)",
+     "ex": "Kind regards, Elena Petrova",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll get back to you on that.",
+     "ru": "Я вернусь к тебе с ответом.",
+     "ex": "How much will it cost? / I'm not sure. I'll get back to you on that.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll look into it.",
+     "ru": "Я разберусь.",
+     "ex": "The client says the invoice is wrong. / I'll look into it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Leave it with me.",
+     "ru": "Предоставь это мне. / Я займусь.",
+     "ex": "Can you find a hotel for the conference? / Leave it with me.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll keep you posted.",
+     "ru": "Буду держать тебя в курсе.",
+     "ex": "Any news from the client? / Not yet. I'll keep you posted.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you keep me in the loop?",
+     "ru": "Держи меня в курсе, пожалуйста.",
+     "ex": "Could you keep me in the loop on the project?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's touch base next week.",
+     "ru": "Давай сверимся на следующей неделе.",
+     "ex": "Let's touch base next week and see how it's going.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the deadline?",
+     "ru": "Какой срок сдачи?",
+     "ex": "What's the deadline for the report? / Next Wednesday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When do you need it by?",
+     "ru": "К какому сроку это нужно?",
+     "ex": "I can do it. When do you need it by? / Tomorrow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need it by the end of the day.",
+     "ru": "Мне это нужно до конца дня.",
+     "ex": "Sorry, it's urgent. I need it by the end of the day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have until Monday?",
+     "ru": "Можно до понедельника?",
+     "ex": "The report isn't ready. Can I have until Monday?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll finish it by Friday.",
+     "ru": "Я закончу к пятнице.",
+     "ex": "When will it be ready? / I'll finish it by Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll do it first thing tomorrow.",
+     "ru": "Я сделаю это завтра с самого утра.",
+     "ex": "Can you call the client? / I'll do it first thing tomorrow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're behind schedule.",
+     "ru": "Мы отстаём от графика.",
+     "ex": "We're behind schedule. We need more people.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're on track.",
+     "ru": "Мы идём по плану.",
+     "ex": "How's the project? / Good, we're on track.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How's the project going?",
+     "ru": "Как продвигается проект?",
+     "ex": "How's the project going? / Slowly, but well.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's going well.",
+     "ru": "Всё идёт хорошо.",
+     "ex": "How's the new job? / It's going well, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We've hit a problem.",
+     "ru": "Мы столкнулись с проблемой.",
+     "ex": "We've hit a problem with the new software.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We need to find a solution.",
+     "ru": "Нам нужно найти решение.",
+     "ex": "The client is unhappy. We need to find a solution.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do you suggest?",
+     "ru": "Что ты предлагаешь?",
+     "ex": "We can't finish on time. / What do you suggest?",
+     "lvl": "B1"
+    },
+    {
+     "en": "How about we split the work?",
+     "ru": "Может, разделим работу?",
+     "ex": "This is too much for one person. How about we split the work?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's brainstorm some ideas.",
+     "ru": "Давайте накидаем идей.",
+     "ex": "We need a name for the product. Let's brainstorm some ideas.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The client wants some changes.",
+     "ru": "Клиент хочет кое-что изменить.",
+     "ex": "Bad news. The client wants some changes to the design.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you double-check the figures?",
+     "ru": "Можешь перепроверить цифры?",
+     "ex": "Could you double-check the figures before we send it?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm afraid I've made a mistake in the report.",
+     "ru": "Боюсь, я допустил ошибку в отчёте.",
+     "ex": "I'm afraid I've made a mistake in the report. I'll fix it now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It won't happen again.",
+     "ru": "Это больше не повторится.",
+     "ex": "You were late again. / I'm sorry. It won't happen again.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who's responsible for this?",
+     "ru": "Кто за это отвечает?",
+     "ex": "The website is down. Who's responsible for this?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who should I talk to about this?",
+     "ru": "С кем мне поговорить об этом?",
+     "ex": "My laptop is broken. Who should I talk to about this?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll ask my manager.",
+     "ru": "Я спрошу у своего руководителя.",
+     "ex": "Can I have a discount? / I'll ask my manager.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm really busy this week.",
+     "ru": "На этой неделе я очень занят.",
+     "ex": "Can you help with this? / Sorry, I'm really busy this week.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm snowed under at the moment.",
+     "ru": "У меня сейчас завал.",
+     "ex": "Can you take this project? / Sorry, I'm snowed under at the moment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got a lot on my plate.",
+     "ru": "У меня много дел.",
+     "ex": "You look stressed. / I've got a lot on my plate right now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you give me a hand with this?",
+     "ru": "Поможешь мне с этим?",
+     "ex": "Can you give me a hand with this? It's heavy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you help me out?",
+     "ru": "Не мог бы ты меня выручить?",
+     "ex": "I can't finish this on time. Could you help me out?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm covering for Sarah this week.",
+     "ru": "На этой неделе я замещаю Сару.",
+     "ex": "Where's Sarah? / She's on holiday. I'm covering for Sarah this week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who's covering for you?",
+     "ru": "Кто тебя замещает?",
+     "ex": "I'm off next week. / Who's covering for you?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm off next week.",
+     "ru": "На следующей неделе меня не будет. (отпуск или выходные)",
+     "ex": "I'm off next week, so ask Mike.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm out of the office until Monday.",
+     "ru": "Меня не будет в офисе до понедельника.",
+     "ex": "I'm out of the office until Monday. For urgent matters, call Anna.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I take Friday off?",
+     "ru": "Можно мне взять выходной в пятницу?",
+     "ex": "Can I take Friday off? It's my sister's wedding.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's in a meeting.",
+     "ru": "Она на совещании.",
+     "ex": "Can I speak to Ms Clark? / She's in a meeting.",
+     "lvl": "A2"
+    },
+    {
+     "en": "He's not at his desk.",
+     "ru": "Его нет на месте.",
+     "ex": "Is Tom there? / He's not at his desk right now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How do I book a meeting room?",
+     "ru": "Как забронировать переговорную?",
+     "ex": "How do I book a meeting room? / Use the calendar.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is this meeting room free?",
+     "ru": "Эта переговорная свободна?",
+     "ex": "Is this meeting room free? / Until three, yes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The printer isn't working again.",
+     "ru": "Принтер опять не работает.",
+     "ex": "The printer isn't working again! / Turn it off and on.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you print this for me?",
+     "ru": "Можешь распечатать мне это?",
+     "ex": "My printer is broken. Could you print this for me?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll set up a video call.",
+     "ru": "Я организую видеозвонок.",
+     "ex": "The client is in Berlin. I'll set up a video call.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can everyone hear me?",
+     "ru": "Всем меня слышно?",
+     "ex": "Hi, can everyone hear me? / Yes, loud and clear.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You're on mute.",
+     "ru": "У тебя выключен микрофон.",
+     "ex": "Sorry, Tom, you're on mute. / Oh! Can you hear me now?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you share your screen?",
+     "ru": "Можешь показать свой экран?",
+     "ex": "Can you share your screen? / Sure, one second.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Shall we grab lunch?",
+     "ru": "Пойдём пообедаем?",
+     "ex": "It's one o'clock. Shall we grab lunch? / Good idea.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to make a coffee. Do you want one?",
+     "ru": "Я пойду сделаю кофе. Тебе сделать?",
+     "ex": "I'm going to make a coffee. Do you want one? / Yes, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Whose turn is it to make the tea?",
+     "ru": "Чья очередь делать чай? (британская офисная традиция)",
+     "ex": "Whose turn is it to make the tea? / Yours!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Good job!",
+     "ru": "Отличная работа!",
+     "ex": "I've finished the report. / Good job!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Well done on the presentation.",
+     "ru": "Молодец, хорошая презентация.",
+     "ex": "Well done on the presentation. The client loved it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thanks for your hard work.",
+     "ru": "Спасибо за твой труд.",
+     "ex": "We finished on time. Thanks for your hard work, everyone.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I have some feedback?",
+     "ru": "Можно получить обратную связь?",
+     "ex": "Could I have some feedback on my report?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to discuss my salary.",
+     "ru": "Я хотел бы обсудить свою зарплату.",
+     "ex": "Can we meet? I'd like to discuss my salary.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I got a pay rise.",
+     "ru": "Мне повысили зарплату. (pay rise — брит.)",
+     "ex": "Good news! I got a pay rise.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been offered a promotion.",
+     "ru": "Мне предложили повышение.",
+     "ex": "I've been offered a promotion, but I'd have to move to Leeds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's been promoted to manager.",
+     "ru": "Её повысили до менеджера.",
+     "ex": "Have you heard? She's been promoted to manager.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm thinking of changing jobs.",
+     "ru": "Я подумываю сменить работу.",
+     "ex": "I'm thinking of changing jobs. I'm bored here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've handed in my notice.",
+     "ru": "Я подал заявление об увольнении. (брит.)",
+     "ex": "I've handed in my notice. My last day is the 30th.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been made redundant.",
+     "ru": "Меня сократили. (брит.)",
+     "ex": "The company is closing the office. I've been made redundant.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're hiring.",
+     "ru": "Мы набираем сотрудников.",
+     "ex": "Is your company looking for people? / Yes, we're hiring.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Welcome to the team!",
+     "ru": "Добро пожаловать в команду!",
+     "ex": "Everyone, this is Olga. Welcome to the team!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let me show you around.",
+     "ru": "Давай я тебе всё покажу.",
+     "ex": "It's your first day? Let me show you around.",
+     "lvl": "B1"
+    },
+    {
+     "en": "This is your desk.",
+     "ru": "Вот твой стол.",
+     "ex": "This is your desk, and the kitchen is over there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "If you have any questions, just ask.",
+     "ru": "Если будут вопросы, просто спрашивай.",
+     "ex": "If you have any questions, just ask. / Thanks!",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time do you usually finish?",
+     "ru": "Во сколько ты обычно заканчиваешь?",
+     "ex": "What time do you usually finish? / Around six.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm working late tonight.",
+     "ru": "Сегодня я задержусь на работе.",
+     "ex": "Don't wait for me for dinner. I'm working late tonight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have to do overtime.",
+     "ru": "Мне приходится работать сверхурочно.",
+     "ex": "I have to do overtime this month. We're very busy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to call it a day.",
+     "ru": "На сегодня всё, я заканчиваю.",
+     "ex": "It's seven o'clock. I'm going to call it a day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't work too hard!",
+     "ru": "Не перетрудись!",
+     "ex": "I'm going home. Don't work too hard! / Ha, I'll try!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Thank God it's Friday!",
+     "ru": "Слава богу, пятница!",
+     "ex": "Thank God it's Friday! Any plans? / Sleep!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a win-win situation.",
+     "ru": "Это выгодно обеим сторонам.",
+     "ex": "We get a discount and they get a big order. It's a win-win situation.",
+     "lvl": "B1"
+    }
+   ]
   },
   {
    "id": "interview",
    "title": "Собеседование",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "I'm here for an interview with Mr Smith.",
+     "ru": "Я на собеседование к мистеру Смиту.",
+     "ex": "Good morning. I'm here for an interview with Mr Smith. / Please take a seat.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have an interview at ten.",
+     "ru": "У меня собеседование в десять.",
+     "ex": "I have an interview at ten. Where should I wait?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Sorry, I'm a bit early.",
+     "ru": "Извините, я пришёл немного раньше.",
+     "ex": "Sorry, I'm a bit early. / No problem. Please wait here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Please take a seat.",
+     "ru": "Присаживайтесь, пожалуйста.",
+     "ex": "Hello, I'm Mark. Please take a seat.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Did you find us OK?",
+     "ru": "Вы легко нас нашли?",
+     "ex": "Did you find us OK? / Yes, it was easy to find.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Yes, it was easy to find.",
+     "ru": "Да, было легко найти.",
+     "ex": "Did you find the office OK? / Yes, it was easy to find.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I get you a glass of water?",
+     "ru": "Принести вам стакан воды?",
+     "ex": "Can I get you a glass of water? / Yes, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thank you for inviting me.",
+     "ru": "Спасибо, что пригласили меня.",
+     "ex": "Thank you for inviting me. / Thank you for coming.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Shall we begin?",
+     "ru": "Начнём?",
+     "ex": "Shall we begin? / Yes, of course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let me tell you a bit about the role.",
+     "ru": "Позвольте мне немного рассказать о должности.",
+     "ex": "Let me tell you a bit about the role first.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Tell me about yourself.",
+     "ru": "Расскажите о себе.",
+     "ex": "So, tell me about yourself. / Well, I'm from Moscow and I work in IT.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got five years' experience in sales.",
+     "ru": "У меня пять лет опыта в продажах.",
+     "ex": "I've got five years' experience in sales, mostly with big clients.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I graduated in economics.",
+     "ru": "Я окончил университет по специальности «экономика».",
+     "ex": "What did you study? / I graduated in economics in 2018.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have a degree in engineering.",
+     "ru": "У меня диплом инженера.",
+     "ex": "I have a degree in engineering from Kazan University.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm currently working as an accountant.",
+     "ru": "Сейчас я работаю бухгалтером.",
+     "ex": "I'm currently working as an accountant in a small company.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm applying for the position of sales manager.",
+     "ru": "Я претендую на должность менеджера по продажам.",
+     "ex": "Dear Ms Brown, I'm applying for the position of sales manager.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I saw the job advert online.",
+     "ru": "Я увидел вакансию в интернете. (advert — брит.)",
+     "ex": "How did you hear about us? / I saw the job advert online.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've attached my CV.",
+     "ru": "Я приложил своё резюме. (CV — брит.)",
+     "ex": "I've attached my CV and a cover letter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you tell me more about the role?",
+     "ru": "Можете рассказать подробнее о должности?",
+     "ex": "Could you tell me more about the role? / Of course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are the main responsibilities?",
+     "ru": "Каковы основные обязанности?",
+     "ex": "What are the main responsibilities? / Managing the team and the budget.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Why do you want this job?",
+     "ru": "Почему вы хотите эту работу?",
+     "ex": "Why do you want this job? / I want to use my skills in a bigger team.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to develop my skills.",
+     "ru": "Я хотел бы развивать свои навыки.",
+     "ex": "Why are you interested? / I'd like to develop my skills in marketing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for a new challenge.",
+     "ru": "Я ищу новых задач.",
+     "ex": "Why are you leaving? / I'm looking for a new challenge.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've always been interested in this area.",
+     "ru": "Меня всегда интересовала эта сфера.",
+     "ex": "Why design? / I've always been interested in this area.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I like your company's values.",
+     "ru": "Мне близки ценности вашей компании.",
+     "ex": "Why us? / I like your company's values, especially about the environment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do you know about our company?",
+     "ru": "Что вы знаете о нашей компании?",
+     "ex": "What do you know about our company? / You make software for banks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I read about your new project online.",
+     "ru": "Я читал в интернете о вашем новом проекте.",
+     "ex": "I read about your new project online. It sounds exciting.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Why do you want to leave your current job?",
+     "ru": "Почему вы хотите уйти с нынешней работы?",
+     "ex": "Why do you want to leave your current job? / There's no room for growth.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's no room for growth.",
+     "ru": "Там нет возможностей для роста.",
+     "ex": "I like my job, but there's no room for growth.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I want to work for a bigger company.",
+     "ru": "Я хочу работать в более крупной компании.",
+     "ex": "I want to work for a bigger company with international clients.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I left because the company closed.",
+     "ru": "Я ушёл, потому что компания закрылась.",
+     "ex": "Why did you leave? / I left because the company closed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I took a year off to travel.",
+     "ru": "Я брал год перерыва, чтобы попутешествовать.",
+     "ex": "What did you do in 2022? / I took a year off to travel.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a gap in my CV because I had a baby.",
+     "ru": "В резюме перерыв, потому что у меня родился ребёнок.",
+     "ex": "There's a gap in my CV because I had a baby. Now I'm ready to work again.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are your strengths?",
+     "ru": "Каковы ваши сильные стороны?",
+     "ex": "What are your strengths? / I'm organised and I learn fast.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm very organised.",
+     "ru": "Я очень организованный.",
+     "ex": "I'm very organised. I always plan my week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a quick learner.",
+     "ru": "Я быстро учусь.",
+     "ex": "I don't know this program, but I'm a quick learner.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I work well under pressure.",
+     "ru": "Я хорошо работаю в условиях стресса.",
+     "ex": "I work well under pressure and I never miss deadlines.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm good at working in a team.",
+     "ru": "Я хорошо работаю в команде.",
+     "ex": "I'm good at working in a team, but I can work alone too.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a team player.",
+     "ru": "Я командный игрок.",
+     "ex": "I'm a team player. I like helping my colleagues.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can work on my own.",
+     "ru": "Я могу работать самостоятельно.",
+     "ex": "Do you need a lot of help? / No, I can work on my own.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm good with people.",
+     "ru": "Я умею ладить с людьми.",
+     "ex": "I'm good with people, so I enjoy working with customers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I pay attention to detail.",
+     "ru": "Я внимателен к деталям.",
+     "ex": "I pay attention to detail. I check everything twice.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm reliable and hard-working.",
+     "ru": "Я надёжный и трудолюбивый.",
+     "ex": "How would your colleagues describe you? / Reliable and hard-working.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm very motivated.",
+     "ru": "У меня высокая мотивация.",
+     "ex": "I'm very motivated to learn and grow here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I enjoy solving problems.",
+     "ru": "Мне нравится решать проблемы.",
+     "ex": "Why IT? / I enjoy solving problems.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I like to take the initiative.",
+     "ru": "Я люблю проявлять инициативу.",
+     "ex": "I like to take the initiative and suggest new ideas.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm good at meeting deadlines.",
+     "ru": "Я умею укладываться в сроки.",
+     "ex": "I'm good at meeting deadlines, even when there's a lot of work.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are your weaknesses?",
+     "ru": "Каковы ваши слабые стороны?",
+     "ex": "What are your weaknesses? / I find it hard to say no.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sometimes I'm too much of a perfectionist.",
+     "ru": "Иногда я слишком перфекционист.",
+     "ex": "Sometimes I'm too much of a perfectionist, so I'm learning to work faster.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I find it hard to say no.",
+     "ru": "Мне трудно отказывать.",
+     "ex": "I find it hard to say no, so I sometimes take on too much.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm working on my public speaking.",
+     "ru": "Я работаю над навыком публичных выступлений.",
+     "ex": "I'm working on my public speaking. I'm doing a course now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you give me an example?",
+     "ru": "Можете привести пример?",
+     "ex": "I'm good with customers. / Can you give me an example?",
+     "lvl": "B1"
+    },
+    {
+     "en": "In my last job, I managed a team of five.",
+     "ru": "На прошлой работе я руководил командой из пяти человек.",
+     "ex": "Do you have management experience? / Yes, in my last job, I managed a team of five.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I was responsible for training new staff.",
+     "ru": "Я отвечал за обучение новых сотрудников.",
+     "ex": "I was responsible for training new staff in the shop.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I increased sales by twenty percent.",
+     "ru": "Я увеличил продажи на двадцать процентов.",
+     "ex": "In my first year, I increased sales by twenty percent.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My biggest achievement was launching a new product.",
+     "ru": "Моим самым большим достижением был запуск нового продукта.",
+     "ex": "What are you proud of? / My biggest achievement was launching a new product.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've worked with international clients.",
+     "ru": "Я работал с иностранными клиентами.",
+     "ex": "I've worked with international clients from Germany and China.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have experience with customers.",
+     "ru": "У меня есть опыт работы с клиентами.",
+     "ex": "I have experience with customers. I worked in a hotel for two years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I don't have experience in this, but I learn fast.",
+     "ru": "У меня нет опыта в этом, но я быстро учусь.",
+     "ex": "Have you used Photoshop? / I don't have experience in this, but I learn fast.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm comfortable with Excel.",
+     "ru": "Я уверенно работаю в Excel.",
+     "ex": "What software can you use? / I'm comfortable with Excel and Word.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm fluent in Russian and have good English.",
+     "ru": "Я свободно говорю по-русски и хорошо по-английски.",
+     "ex": "What languages do you speak? / I'm fluent in Russian and have good English.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My English is at an intermediate level.",
+     "ru": "Мой английский — на среднем уровне.",
+     "ex": "How's your English? / My English is at an intermediate level.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm improving my English every day.",
+     "ru": "Я каждый день совершенствую английский.",
+     "ex": "I'm improving my English every day with an app.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Tell me about a difficult situation at work.",
+     "ru": "Расскажите о трудной ситуации на работе.",
+     "ex": "Tell me about a difficult situation at work and what you did.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How did you deal with it?",
+     "ru": "Как вы с этим справились?",
+     "ex": "The client was very angry. / How did you deal with it?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I stayed calm and found a solution.",
+     "ru": "Я сохранил спокойствие и нашёл решение.",
+     "ex": "I stayed calm and found a solution with my manager.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I learnt a lot from that experience.",
+     "ru": "Я многому научился на этом опыте.",
+     "ex": "It was hard, but I learnt a lot from that experience.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How do you handle stress?",
+     "ru": "Как вы справляетесь со стрессом?",
+     "ex": "How do you handle stress? / I make a list and prioritise.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I make a list and prioritise.",
+     "ru": "Я составляю список и расставляю приоритеты.",
+     "ex": "When I have too much work, I make a list and prioritise.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where do you see yourself in five years?",
+     "ru": "Кем вы видите себя через пять лет?",
+     "ex": "Where do you see yourself in five years? / Leading a team.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to be in a management role.",
+     "ru": "Я бы хотел занимать руководящую должность.",
+     "ex": "In five years, I'd like to be in a management role.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I want to grow with the company.",
+     "ru": "Я хочу расти вместе с компанией.",
+     "ex": "I want to grow with the company and take on more responsibility.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for a long-term position.",
+     "ru": "Я ищу работу надолго.",
+     "ex": "I'm looking for a long-term position, not a short contract.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm passionate about design.",
+     "ru": "Я увлечён дизайном.",
+     "ex": "I'm passionate about design. I do it in my free time too.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Why should we hire you?",
+     "ru": "Почему мы должны взять именно вас?",
+     "ex": "Why should we hire you? / I have the right experience for this role.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I have the right experience for this role.",
+     "ru": "У меня подходящий опыт для этой должности.",
+     "ex": "I have the right experience for this role and I'm ready to start.",
+     "lvl": "B1"
+    },
+    {
+     "en": "That's a good question. Let me think.",
+     "ru": "Хороший вопрос. Дайте подумать.",
+     "ex": "What would you change in our company? / That's a good question. Let me think.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you repeat the question, please?",
+     "ru": "Не могли бы вы повторить вопрос?",
+     "ex": "Sorry, could you repeat the question, please?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do you mean exactly?",
+     "ru": "Что именно вы имеете в виду?",
+     "ex": "Are you flexible? / What do you mean exactly?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a bit nervous.",
+     "ru": "Я немного нервничаю.",
+     "ex": "Sorry, I'm a bit nervous. / That's OK, take your time.",
+     "lvl": "A2"
+    },
+    {
+     "en": "When can you start?",
+     "ru": "Когда вы можете приступить?",
+     "ex": "When can you start? / In two weeks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can start straight away.",
+     "ru": "Я могу приступить сразу.",
+     "ex": "When can you start? / I can start straight away.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to give one month's notice.",
+     "ru": "Мне нужно предупредить работодателя за месяц.",
+     "ex": "I need to give one month's notice, so I can start in March.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm flexible about working hours.",
+     "ru": "Я гибок в плане рабочего графика.",
+     "ex": "Can you work weekends? / Yes, I'm flexible about working hours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm willing to travel.",
+     "ru": "Я готов к командировкам.",
+     "ex": "The job involves travel. / That's fine, I'm willing to travel.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd be happy to relocate.",
+     "ru": "Я готов переехать.",
+     "ex": "The job is in Manchester. / I'd be happy to relocate.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have the right to work in the UK?",
+     "ru": "У вас есть право на работу в Великобритании?",
+     "ex": "Do you have the right to work in the UK? / Yes, I have a work visa.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are your salary expectations?",
+     "ru": "Каковы ваши ожидания по зарплате?",
+     "ex": "What are your salary expectations? / Around forty thousand.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for something around forty thousand.",
+     "ru": "Я рассчитываю примерно на сорок тысяч.",
+     "ex": "What salary do you want? / I'm looking for something around forty thousand.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is the salary negotiable?",
+     "ru": "Зарплата обсуждается?",
+     "ex": "The salary is thirty-five thousand. / Is the salary negotiable?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have any questions for us?",
+     "ru": "У вас есть вопросы к нам?",
+     "ex": "That's all from me. Do you have any questions for us?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What would a typical day look like?",
+     "ru": "Как выглядит обычный рабочий день?",
+     "ex": "What would a typical day look like? / Meetings in the morning, then project work.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who would I be working with?",
+     "ru": "С кем я буду работать?",
+     "ex": "Who would I be working with? / A team of six developers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How big is the team?",
+     "ru": "Насколько большая команда?",
+     "ex": "How big is the team? / There are eight of us.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do you like most about working here?",
+     "ru": "Что вам больше всего нравится в работе здесь?",
+     "ex": "What do you like most about working here? / The people.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there any training?",
+     "ru": "Есть ли обучение?",
+     "ex": "Is there any training? / Yes, two weeks at the start.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are there opportunities for promotion?",
+     "ru": "Есть ли возможности для повышения?",
+     "ex": "Are there opportunities for promotion? / Yes, many people grow here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it possible to work from home?",
+     "ru": "Можно ли работать из дома?",
+     "ex": "Is it possible to work from home? / Two days a week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are the working hours?",
+     "ru": "Какой рабочий график?",
+     "ex": "What are the working hours? / Nine to half five.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How many days' holiday do I get?",
+     "ru": "Сколько дней отпуска положено?",
+     "ex": "How many days' holiday do I get? / Twenty-five.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it full-time or part-time?",
+     "ru": "Это полная занятость или частичная?",
+     "ex": "Is it full-time or part-time? / Full-time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it a permanent contract?",
+     "ru": "Это бессрочный контракт?",
+     "ex": "Is it a permanent contract? / Yes, after the probation period.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a temporary job.",
+     "ru": "Это временная работа.",
+     "ex": "It's a temporary job, for six months.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a three-month probation period.",
+     "ru": "Испытательный срок — три месяца.",
+     "ex": "It's a three-month probation period. Then you get a permanent contract.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a dress code?",
+     "ru": "Есть ли дресс-код?",
+     "ex": "Is there a dress code? / Smart casual.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are the next steps?",
+     "ru": "Каковы следующие шаги?",
+     "ex": "What are the next steps? / A second interview with the director.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When will I hear from you?",
+     "ru": "Когда я получу от вас ответ?",
+     "ex": "When will I hear from you? / By the end of the week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We'll let you know by Friday.",
+     "ru": "Мы сообщим вам до пятницы.",
+     "ex": "Thank you for coming. We'll let you know by Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thank you for your time.",
+     "ru": "Спасибо, что уделили время.",
+     "ex": "Thank you for your time. / Thank you for coming in.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I really enjoyed our conversation.",
+     "ru": "Мне очень понравился наш разговор.",
+     "ex": "I really enjoyed our conversation. Thank you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you provide references?",
+     "ru": "Можете предоставить рекомендации?",
+     "ex": "Can you provide references? / Yes, from my last two jobs.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My previous manager can give me a reference.",
+     "ru": "Мой бывший руководитель может дать мне рекомендацию.",
+     "ex": "My previous manager can give me a reference. Here's her email.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The interview went well.",
+     "ru": "Собеседование прошло хорошо.",
+     "ex": "How was it? / The interview went well, I think.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got a second interview.",
+     "ru": "Меня пригласили на второе собеседование.",
+     "ex": "Guess what? I've got a second interview!",
+     "lvl": "B1"
+    },
+    {
+     "en": "We'd like to offer you the job.",
+     "ru": "Мы хотели бы предложить вам эту работу.",
+     "ex": "Hello, Olga. We'd like to offer you the job.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Congratulations, you got the job!",
+     "ru": "Поздравляем, вас взяли!",
+     "ex": "Congratulations, you got the job! / Really? Thank you!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm delighted to accept.",
+     "ru": "С радостью принимаю предложение.",
+     "ex": "We'd like to offer you the position. / Thank you! I'm delighted to accept.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I think about it until Monday?",
+     "ru": "Можно я подумаю до понедельника?",
+     "ex": "We'd like to offer you the job. / Thank you. Can I think about it until Monday?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Unfortunately, we've decided to go with another candidate.",
+     "ru": "К сожалению, мы выбрали другого кандидата.",
+     "ex": "Unfortunately, we've decided to go with another candidate.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you tell me why I wasn't successful?",
+     "ru": "Не могли бы вы сказать, почему мне отказали?",
+     "ex": "Could you tell me why I wasn't successful? It would help me next time.",
+     "lvl": "B1"
+    }
+   ]
   },
   {
    "id": "phone",
