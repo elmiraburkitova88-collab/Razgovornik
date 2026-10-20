@@ -6556,17 +6556,2180 @@
   {
    "id": "phone",
    "title": "Телефонные звонки",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "Hello, this is Anna speaking.",
+     "ru": "Здравствуйте, это Анна.",
+     "ex": "Hello, this is Anna speaking. / Hi Anna, it's Tom from the bank.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Hi, it's Olga.",
+     "ru": "Привет, это Ольга. (по телефону говорят it's, а не I am)",
+     "ex": "Hello? / Hi, it's Olga. Have you got a minute?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Who's calling, please?",
+     "ru": "Кто звонит, скажите, пожалуйста?",
+     "ex": "Who's calling, please? / It's Mark Jones from ABC.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who am I speaking to?",
+     "ru": "С кем я говорю?",
+     "ex": "Who am I speaking to? / This is Sarah from customer services.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I speak to Mr Brown, please?",
+     "ru": "Можно поговорить с мистером Брауном?",
+     "ex": "Could I speak to Mr Brown, please? / One moment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is Kate there?",
+     "ru": "Кейт на месте? / Кейт дома?",
+     "ex": "Is Kate there? / Sorry, she's out.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Speaking.",
+     "ru": "Это я. / Слушаю. (когда спрашивают вас)",
+     "ex": "Could I speak to Anna Ivanova? / Speaking.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I ask what it's regarding?",
+     "ru": "Могу я узнать, по какому вопросу?",
+     "ex": "I'd like to speak to the manager. / Can I ask what it's regarding?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's about the invoice.",
+     "ru": "Это по поводу счёта.",
+     "ex": "What's it regarding? / It's about the invoice.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a personal matter.",
+     "ru": "Это личный вопрос.",
+     "ex": "Can I tell her what it's about? / It's a personal matter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hold on a moment, please.",
+     "ru": "Подождите минутку.",
+     "ex": "Is Mike there? / Hold on a moment, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hold the line, please.",
+     "ru": "Оставайтесь на линии.",
+     "ex": "Hold the line, please. I'll check.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll put you through.",
+     "ru": "Я вас соединю.",
+     "ex": "I'd like to speak to the sales team. / I'll put you through.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll transfer you to the right department.",
+     "ru": "Я переведу вас в нужный отдел.",
+     "ex": "That's not us, sorry. I'll transfer you to the right department.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thanks for holding.",
+     "ru": "Спасибо, что подождали.",
+     "ex": "Thanks for holding. I'm putting you through now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry to keep you waiting.",
+     "ru": "Извините, что заставил ждать.",
+     "ex": "Sorry to keep you waiting. How can I help?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The line's busy.",
+     "ru": "Линия занята.",
+     "ex": "Can I speak to Mr Lee? / I'm afraid the line's busy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's on another call.",
+     "ru": "Она разговаривает по другой линии.",
+     "ex": "Can I speak to Helen? / She's on another call. Can you wait?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm afraid he's not available at the moment.",
+     "ru": "Боюсь, сейчас он не может подойти.",
+     "ex": "I'm afraid he's not available at the moment. Can I take a message?",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's just stepped out.",
+     "ru": "Он только что вышел.",
+     "ex": "Is David there? / He's just stepped out. He'll be back in ten minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I take a message?",
+     "ru": "Что-нибудь передать?",
+     "ex": "She's not in today. Can I take a message?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I leave a message?",
+     "ru": "Можно оставить сообщение?",
+     "ex": "He's out of the office. / Could I leave a message?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you tell him Anna called?",
+     "ru": "Передайте ему, что звонила Анна.",
+     "ex": "Could you tell him Anna called? / Of course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you ask him to call me back?",
+     "ru": "Попросите его перезвонить мне?",
+     "ex": "Could you ask him to call me back this afternoon?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have your name and number?",
+     "ru": "Можно ваше имя и номер?",
+     "ex": "Can I have your name and number? / Sure, it's Olga, 07700 900456.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you spell that, please?",
+     "ru": "Продиктуйте по буквам, пожалуйста.",
+     "ex": "My surname is Kuznetsova. / Could you spell that, please?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let me read that back to you.",
+     "ru": "Давайте я повторю, что записал.",
+     "ex": "Let me read that back to you: 07700 900123. / That's right.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Was that fifteen or fifty?",
+     "ru": "Это было пятнадцать или пятьдесят? (часто путают)",
+     "ex": "Room fifteen. / Sorry, was that fifteen or fifty?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll make sure he gets the message.",
+     "ru": "Я обязательно передам ему.",
+     "ex": "Please tell him it's urgent. / I'll make sure he gets the message.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the best number to reach you on?",
+     "ru": "По какому номеру лучше с вами связаться?",
+     "ex": "What's the best number to reach you on? / My mobile.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you give me his direct number?",
+     "ru": "Можете дать его прямой номер?",
+     "ex": "Could you give me his direct number? / Sorry, I can't.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the extension?",
+     "ru": "Какой добавочный номер?",
+     "ex": "Call the main number. / What's the extension?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Extension 245, please.",
+     "ru": "Добавочный 245, пожалуйста.",
+     "ex": "Which extension? / Extension 245, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm calling about your advert.",
+     "ru": "Я звоню по поводу вашего объявления.",
+     "ex": "Hello, I'm calling about your advert for the bike.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm ringing to ask about the flat.",
+     "ru": "Я звоню узнать насчёт квартиры. (ring — звонить, брит.)",
+     "ex": "Hi, I'm ringing to ask about the flat on King Street.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm calling to confirm my appointment.",
+     "ru": "Я звоню подтвердить запись.",
+     "ex": "Hello, I'm calling to confirm my appointment on Monday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm calling on behalf of Mr Lee.",
+     "ru": "Я звоню от имени мистера Ли.",
+     "ex": "Good morning. I'm calling on behalf of Mr Lee.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm phoning from London.",
+     "ru": "Я звоню из Лондона.",
+     "ex": "The line is bad. / Sorry, I'm phoning from London.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm returning your call.",
+     "ru": "Я перезваниваю вам. (вы мне звонили)",
+     "ex": "Hello, this is Anna. I'm returning your call.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thanks for calling back.",
+     "ru": "Спасибо, что перезвонил.",
+     "ex": "Hi, it's Tom. / Oh, thanks for calling back!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, I missed your call.",
+     "ru": "Извини, я пропустил твой звонок.",
+     "ex": "Sorry, I missed your call. What's up?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, I didn't hear it ring.",
+     "ru": "Извини, я не слышал звонка.",
+     "ex": "Why didn't you answer? / Sorry, I didn't hear it ring.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My phone's on silent.",
+     "ru": "У меня телефон на беззвучном.",
+     "ex": "I called you three times! / Sorry, my phone's on silent.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Why didn't you answer?",
+     "ru": "Почему ты не отвечал?",
+     "ex": "Why didn't you answer? I was worried!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Pick up!",
+     "ru": "Возьми трубку!",
+     "ex": "Come on, pick up!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It goes straight to voicemail.",
+     "ru": "Сразу включается автоответчик.",
+     "ex": "Did you call her? / Yes, but it goes straight to voicemail.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I left you a voicemail.",
+     "ru": "Я оставил тебе сообщение на автоответчике.",
+     "ex": "Did you get my call? I left you a voicemail.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Please leave a message after the tone.",
+     "ru": "Оставьте сообщение после сигнала.",
+     "ex": "Hi, this is Mark. Please leave a message after the tone.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hi, it's Tom. Call me when you get this.",
+     "ru": "Привет, это Том. Перезвони, когда получишь.",
+     "ex": "Hi, it's Tom. Call me when you get this. Bye!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Did you get my message?",
+     "ru": "Ты получил моё сообщение?",
+     "ex": "Did you get my message? / Yes, sorry I didn't reply.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is this a good time to talk?",
+     "ru": "Удобно сейчас говорить?",
+     "ex": "Hi, is this a good time to talk? / Yes, go ahead.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is now a bad time?",
+     "ru": "Я не вовремя?",
+     "ex": "You sound busy. Is now a bad time?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't talk right now.",
+     "ru": "Я сейчас не могу говорить.",
+     "ex": "I can't talk right now. I'm on the train.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I call you back? I'm driving.",
+     "ru": "Можно я перезвоню? Я за рулём.",
+     "ex": "Hi! / Can I call you back? I'm driving.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll call you back in five minutes.",
+     "ru": "Я перезвоню через пять минут.",
+     "ex": "I'm in a shop. I'll call you back in five minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Shall I ring back later?",
+     "ru": "Мне перезвонить позже?",
+     "ex": "She's in a meeting. / Shall I ring back later?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you call back tomorrow?",
+     "ru": "Можете перезвонить завтра?",
+     "ex": "The manager has gone home. Could you call back tomorrow?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What time is best to call?",
+     "ru": "В какое время лучше звонить?",
+     "ex": "What time is best to call? / After 6 pm.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll be available after three.",
+     "ru": "Я буду на связи после трёх.",
+     "ex": "When can I call you? / I'll be available after three.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The office is closed now.",
+     "ru": "Офис сейчас закрыт.",
+     "ex": "Thank you for calling. The office is closed now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry to call so late.",
+     "ru": "Извини, что звоню так поздно.",
+     "ex": "Sorry to call so late. Were you asleep?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I won't keep you long.",
+     "ru": "Я тебя надолго не задержу.",
+     "ex": "I know you're busy. I won't keep you long.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I just wanted to check you're OK.",
+     "ru": "Я просто хотел убедиться, что ты в порядке.",
+     "ex": "Hi, Mum. I just wanted to check you're OK.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm just calling to say happy birthday!",
+     "ru": "Я просто звоню поздравить с днём рождения!",
+     "ex": "Hi! I'm just calling to say happy birthday!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll call you as soon as I know.",
+     "ru": "Я позвоню, как только узнаю.",
+     "ex": "Did you get the job? / I don't know yet. I'll call you as soon as I know.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll give you a ring tonight.",
+     "ru": "Я позвоню тебе вечером. (give a ring — брит.)",
+     "ex": "I'm busy now. I'll give you a ring tonight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll give you a buzz.",
+     "ru": "Я тебе звякну. (разг.)",
+     "ex": "Let's meet next week. I'll give you a buzz.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Ring me if you get lost.",
+     "ru": "Позвони, если заблудишься.",
+     "ex": "Here's the address. Ring me if you get lost.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll text you the address.",
+     "ru": "Я пришлю тебе адрес сообщением.",
+     "ex": "Where's the party? / I'll text you the address.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll text you when I arrive.",
+     "ru": "Напишу, когда приеду.",
+     "ex": "Have a safe trip! / I'll text you when I arrive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll message you.",
+     "ru": "Я тебе напишу. (в мессенджере)",
+     "ex": "What time shall we meet? / I'll message you later.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's your mobile number?",
+     "ru": "Какой у тебя номер мобильного? (mobile — брит.)",
+     "ex": "What's your mobile number? / 07700 900789.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let me give you my number.",
+     "ru": "Давай я дам тебе свой номер.",
+     "ex": "Let me give you my number. Have you got a pen?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll call you on your landline.",
+     "ru": "Я позвоню тебе на домашний.",
+     "ex": "Your mobile is off. I'll call you on your landline.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I borrow your phone?",
+     "ru": "Можно воспользоваться твоим телефоном?",
+     "ex": "My battery's dead. Can I borrow your phone?",
+     "lvl": "B1"
+    },
+    {
+     "en": "My battery's about to die.",
+     "ru": "У меня сейчас сядет батарея.",
+     "ex": "I need to be quick. My battery's about to die.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My phone died.",
+     "ru": "У меня сел телефон.",
+     "ex": "Why didn't you call? / Sorry, my phone died.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got no signal.",
+     "ru": "У меня нет сигнала.",
+     "ex": "I'll call you later. I've got no signal here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The signal is really bad here.",
+     "ru": "Здесь очень плохая связь.",
+     "ex": "Sorry, the signal is really bad here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, you're breaking up.",
+     "ru": "Извини, связь прерывается.",
+     "ex": "Can you hear me? / Sorry, you're breaking up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't hear you very well.",
+     "ru": "Я тебя плохо слышу.",
+     "ex": "I can't hear you very well. Can you call me back?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you hear me OK?",
+     "ru": "Ты меня нормально слышишь?",
+     "ex": "Can you hear me OK? / Yes, perfectly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you hear me now?",
+     "ru": "Теперь слышно?",
+     "ex": "Hello? Can you hear me now? / Yes, that's better.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You sound a bit quiet.",
+     "ru": "Тебя немного тихо слышно.",
+     "ex": "You sound a bit quiet. Can you move closer?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you speak up a bit?",
+     "ru": "Можно чуть громче?",
+     "ex": "Could you speak up a bit? It's noisy here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We got cut off.",
+     "ru": "Нас разъединили.",
+     "ex": "Sorry, we got cut off. Where were we?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think the line went dead.",
+     "ru": "Кажется, связь оборвалась.",
+     "ex": "Hello? Hello? I think the line went dead.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, wrong number.",
+     "ru": "Извините, вы ошиблись номером.",
+     "ex": "Can I speak to Peter? / Sorry, wrong number.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think I've dialled the wrong number.",
+     "ru": "Кажется, я набрал не тот номер.",
+     "ex": "Is that the pizza place? / No. / Oh, I think I've dialled the wrong number.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's an international call.",
+     "ru": "Это международный звонок.",
+     "ex": "Keep it short. It's an international call.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the code for Russia?",
+     "ru": "Какой телефонный код России?",
+     "ex": "What's the code for Russia? / Plus seven.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hang on, I've got another call.",
+     "ru": "Подожди, у меня второй звонок.",
+     "ex": "Hang on, I've got another call. I'll be quick.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't hang up!",
+     "ru": "Не клади трубку!",
+     "ex": "Don't hang up! I need to tell you something.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He hung up on me!",
+     "ru": "Он бросил трубку!",
+     "ex": "What happened? / He hung up on me!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll put you on speaker.",
+     "ru": "Я включу громкую связь.",
+     "ex": "Mum wants to say hi. I'll put you on speaker.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is anyone else on the line?",
+     "ru": "На линии ещё кто-то есть?",
+     "ex": "Is anyone else on the line? / Yes, Mark is here too.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who was on the phone?",
+     "ru": "Кто звонил?",
+     "ex": "Who was on the phone? / Just my sister.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It was just a sales call.",
+     "ru": "Это был просто рекламный звонок.",
+     "ex": "Who was that? / It was just a sales call.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I keep getting spam calls.",
+     "ru": "Мне постоянно звонят спамеры.",
+     "ex": "I keep getting spam calls from unknown numbers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't give your bank details over the phone.",
+     "ru": "Не сообщай банковские данные по телефону.",
+     "ex": "Someone called from my bank. / Don't give your bank details over the phone!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's have a video call.",
+     "ru": "Давай созвонимся по видео.",
+     "ex": "I want to see the baby! Let's have a video call.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Your camera is off.",
+     "ru": "У тебя выключена камера.",
+     "ex": "I can't see you. Your camera is off.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you turn your camera on?",
+     "ru": "Включишь камеру?",
+     "ex": "Can you turn your camera on? / Sure, one second.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You're frozen.",
+     "ru": "У тебя картинка зависла.",
+     "ex": "Hello? You're frozen. / Can you see me now?",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's an echo.",
+     "ru": "Есть эхо.",
+     "ex": "There's an echo. Can you use headphones?",
+     "lvl": "B1"
+    },
+    {
+     "en": "You're through to customer services.",
+     "ru": "Вы позвонили в службу поддержки клиентов.",
+     "ex": "Hello, you're through to customer services. My name's Jo.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Your call is important to us.",
+     "ru": "Ваш звонок очень важен для нас. (фраза автоответчика)",
+     "ex": "Your call is important to us. Please hold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Press one for sales.",
+     "ru": "Нажмите один для отдела продаж.",
+     "ex": "Press one for sales, or two for customer services.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You are number three in the queue.",
+     "ru": "Вы третий в очереди.",
+     "ex": "Thank you for calling. You are number three in the queue.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been on hold for twenty minutes.",
+     "ru": "Я жду на линии уже двадцать минут.",
+     "ex": "Finally! I've been on hold for twenty minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I speak to a real person?",
+     "ru": "Можно поговорить с живым человеком?",
+     "ex": "Press one, press two... Can I speak to a real person?",
+     "lvl": "B1"
+    },
+    {
+     "en": "How can I help you today?",
+     "ru": "Чем могу помочь?",
+     "ex": "Good morning, how can I help you today?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to make a complaint.",
+     "ru": "Я хотел бы подать жалобу.",
+     "ex": "Hello, I'd like to make a complaint about my order.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have your account number?",
+     "ru": "Назовите, пожалуйста, номер вашего счёта.",
+     "ex": "Can I have your account number? / Yes, it's 4567 8812.",
+     "lvl": "B1"
+    },
+    {
+     "en": "For security, can you confirm your date of birth?",
+     "ru": "В целях безопасности назовите дату рождения.",
+     "ex": "For security, can you confirm your date of birth? / The 3rd of May, 1990.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you confirm the first line of your address?",
+     "ru": "Назовите первую строку адреса (дом и улицу).",
+     "ex": "Can you confirm the first line of your address? / 12 Park Road.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there anything else I can help you with?",
+     "ru": "Могу ещё чем-нибудь помочь?",
+     "ex": "Is there anything else I can help you with? / No, that's all, thanks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Thanks for calling.",
+     "ru": "Спасибо за звонок.",
+     "ex": "Thanks for calling. Have a nice day!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I have to go, someone's at the door.",
+     "ru": "Мне надо идти, кто-то пришёл.",
+     "ex": "Sorry, I have to go, someone's at the door. Talk later!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Bye for now!",
+     "ru": "Пока! (в конце разговора)",
+     "ex": "OK, see you on Friday. Bye for now!",
+     "lvl": "A2"
+    }
+   ]
   },
   {
    "id": "bank",
    "title": "Банк и деньги",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "Is there a bank near here?",
+     "ru": "Здесь поблизости есть банк?",
+     "ex": "Is there a bank near here? / Yes, on the high street.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time does the bank open?",
+     "ru": "Во сколько открывается банк?",
+     "ex": "What time does the bank open? / At half nine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to open a bank account.",
+     "ru": "Я хотел бы открыть счёт в банке.",
+     "ex": "Hello, I'd like to open a bank account.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do I need to open an account?",
+     "ru": "Что нужно для открытия счёта?",
+     "ex": "What do I need to open an account? / Your passport and proof of address.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You'll need your passport and proof of address.",
+     "ru": "Вам понадобится паспорт и подтверждение адреса.",
+     "ex": "You'll need your passport and proof of address, like a bill.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is a utility bill OK as proof of address?",
+     "ru": "Квитанция за коммунальные услуги подойдёт как подтверждение адреса?",
+     "ex": "Is a utility bill OK as proof of address? / Yes, from the last three months.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What kind of account would you like?",
+     "ru": "Какой счёт вы хотели бы?",
+     "ex": "What kind of account would you like? / A current account.",
+     "lvl": "B1"
+    },
+    {
+     "en": "A current account, please.",
+     "ru": "Текущий счёт, пожалуйста. (current account — брит.)",
+     "ex": "Current or savings? / A current account, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to open a savings account.",
+     "ru": "Я хотел бы открыть сберегательный счёт.",
+     "ex": "I'd like to open a savings account for my son.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a monthly fee?",
+     "ru": "Есть ежемесячная плата?",
+     "ex": "Is there a monthly fee? / No, it's free.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the interest rate?",
+     "ru": "Какая процентная ставка?",
+     "ex": "What's the interest rate on this account? / Three percent.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When will I get my card?",
+     "ru": "Когда я получу карту?",
+     "ex": "When will I get my card? / In five to seven days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Your card will arrive in the post.",
+     "ru": "Карта придёт по почте.",
+     "ex": "Your card will arrive in the post, and the PIN separately.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Please sign here.",
+     "ru": "Распишитесь здесь, пожалуйста.",
+     "ex": "Please sign here. / OK.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I use a banking app.",
+     "ru": "Я пользуюсь банковским приложением.",
+     "ex": "Do you go to the bank? / No, I use a banking app.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't log in to online banking.",
+     "ru": "Не могу войти в онлайн-банк.",
+     "ex": "I can't log in to online banking. It says my password is wrong.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I do it online?",
+     "ru": "Можно сделать это онлайн?",
+     "ex": "You need to fill in a form. / Can I do it online?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to speak to an adviser.",
+     "ru": "Я хотел бы поговорить с консультантом.",
+     "ex": "I'd like to speak to an adviser about a mortgage.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I check my balance?",
+     "ru": "Можно проверить баланс?",
+     "ex": "Could I check my balance, please? / You have £340.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I have a bank statement?",
+     "ru": "Можно выписку по счёту?",
+     "ex": "Could I have a bank statement for the last three months?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to withdraw some money.",
+     "ru": "Я хотел бы снять деньги.",
+     "ex": "I'd like to withdraw some money. / How much?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to pay this into my account.",
+     "ru": "Я хотел бы положить это на свой счёт. (pay in — брит.)",
+     "ex": "I'd like to pay this into my account. / Cash or cheque?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to transfer money to another account.",
+     "ru": "Я хотел бы перевести деньги на другой счёт.",
+     "ex": "I'd like to transfer money to another account. / Do you have the details?",
+     "lvl": "B1"
+    },
+    {
+     "en": "How long does a transfer take?",
+     "ru": "Сколько идёт перевод?",
+     "ex": "How long does a transfer take? / Usually a few minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a fee for international transfers?",
+     "ru": "Есть комиссия за международные переводы?",
+     "ex": "Is there a fee for international transfers? / Yes, five pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to update my address.",
+     "ru": "Я хотел бы обновить адрес.",
+     "ex": "I've moved. I'd like to update my address.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to close my account.",
+     "ru": "Я хотел бы закрыть счёт.",
+     "ex": "I'm leaving the UK. I'd like to close my account.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm moving abroad. Can I keep my account?",
+     "ru": "Я переезжаю за границу. Можно сохранить счёт?",
+     "ex": "I'm moving abroad. Can I keep my account? / Yes, but there's a fee.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to change my PIN.",
+     "ru": "Я хотел бы сменить ПИН-код.",
+     "ex": "I'd like to change my PIN. / You can do it at any cash machine.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've forgotten my PIN.",
+     "ru": "Я забыл ПИН-код.",
+     "ex": "I've forgotten my PIN. What should I do?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Never share your PIN with anyone.",
+     "ru": "Никогда никому не сообщайте ПИН-код.",
+     "ex": "Never share your PIN with anyone, even the bank.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've lost my bank card.",
+     "ru": "Я потерял банковскую карту.",
+     "ex": "Hello, I've lost my bank card.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think my card has been stolen.",
+     "ru": "Кажется, мою карту украли.",
+     "ex": "My bag is gone. I think my card has been stolen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to block my card.",
+     "ru": "Мне нужно заблокировать карту.",
+     "ex": "I need to block my card. I can't find it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My card's been blocked.",
+     "ru": "Мою карту заблокировали.",
+     "ex": "Why can't I pay? / My card's been blocked.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you send me a new card?",
+     "ru": "Можете прислать новую карту?",
+     "ex": "Can you send me a new card? / Yes, it'll take five days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The cash machine swallowed my card.",
+     "ru": "Банкомат съел мою карту.",
+     "ex": "The cash machine swallowed my card! What do I do?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The cash machine is out of order.",
+     "ru": "Банкомат не работает.",
+     "ex": "Sorry, the cash machine is out of order. Try the one at the station.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a charge for using this cash machine?",
+     "ru": "Снимать в этом банкомате платно?",
+     "ex": "Is there a charge for using this cash machine? / Yes, two pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I don't recognise this payment.",
+     "ru": "Я не узнаю этот платёж.",
+     "ex": "I don't recognise this payment of fifty pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a payment I didn't make.",
+     "ru": "Есть платёж, который я не совершал.",
+     "ex": "There's a payment I didn't make on my statement.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Someone has used my card details.",
+     "ru": "Кто-то воспользовался данными моей карты.",
+     "ex": "Someone has used my card details to buy things online.",
+     "lvl": "B1"
+    },
+    {
+     "en": "This looks like a scam.",
+     "ru": "Похоже на мошенничество.",
+     "ex": "You've won a car! Click here. / This looks like a scam.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I got a text from my bank.",
+     "ru": "Мне пришло сообщение от банка.",
+     "ex": "I got a text from my bank. Is it real?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Will the bank give me the money back?",
+     "ru": "Банк вернёт мне деньги?",
+     "ex": "Someone stole fifty pounds. Will the bank give me the money back?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the exchange rate today?",
+     "ru": "Какой сегодня курс?",
+     "ex": "What's the exchange rate today? / 1.17 euros to the pound.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to change dollars into pounds.",
+     "ru": "Я хотел бы поменять доллары на фунты.",
+     "ex": "I'd like to change dollars into pounds. / How much?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you charge commission?",
+     "ru": "Вы берёте комиссию?",
+     "ex": "Do you charge commission? / No, zero commission.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have it in twenties?",
+     "ru": "Можно купюрами по двадцать?",
+     "ex": "Two hundred pounds, please. Can I have it in twenties?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have some coins too?",
+     "ru": "Можно ещё и монетами?",
+     "ex": "Can I have some coins too? For parking.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much is that in euros?",
+     "ru": "Сколько это в евро?",
+     "ex": "It's fifty pounds. / How much is that in euros?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The pound is strong at the moment.",
+     "ru": "Фунт сейчас крепкий.",
+     "ex": "Holidays in Europe are cheaper now. The pound is strong at the moment.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is this note real?",
+     "ru": "Эта купюра настоящая?",
+     "ex": "Is this note real? It looks strange.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a minimum spend for cards?",
+     "ru": "Есть минимальная сумма для оплаты картой?",
+     "ex": "Is there a minimum spend for cards? / Yes, five pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's cash only.",
+     "ru": "Только наличные.",
+     "ex": "Can I pay by card? / Sorry, it's cash only.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I get cashback?",
+     "ru": "Можно снять наличные на кассе? (cashback — брит.)",
+     "ex": "Can I get cashback? / Yes, up to fifty pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I pay in instalments?",
+     "ru": "Можно оплатить в рассрочку?",
+     "ex": "It's a thousand pounds. / Can I pay in instalments?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to apply for a loan.",
+     "ru": "Я хотел бы подать заявку на кредит.",
+     "ex": "I'd like to apply for a loan for a car.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to apply for a credit card.",
+     "ru": "Я хотел бы оформить кредитную карту.",
+     "ex": "I'd like to apply for a credit card. / Please fill in this form.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I increase my limit?",
+     "ru": "Можно увеличить лимит?",
+     "ex": "Can I increase my limit? / Let me check your account.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm over my limit.",
+     "ru": "Я превысил лимит.",
+     "ex": "My card isn't working. I'm over my limit.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the monthly payment?",
+     "ru": "Какой ежемесячный платёж?",
+     "ex": "What's the monthly payment? / About two hundred pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I pay it back early?",
+     "ru": "Можно погасить досрочно?",
+     "ex": "Can I pay it back early? / Yes, with no extra fee.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've got a mortgage.",
+     "ru": "У нас ипотека.",
+     "ex": "Do you own your house? / Yes, but we've got a mortgage.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're saving for a house.",
+     "ru": "Мы копим на дом.",
+     "ex": "No holiday this year. We're saving for a house.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got some savings.",
+     "ru": "У меня есть кое-какие сбережения.",
+     "ex": "Can you afford it? / Yes, I've got some savings.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to invest some money.",
+     "ru": "Я хотел бы вложить немного денег.",
+     "ex": "I'd like to invest some money. What do you recommend?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it a safe investment?",
+     "ru": "Это надёжное вложение?",
+     "ex": "Is it a safe investment? / Nothing is 100% safe.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Interest rates have gone up.",
+     "ru": "Процентные ставки выросли.",
+     "ex": "Interest rates have gone up, so our mortgage is more expensive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm overdrawn.",
+     "ru": "У меня счёт ушёл в минус. (брит.)",
+     "ex": "I can't buy it. I'm overdrawn.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm trying to get out of debt.",
+     "ru": "Я пытаюсь выбраться из долгов.",
+     "ex": "I'm trying to get out of debt, so no shopping for me.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a bit short of money this month.",
+     "ru": "В этом месяце у меня туговато с деньгами.",
+     "ex": "Coming to the cinema? / Sorry, I'm a bit short of money this month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Money's tight at the moment.",
+     "ru": "Сейчас с деньгами напряжённо.",
+     "ex": "Money's tight at the moment, so we're eating at home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm broke.",
+     "ru": "Я на мели. (разг.)",
+     "ex": "Let's go out! / I can't. I'm broke.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I borrow some money?",
+     "ru": "Можно занять немного денег?",
+     "ex": "Can I borrow some money? I'll pay you back on Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you lend me twenty pounds?",
+     "ru": "Можешь одолжить мне двадцать фунтов?",
+     "ex": "Can you lend me twenty pounds? / Sure, here you are.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll pay you back tomorrow.",
+     "ru": "Я верну тебе завтра.",
+     "ex": "Thanks for the money. I'll pay you back tomorrow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You still owe me ten pounds.",
+     "ru": "Ты всё ещё должен мне десять фунтов.",
+     "ex": "Don't forget, you still owe me ten pounds!",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much do I owe you?",
+     "ru": "Сколько я тебе должен?",
+     "ex": "You paid for the tickets. How much do I owe you?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Here's what I owe you.",
+     "ru": "Вот, сколько я тебе должен.",
+     "ex": "Here's what I owe you. / Thanks!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I owe you one.",
+     "ru": "Я твой должник.",
+     "ex": "Thanks for helping me move. I owe you one.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's go halves.",
+     "ru": "Давай пополам. (брит.)",
+     "ex": "The taxi is thirty pounds. / Let's go halves.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's split it three ways.",
+     "ru": "Давай поделим на троих.",
+     "ex": "The bill is ninety pounds. Let's split it three ways.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll get this one, you get the next.",
+     "ru": "В этот раз плачу я, в следующий — ты.",
+     "ex": "Put your money away. I'll get this one, you get the next.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll pay for the tickets and you can pay me back.",
+     "ru": "Я заплачу за билеты, а ты потом отдашь.",
+     "ex": "I'll pay for the tickets and you can pay me back later.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll transfer it to you.",
+     "ru": "Я тебе переведу.",
+     "ex": "I don't have cash. I'll transfer it to you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you send me your bank details?",
+     "ru": "Пришли мне свои реквизиты.",
+     "ex": "Can you send me your bank details? I'll pay you tonight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's your sort code?",
+     "ru": "Какой у тебя код банка? (sort code — шестизначный код, Британия)",
+     "ex": "What's your sort code? / 20-45-77.",
+     "lvl": "B1"
+    },
+    {
+     "en": "And the account number?",
+     "ru": "А номер счёта?",
+     "ex": "The sort code is 20-45-77. / And the account number?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've sent you the money.",
+     "ru": "Я отправил тебе деньги.",
+     "ex": "I've sent you the money. Can you check?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you received the payment?",
+     "ru": "Ты получил платёж?",
+     "ex": "Have you received the payment? / Yes, thanks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It hasn't come through yet.",
+     "ru": "Ещё не пришло.",
+     "ex": "Did you get the money? / It hasn't come through yet.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I pay my bills online.",
+     "ru": "Я плачу по счетам онлайн.",
+     "ex": "Do you go to the post office? / No, I pay my bills online.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I pay this bill here?",
+     "ru": "Можно оплатить этот счёт здесь?",
+     "ex": "Can I pay this bill here? / Yes, at the counter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I set up a direct debit.",
+     "ru": "Я настроил автоплатёж. (direct debit — брит.)",
+     "ex": "I always forget to pay. So I set up a direct debit.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The rent is due on the first.",
+     "ru": "Аренду нужно платить первого числа.",
+     "ex": "The rent is due on the first of every month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much is the rent?",
+     "ru": "Сколько стоит аренда?",
+     "ex": "How much is the rent? / Nine hundred a month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Bills are included.",
+     "ru": "Коммунальные платежи включены.",
+     "ex": "Is electricity extra? / No, bills are included.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My electricity bill is huge this month.",
+     "ru": "В этом месяце огромный счёт за электричество.",
+     "ex": "My electricity bill is huge this month. It's the heating.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Everything is so expensive these days.",
+     "ru": "Сейчас всё так дорого.",
+     "ex": "Five pounds for a coffee? Everything is so expensive these days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Prices have gone up.",
+     "ru": "Цены выросли.",
+     "ex": "Prices have gone up again this year.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's good value for money.",
+     "ru": "Это стоит своих денег.",
+     "ex": "The hotel isn't cheap, but it's good value for money.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a waste of money.",
+     "ru": "Это пустая трата денег.",
+     "ex": "Don't buy it. It's a waste of money.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not worth it.",
+     "ru": "Оно того не стоит.",
+     "ex": "Should I buy the expensive one? / No, it's not worth it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I paid too much for it.",
+     "ru": "Я переплатил за это.",
+     "ex": "I saw the same bag for half the price. I paid too much for it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It cost me a fortune.",
+     "ru": "Это обошлось мне в целое состояние.",
+     "ex": "Nice car! / Thanks. It cost me a fortune.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It was dirt cheap.",
+     "ru": "Это было очень дёшево. (разг.)",
+     "ex": "Where did you get that jacket? / At the market. It was dirt cheap.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm trying to save money.",
+     "ru": "Я стараюсь экономить.",
+     "ex": "I'm trying to save money, so I cook at home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm saving up for a new laptop.",
+     "ru": "Я коплю на новый ноутбук.",
+     "ex": "Why aren't you coming? / I'm saving up for a new laptop.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I keep track of my spending.",
+     "ru": "Я слежу за своими расходами.",
+     "ex": "I keep track of my spending in an app.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm not very good with money.",
+     "ru": "Я не очень умею обращаться с деньгами.",
+     "ex": "I'm not very good with money. It's always gone by the 20th.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Money doesn't grow on trees.",
+     "ru": "Деньги на деревьях не растут.",
+     "ex": "Mum, can I have a new phone? / Money doesn't grow on trees!",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much do you earn?",
+     "ru": "Сколько ты зарабатываешь? (обычно невежливый вопрос)",
+     "ex": "How much do you earn? / Sorry, that's personal.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I get paid at the end of the month.",
+     "ru": "Мне платят в конце месяца.",
+     "ex": "Can you pay me back? / Yes, I get paid at the end of the month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Payday is on Friday.",
+     "ru": "Зарплата в пятницу.",
+     "ex": "Let's go out on Friday. Payday is on Friday!",
+     "lvl": "B1"
+    },
+    {
+     "en": "My salary goes into my account on the 25th.",
+     "ru": "Зарплата приходит на счёт 25-го.",
+     "ex": "My salary goes into my account on the 25th.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do I need to pay tax on this?",
+     "ru": "Нужно ли платить с этого налог?",
+     "ex": "I sold my old car. Do I need to pay tax on this?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I won fifty pounds on the lottery!",
+     "ru": "Я выиграл пятьдесят фунтов в лотерею!",
+     "ex": "Guess what? I won fifty pounds on the lottery!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I found a ten-pound note on the street.",
+     "ru": "Я нашёл на улице десятифунтовую купюру.",
+     "ex": "Lucky day! I found a ten-pound note on the street.",
+     "lvl": "B1"
+    }
+   ]
   },
   {
    "id": "weather",
    "title": "Погода",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "What's the weather like today?",
+     "ru": "Какая сегодня погода?",
+     "ex": "What's the weather like today? / Sunny but cold.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the forecast for tomorrow?",
+     "ru": "Какой прогноз на завтра?",
+     "ex": "What's the forecast for tomorrow? / Rain in the morning.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you seen the forecast?",
+     "ru": "Ты видел прогноз?",
+     "ex": "Have you seen the forecast? Is it going to rain?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it going to rain at the weekend?",
+     "ru": "В выходные будет дождь?",
+     "ex": "Is it going to rain at the weekend? / I hope not!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's supposed to rain later.",
+     "ru": "Говорят, позже будет дождь.",
+     "ex": "Take a coat. It's supposed to rain later.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's going to be sunny all weekend.",
+     "ru": "Все выходные будет солнечно.",
+     "ex": "Great news! It's going to be sunny all weekend.",
+     "lvl": "B1"
+    },
+    {
+     "en": "They say it'll clear up in the afternoon.",
+     "ru": "Говорят, днём прояснится.",
+     "ex": "It's raining. / They say it'll clear up in the afternoon.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a chance of showers.",
+     "ru": "Возможны кратковременные дожди.",
+     "ex": "Tomorrow will be warm, but there's a chance of showers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Expect sunny spells.",
+     "ru": "Ожидаются прояснения. (язык британских прогнозов)",
+     "ex": "Cloudy in the morning. Later, expect sunny spells.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a weather warning for tomorrow.",
+     "ru": "На завтра объявлено штормовое предупреждение.",
+     "ex": "There's a weather warning for tomorrow. Strong winds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Stay indoors if you can.",
+     "ru": "По возможности оставайтесь дома.",
+     "ex": "The storm is coming. Stay indoors if you can.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The forecast was wrong again.",
+     "ru": "Прогноз опять не сбылся.",
+     "ex": "They said sun! The forecast was wrong again.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It looks like rain.",
+     "ru": "Похоже, будет дождь.",
+     "ex": "Look at those clouds. It looks like rain.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's pouring down!",
+     "ru": "Льёт как из ведра!",
+     "ex": "Don't go out now. It's pouring down!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's chucking it down.",
+     "ru": "Льёт как из ведра. (брит., разг.)",
+     "ex": "Can you pick me up? It's chucking it down.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's just drizzling.",
+     "ru": "Просто моросит.",
+     "ex": "Do I need an umbrella? / No, it's just drizzling.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's only a shower.",
+     "ru": "Это просто кратковременный дождь.",
+     "ex": "Let's wait here. It's only a shower.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Take an umbrella just in case.",
+     "ru": "Возьми зонт на всякий случай.",
+     "ex": "It's sunny now, but take an umbrella just in case.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I got soaked.",
+     "ru": "Я промок до нитки.",
+     "ex": "What happened to you? / I forgot my umbrella and got soaked.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Mind the puddles!",
+     "ru": "Осторожно, лужи!",
+     "ex": "Mind the puddles! Your new shoes!",
+     "lvl": "B1"
+    },
+    {
+     "en": "My umbrella blew inside out.",
+     "ru": "Мой зонт вывернуло ветром.",
+     "ex": "It's so windy. My umbrella blew inside out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's stopped raining.",
+     "ru": "Дождь кончился.",
+     "ex": "It's stopped raining. Let's go!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's wait until the rain stops.",
+     "ru": "Давай подождём, пока кончится дождь.",
+     "ex": "Let's wait until the rain stops. Another coffee?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Typical! It's raining again.",
+     "ru": "Ну конечно! Опять дождь.",
+     "ex": "Typical! It's raining again, and I've just washed the car.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It rained every day.",
+     "ru": "Дождь шёл каждый день.",
+     "ex": "How was Scotland? / Beautiful, but it rained every day.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a bit grey today.",
+     "ru": "Сегодня пасмурновато.",
+     "ex": "It's a bit grey today. / Yes, typical November.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's quite cloudy.",
+     "ru": "Довольно облачно.",
+     "ex": "Can you see the mountains? / No, it's quite cloudy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's dark and gloomy.",
+     "ru": "Темно и мрачно.",
+     "ex": "It's only three o'clock, but it's dark and gloomy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The sun's come out!",
+     "ru": "Солнце вышло!",
+     "ex": "Look, the sun's come out! Let's go to the park.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What a beautiful day!",
+     "ru": "Какой прекрасный день!",
+     "ex": "What a beautiful day! Let's eat outside.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Not a cloud in the sky.",
+     "ru": "На небе ни облачка.",
+     "ex": "It's perfect. Not a cloud in the sky.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The sky is clear tonight.",
+     "ru": "Сегодня ночью ясное небо.",
+     "ex": "The sky is clear tonight. You can see the stars.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Look at that rainbow!",
+     "ru": "Посмотри на радугу!",
+     "ex": "Wow, look at that rainbow!",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's a lovely breeze.",
+     "ru": "Приятный ветерок.",
+     "ex": "It's hot, but there's a lovely breeze by the sea.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's very windy.",
+     "ru": "Очень ветрено.",
+     "ex": "It's very windy. Hold your hat!",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's a storm coming.",
+     "ru": "Надвигается гроза.",
+     "ex": "There's a storm coming. Let's go home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Did you hear the thunder?",
+     "ru": "Ты слышал гром?",
+     "ex": "Did you hear the thunder last night? / Yes, it woke me up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There was a lot of lightning last night.",
+     "ru": "Ночью было много молний.",
+     "ex": "There was a lot of lightning last night. It was amazing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's hailing!",
+     "ru": "Идёт град!",
+     "ex": "Come inside! It's hailing!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's foggy this morning.",
+     "ru": "Сегодня утром туман.",
+     "ex": "Drive slowly. It's foggy this morning.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You can't see a thing.",
+     "ru": "Ничего не видно.",
+     "ex": "How's the fog? / Terrible. You can't see a thing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's boiling today!",
+     "ru": "Сегодня ужасная жара!",
+     "ex": "It's boiling today! Let's go for an ice cream.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's so humid.",
+     "ru": "Так влажно.",
+     "ex": "It's so humid. My hair is a mess.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's really muggy.",
+     "ru": "Очень душно. (брит., разг.)",
+     "ex": "It's really muggy today. I think there'll be a storm.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a heatwave.",
+     "ru": "Сейчас аномальная жара.",
+     "ex": "There's a heatwave. It's 35 degrees in London.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's too hot to do anything.",
+     "ru": "Слишком жарко, чтобы что-то делать.",
+     "ex": "It's too hot to do anything. Let's stay in the shade.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's sit in the shade.",
+     "ru": "Давай сядем в тени.",
+     "ex": "The sun is very strong. Let's sit in the shade.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Put some sun cream on.",
+     "ru": "Намажься солнцезащитным кремом.",
+     "ex": "Put some sun cream on. You'll burn!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I got sunburnt.",
+     "ru": "Я обгорел на солнце.",
+     "ex": "Why is your face red? / I got sunburnt.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You'll need sunglasses.",
+     "ru": "Тебе понадобятся солнечные очки.",
+     "ex": "It's very bright. You'll need sunglasses.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm sweating.",
+     "ru": "Я вспотел.",
+     "ex": "Can we go inside? I'm sweating.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a perfect day for the beach.",
+     "ru": "Идеальный день для пляжа.",
+     "ex": "It's a perfect day for the beach. Let's go!",
+     "lvl": "B1"
+    },
+    {
+     "en": "The sea is warm enough.",
+     "ru": "Море достаточно тёплое.",
+     "ex": "Is it OK for swimming? / Yes, the sea is warm enough.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's too cold to go swimming.",
+     "ru": "Слишком холодно, чтобы купаться.",
+     "ex": "Let's go to the beach. / It's too cold to go swimming.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's T-shirt weather.",
+     "ru": "Погода для футболки. (тепло)",
+     "ex": "You don't need a jumper. It's T-shirt weather.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Shall we eat outside? It's lovely.",
+     "ru": "Поедим на улице? Так хорошо.",
+     "ex": "Shall we eat outside? It's lovely. / Good idea!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a bit chilly.",
+     "ru": "Прохладновато.",
+     "ex": "It's a bit chilly. Take a jumper.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's nippy this morning.",
+     "ru": "С утра холодновато. (брит., разг.)",
+     "ex": "It's nippy this morning. Wear a scarf.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's below zero.",
+     "ru": "Ниже нуля.",
+     "ex": "Wrap up. It's below zero.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's minus five outside.",
+     "ru": "На улице минус пять.",
+     "ex": "It's minus five outside. Wear a hat!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's twenty degrees.",
+     "ru": "Двадцать градусов.",
+     "ex": "How warm is it? / It's twenty degrees.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's the temperature?",
+     "ru": "Какая температура?",
+     "ex": "What's the temperature? / About fifteen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is that Celsius or Fahrenheit?",
+     "ru": "Это по Цельсию или по Фаренгейту?",
+     "ex": "It's 70 degrees! / Is that Celsius or Fahrenheit?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's much warmer than yesterday.",
+     "ru": "Гораздо теплее, чем вчера.",
+     "ex": "It's much warmer than yesterday. Spring is coming!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's getting colder.",
+     "ru": "Холодает.",
+     "ex": "It's getting colder. Winter is coming.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's turned cold.",
+     "ru": "Похолодало.",
+     "ex": "It's turned cold. Where's my coat?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's warming up.",
+     "ru": "Теплеет.",
+     "ex": "It's warming up. I can take my coat off.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The temperature dropped overnight.",
+     "ru": "Ночью температура упала.",
+     "ex": "The temperature dropped overnight. There's ice on the car.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's snowing!",
+     "ru": "Идёт снег!",
+     "ex": "Look outside! It's snowing!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is it going to settle?",
+     "ru": "Снег ляжет? (не растает, брит.)",
+     "ex": "It's snowing! / Is it going to settle?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The snow is melting.",
+     "ru": "Снег тает.",
+     "ex": "The snow is melting. It's all water now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The roads are icy.",
+     "ru": "На дорогах гололёд.",
+     "ex": "Drive carefully. The roads are icy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Be careful, it's slippery.",
+     "ru": "Осторожно, скользко.",
+     "ex": "Be careful, it's slippery outside.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There was a frost last night.",
+     "ru": "Ночью были заморозки.",
+     "ex": "There was a frost last night. The grass is white.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm freezing!",
+     "ru": "Я замёрз!",
+     "ex": "Can we go in? I'm freezing!",
+     "lvl": "A2"
+    },
+    {
+     "en": "My hands are frozen.",
+     "ru": "У меня руки заледенели.",
+     "ex": "I forgot my gloves. My hands are frozen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I feel the cold.",
+     "ru": "Я мёрзну больше других. / Я мерзляк. (брит.)",
+     "ex": "Are you cold? It's warm! / I feel the cold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I don't mind the cold.",
+     "ru": "Я нормально переношу холод.",
+     "ex": "I don't mind the cold. I'm from Siberia!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't stand the heat.",
+     "ru": "Терпеть не могу жару.",
+     "ex": "I can't stand the heat. I prefer winter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Wrap up warm!",
+     "ru": "Одевайся теплее!",
+     "ex": "It's minus ten today. Wrap up warm!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't forget your coat.",
+     "ru": "Не забудь пальто.",
+     "ex": "Bye, Mum! / Don't forget your coat!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do I need a jacket?",
+     "ru": "Мне нужна куртка?",
+     "ex": "Do I need a jacket? / Yes, it's cold.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is it cold enough for a coat?",
+     "ru": "Достаточно холодно, чтобы надеть пальто?",
+     "ex": "Is it cold enough for a coat? / Just a jacket.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Close the window, there's a draught.",
+     "ru": "Закрой окно, сквозит. (draught — брит.)",
+     "ex": "Close the window, there's a draught.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you turn the heating up?",
+     "ru": "Можешь сделать отопление посильнее?",
+     "ex": "Can you turn the heating up? It's cold in here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's lovely and warm in here.",
+     "ru": "Здесь так тепло и уютно.",
+     "ex": "Come in! / Oh, it's lovely and warm in here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "This weather makes me sleepy.",
+     "ru": "От этой погоды меня клонит в сон.",
+     "ex": "This weather makes me sleepy. I want to stay in bed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I hate this weather.",
+     "ru": "Ненавижу эту погоду.",
+     "ex": "Rain again! I hate this weather.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The days are getting shorter.",
+     "ru": "Дни становятся короче.",
+     "ex": "It's dark at five. The days are getting shorter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It gets dark at four in winter.",
+     "ru": "Зимой темнеет в четыре.",
+     "ex": "It gets dark at four in winter in London.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Spring is finally here!",
+     "ru": "Наконец-то весна!",
+     "ex": "Spring is finally here! Look at the flowers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The leaves are changing colour.",
+     "ru": "Листья меняют цвет.",
+     "ex": "It's autumn. The leaves are changing colour.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's your favourite season?",
+     "ru": "Какое твоё любимое время года?",
+     "ex": "What's your favourite season? / Autumn.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I love autumn.",
+     "ru": "Я люблю осень.",
+     "ex": "I love autumn. The colours are beautiful.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the weather like in Moscow in winter?",
+     "ru": "Какая погода в Москве зимой?",
+     "ex": "What's the weather like in Moscow in winter? / Cold and snowy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It can get really cold.",
+     "ru": "Бывает очень холодно.",
+     "ex": "Is Moscow cold in winter? / It can get really cold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We have long, cold winters.",
+     "ru": "У нас долгая холодная зима.",
+     "ex": "We have long, cold winters and short summers.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Summers are short but hot.",
+     "ru": "Лето короткое, но жаркое.",
+     "ex": "What about the summer? / Summers are short but hot.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's typical British weather.",
+     "ru": "Типичная британская погода.",
+     "ex": "Sun, then rain, then sun again. / It's typical British weather.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You can have four seasons in one day here.",
+     "ru": "Здесь бывает четыре времени года за один день.",
+     "ex": "You can have four seasons in one day here. Always take a jacket.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's unusually warm for October.",
+     "ru": "Необычно тепло для октября.",
+     "ex": "It's unusually warm for October. Twenty degrees!",
+     "lvl": "B1"
+    },
+    {
+     "en": "We didn't have much of a summer this year.",
+     "ru": "В этом году лета, считай, не было.",
+     "ex": "We didn't have much of a summer this year. It rained all August.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The winters are getting milder.",
+     "ru": "Зимы становятся мягче.",
+     "ex": "The winters are getting milder. We hardly have snow now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's much hotter than it used to be.",
+     "ru": "Сейчас гораздо жарче, чем раньше.",
+     "ex": "It's much hotter than it used to be in summer.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We haven't had rain for weeks.",
+     "ru": "Дождя не было уже несколько недель.",
+     "ex": "We haven't had rain for weeks. The grass is brown.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The garden needs rain.",
+     "ru": "Саду нужен дождь.",
+     "ex": "The garden needs rain. Everything is dry.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's been flooding in the north.",
+     "ru": "На севере наводнения.",
+     "ex": "Did you see the news? There's been flooding in the north.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The match was cancelled because of the weather.",
+     "ru": "Матч отменили из-за погоды.",
+     "ex": "The match was cancelled because of the weather. Too much snow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "If it's nice tomorrow, let's have a picnic.",
+     "ru": "Если завтра будет хорошая погода, давай устроим пикник.",
+     "ex": "If it's nice tomorrow, let's have a picnic in the park.",
+     "lvl": "B1"
+    },
+    {
+     "en": "If it rains, we'll stay in.",
+     "ru": "Если пойдёт дождь, останемся дома.",
+     "ex": "What's the plan? / If it rains, we'll stay in.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not a day for going out.",
+     "ru": "Не тот день, чтобы выходить из дома.",
+     "ex": "It's not a day for going out. Let's watch a film.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Fingers crossed for good weather.",
+     "ru": "Будем надеяться на хорошую погоду. (скрестим пальцы)",
+     "ex": "The wedding is on Saturday. Fingers crossed for good weather!",
+     "lvl": "B1"
+    },
+    {
+     "en": "We were lucky with the weather.",
+     "ru": "Нам повезло с погодой.",
+     "ex": "How was your holiday? / Great. We were lucky with the weather.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The weather was awful on holiday.",
+     "ru": "В отпуске погода была ужасная.",
+     "ex": "The weather was awful on holiday. We stayed in the hotel.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hasn't it been warm lately?",
+     "ru": "Правда, в последнее время тепло? (вопрос для small talk)",
+     "ex": "Hasn't it been warm lately? / Yes, lovely.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Cold enough for you?",
+     "ru": "Холодно, а? (шутливо, small talk)",
+     "ex": "Cold enough for you? / Ha! Yes, I'm freezing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Bit grim out there, isn't it?",
+     "ru": "Мерзко на улице, да? (брит., small talk)",
+     "ex": "Bit grim out there, isn't it? / Awful. Wet and cold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "At least it's not raining.",
+     "ru": "По крайней мере, дождя нет.",
+     "ex": "It's so cold. / At least it's not raining.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It could be worse.",
+     "ru": "Могло быть и хуже.",
+     "ex": "Grey again. / It could be worse. It could be snowing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The weather's been all over the place.",
+     "ru": "Погода какая-то непредсказуемая.",
+     "ex": "Hot on Monday, snow on Wednesday. The weather's been all over the place.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hopefully it'll be better tomorrow.",
+     "ru": "Надеюсь, завтра будет лучше.",
+     "ex": "What a horrible day. / Hopefully it'll be better tomorrow.",
+     "lvl": "B1"
+    }
+   ]
   },
   {
    "id": "family",
