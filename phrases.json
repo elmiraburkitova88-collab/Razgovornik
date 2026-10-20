@@ -16740,6 +16740,984 @@
      "lvl": "B1"
     }
    ]
+  },
+  {
+   "id": "idioms",
+   "title": "Идиомы",
+   "phrases": [
+    {
+     "en": "It's a piece of cake.",
+     "ru": "Проще простого. (букв. «кусок торта»)",
+     "ex": "Was the test hard? / No, it was a piece of cake.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not rocket science.",
+     "ru": "Это не бином Ньютона. / Это несложно.",
+     "ex": "Just read the instructions. It's not rocket science.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Easier said than done.",
+     "ru": "Легче сказать, чем сделать.",
+     "ex": "Just stop eating sugar! / Easier said than done.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You'll soon get the hang of it.",
+     "ru": "Скоро наловчишься.",
+     "ex": "This software is confusing. / You'll soon get the hang of it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm still learning the ropes.",
+     "ru": "Я ещё вникаю в дело.",
+     "ex": "How's the new job? / OK, I'm still learning the ropes.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I learnt it by heart.",
+     "ru": "Я выучил это наизусть.",
+     "ex": "How do you know the whole poem? / I learnt it by heart at school.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I know this city like the back of my hand.",
+     "ru": "Я знаю этот город как свои пять пальцев.",
+     "ex": "Do you need a map? / No, I know this city like the back of my hand.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's all Greek to me.",
+     "ru": "Для меня это китайская грамота. (букв. «всё по-гречески»)",
+     "ex": "Can you read this contract? It's all Greek to me.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't make head nor tail of it.",
+     "ru": "Ничего не могу разобрать. / Не пойму, где начало, где конец.",
+     "ex": "Have you read the instructions? / Yes, but I can't make head nor tail of it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been racking my brains.",
+     "ru": "Я ломал голову.",
+     "ex": "What was his name? I've been racking my brains all day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Then the penny dropped.",
+     "ru": "И тут до меня дошло. (брит.)",
+     "ex": "I didn't understand the joke at first. Then the penny dropped.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You've got the wrong end of the stick.",
+     "ru": "Ты всё неправильно понял. (брит.)",
+     "ex": "So you're leaving your job? / No, you've got the wrong end of the stick.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You've hit the nail on the head.",
+     "ru": "В точку! / Ты попал в самую суть.",
+     "ex": "The problem is we don't talk. / You've hit the nail on the head.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Off the top of my head, I'd say fifty.",
+     "ru": "Навскидку — около пятидесяти.",
+     "ex": "How many people came? / Off the top of my head, I'd say fifty.",
+     "lvl": "B2"
+    },
+    {
+     "en": "In a nutshell, we need more money.",
+     "ru": "Короче говоря, нам нужно больше денег.",
+     "ex": "What's the problem? / In a nutshell, we need more money.",
+     "lvl": "B2"
+    },
+    {
+     "en": "To cut a long story short, we got married.",
+     "ru": "Короче, в итоге мы поженились.",
+     "ex": "How did you meet? / On a train. To cut a long story short, we got married.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's cut to the chase.",
+     "ru": "Перейдём к делу.",
+     "ex": "We don't have much time. Let's cut to the chase.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Stop beating about the bush.",
+     "ru": "Хватит ходить вокруг да около. (брит.)",
+     "ex": "Stop beating about the bush. What do you want?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm all ears.",
+     "ru": "Я весь внимание.",
+     "ex": "I have some news. / I'm all ears.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Come on, spill the beans!",
+     "ru": "Ну давай, выкладывай!",
+     "ex": "I went on a date last night. / Come on, spill the beans!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Who let the cat out of the bag?",
+     "ru": "Кто проболтался? (букв. «кто выпустил кошку из мешка»)",
+     "ex": "It was a surprise party. Who let the cat out of the bag?",
+     "lvl": "B2"
+    },
+    {
+     "en": "My lips are sealed.",
+     "ru": "Я — могила.",
+     "ex": "Don't tell anyone. / My lips are sealed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Keep it under your hat.",
+     "ru": "Держи это в секрете.",
+     "ex": "I'm getting a new job, but keep it under your hat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I heard it on the grapevine.",
+     "ru": "Слухами земля полнится. / Я краем уха слышал.",
+     "ex": "How do you know about the wedding? / I heard it on the grapevine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I heard it straight from the horse's mouth.",
+     "ru": "Я знаю это из первых уст.",
+     "ex": "Are you sure he's leaving? / Yes, I heard it straight from the horse's mouth.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Take it with a pinch of salt.",
+     "ru": "Не принимай это за чистую монету. (букв. «со щепоткой соли»)",
+     "ex": "He says he's a millionaire. Take it with a pinch of salt.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Speak of the devil!",
+     "ru": "Лёгок на помине!",
+     "ex": "Where's Tom? Oh, speak of the devil!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Mind your own business!",
+     "ru": "Не лезь не в своё дело!",
+     "ex": "How much do you earn? / Mind your own business!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's none of your business.",
+     "ru": "Это не твоё дело.",
+     "ex": "Who were you talking to? / It's none of your business.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm only pulling your leg.",
+     "ru": "Я просто тебя разыгрываю. (букв. «тяну за ногу»)",
+     "ex": "You've won the lottery! / Really? / No, I'm only pulling your leg.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Break a leg!",
+     "ru": "Ни пуха ни пера! (пожелание удачи перед выступлением)",
+     "ex": "My first concert is tonight. / Break a leg!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Touch wood!",
+     "ru": "Тьфу-тьфу, чтоб не сглазить! (брит.)",
+     "ex": "I've never been ill this year, touch wood!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Better safe than sorry.",
+     "ru": "Лучше перестраховаться.",
+     "ex": "Take an umbrella. Better safe than sorry.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's play it safe.",
+     "ru": "Давай не будем рисковать.",
+     "ex": "Let's play it safe and leave an hour early.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Better late than never.",
+     "ru": "Лучше поздно, чем никогда.",
+     "ex": "I've finally started learning English. / Better late than never!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hold your horses!",
+     "ru": "Не спеши! / Придержи коней!",
+     "ex": "Let's buy the house! / Hold your horses! We haven't seen it yet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll sleep on it.",
+     "ru": "Я подумаю до завтра. / Утро вечера мудренее.",
+     "ex": "Do you want the job? / Let me sleep on it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm having second thoughts.",
+     "ru": "Я начинаю сомневаться.",
+     "ex": "Are you still moving to Spain? / I'm having second thoughts.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He got cold feet.",
+     "ru": "Он струсил в последний момент. (букв. «у него замёрзли ноги»)",
+     "ex": "Why didn't he jump? / He got cold feet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll just have to bite the bullet.",
+     "ru": "Придётся стиснуть зубы и сделать.",
+     "ex": "I hate the dentist, but I'll just have to bite the bullet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The ball is in your court.",
+     "ru": "Теперь ход за тобой.",
+     "ex": "I've made my offer. The ball is in your court.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Our plans are still up in the air.",
+     "ru": "Наши планы ещё не определены.",
+     "ex": "Where are you going in summer? / Our plans are still up in the air.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're back to square one.",
+     "ru": "Мы вернулись к началу.",
+     "ex": "The client said no. We're back to square one.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're all in the same boat.",
+     "ru": "Мы все в одной лодке.",
+     "ex": "Nobody got a pay rise. We're all in the same boat.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You've missed the boat.",
+     "ru": "Ты упустил свой шанс.",
+     "ex": "The tickets are sold out. / You've missed the boat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's the best of both worlds.",
+     "ru": "Это лучшее от обоих вариантов.",
+     "ex": "I work from home two days a week. It's the best of both worlds.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's kill two birds with one stone.",
+     "ru": "Убьём двух зайцев. (букв. «двух птиц одним камнем»)",
+     "ex": "We're near the bank. Let's kill two birds with one stone and go now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't put all your eggs in one basket.",
+     "ru": "Не клади все яйца в одну корзину.",
+     "ex": "Apply to more than one university. Don't put all your eggs in one basket.",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's the last straw!",
+     "ru": "Это последняя капля!",
+     "ex": "He's late again? That's the last straw!",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's just the tip of the iceberg.",
+     "ru": "Это лишь верхушка айсберга.",
+     "ex": "We found one mistake, but that's just the tip of the iceberg.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's talk about the elephant in the room.",
+     "ru": "Давайте обсудим то, о чём все молчат.",
+     "ex": "Let's talk about the elephant in the room. The project is failing.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't make a mountain out of a molehill.",
+     "ru": "Не делай из мухи слона.",
+     "ex": "It's just a small scratch. Don't make a mountain out of a molehill.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a storm in a teacup.",
+     "ru": "Это буря в стакане воды. (брит.)",
+     "ex": "They argued, but it's a storm in a teacup. They'll be fine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Things got out of hand.",
+     "ru": "Ситуация вышла из-под контроля.",
+     "ex": "It was a small party, but things got out of hand.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm in hot water with my boss.",
+     "ru": "У меня неприятности с начальником.",
+     "ex": "I forgot the meeting. I'm in hot water with my boss.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You're on thin ice.",
+     "ru": "Ты ходишь по тонкому льду.",
+     "ex": "You've been late three times this week. You're on thin ice.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Now he has to face the music.",
+     "ru": "Теперь ему придётся отвечать за последствия.",
+     "ex": "He lied to the police, and now he has to face the music.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I really put my foot in it.",
+     "ru": "Я ляпнул не то. (брит.)",
+     "ex": "I asked her when the baby was due, but she isn't pregnant. I really put my foot in it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I passed by the skin of my teeth.",
+     "ru": "Я сдал еле-еле. (букв. «на толщину кожи зубов»)",
+     "ex": "Did you pass the exam? / By the skin of my teeth!",
+     "lvl": "B2"
+    },
+    {
+     "en": "We arrived in the nick of time.",
+     "ru": "Мы успели в последнюю секунду.",
+     "ex": "Did you catch the train? / Yes, we arrived in the nick of time.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He'd travel at the drop of a hat.",
+     "ru": "Он готов сорваться в путь в любую минуту.",
+     "ex": "Ask Tom to come. He'd travel at the drop of a hat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Once in a blue moon.",
+     "ru": "Раз в сто лет. / Очень редко.",
+     "ex": "Do you go to the cinema? / Once in a blue moon.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Every now and then.",
+     "ru": "Время от времени.",
+     "ex": "Do you still see your ex? / Every now and then.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sooner or later, you'll have to decide.",
+     "ru": "Рано или поздно тебе придётся решить.",
+     "ex": "I don't know what to do. / Sooner or later, you'll have to decide.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It'll save money in the long run.",
+     "ru": "В долгосрочной перспективе это сэкономит деньги.",
+     "ex": "Solar panels are expensive, but they'll save money in the long run.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's left for good.",
+     "ru": "Он уехал навсегда.",
+     "ex": "Is he coming back? / No, he's left for good.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They worked around the clock.",
+     "ru": "Они работали круглосуточно.",
+     "ex": "How did they finish so fast? / They worked around the clock.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We killed time in a café.",
+     "ru": "Мы убивали время в кафе.",
+     "ex": "The train was late, so we killed time in a café.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've got time on my hands.",
+     "ru": "У меня полно свободного времени.",
+     "ex": "Since I retired, I've got time on my hands.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Time is money.",
+     "ru": "Время — деньги.",
+     "ex": "Hurry up! Time is money.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I was burning the midnight oil.",
+     "ru": "Я засиделся за работой до глубокой ночи.",
+     "ex": "You look tired. / I was burning the midnight oil for my exam.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm going to hit the sack.",
+     "ru": "Пойду завалюсь спать.",
+     "ex": "It's late. I'm going to hit the sack.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I slept like a log.",
+     "ru": "Я спал как убитый. (букв. «как бревно»)",
+     "ex": "How did you sleep? / I slept like a log.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a night owl.",
+     "ru": "Я сова.",
+     "ex": "Do you get up early? / No, I'm a night owl.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm an early bird.",
+     "ru": "Я жаворонок.",
+     "ex": "You're up at five? / Yes, I'm an early bird.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The early bird catches the worm.",
+     "ru": "Кто рано встаёт, тому Бог подаёт.",
+     "ex": "Why are you queuing at 6 am? / The early bird catches the worm.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My grandad is as fit as a fiddle.",
+     "ru": "Дедушка здоров как бык. (букв. «как скрипка»)",
+     "ex": "My grandad is ninety and as fit as a fiddle.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I felt like a fish out of water.",
+     "ru": "Я чувствовал себя не в своей тарелке. (букв. «как рыба без воды»)",
+     "ex": "Everyone knew each other at the party. I felt like a fish out of water.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's a bit down in the dumps.",
+     "ru": "Она немного хандрит.",
+     "ex": "What's wrong with Anna? / She's a bit down in the dumps.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's on cloud nine.",
+     "ru": "Она на седьмом небе. (букв. «на девятом облаке»)",
+     "ex": "She got the job! She's on cloud nine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Keep your chin up.",
+     "ru": "Не вешай нос.",
+     "ex": "You failed the test? Keep your chin up. You'll pass next time.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I go running to let off steam.",
+     "ru": "Я бегаю, чтобы выпустить пар.",
+     "ex": "How do you deal with stress? / I go running to let off steam.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The noise is driving me up the wall.",
+     "ru": "Этот шум меня бесит.",
+     "ex": "The neighbours' dog barks all night. It's driving me up the wall.",
+     "lvl": "B2"
+    },
+    {
+     "en": "When he lied, I saw red.",
+     "ru": "Когда он соврал, я пришёл в ярость.",
+     "ex": "Were you angry? / When he lied, I saw red.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Dad hit the roof.",
+     "ru": "Папа был в ярости. (букв. «ударился о крышу»)",
+     "ex": "What happened when you crashed the car? / Dad hit the roof.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I gave him a piece of my mind.",
+     "ru": "Я высказал ему всё, что думаю.",
+     "ex": "He was rude, so I gave him a piece of my mind.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's a real pain in the neck.",
+     "ru": "Он настоящая заноза. (букв. «боль в шее»)",
+     "ex": "Do you like your new boss? / No, he's a real pain in the neck.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Get your act together!",
+     "ru": "Соберись! / Возьми себя в руки!",
+     "ex": "You've missed three deadlines. Get your act together!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Take it easy!",
+     "ru": "Не напрягайся! / Полегче!",
+     "ex": "I'm so stressed. / Take it easy! It's only a game.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Chill out!",
+     "ru": "Расслабься! (разг.)",
+     "ex": "Chill out! We've got plenty of time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let your hair down!",
+     "ru": "Расслабься, оторвись!",
+     "ex": "It's your birthday. Let your hair down!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's paint the town red!",
+     "ru": "Давай кутнём!",
+     "ex": "We've finished our exams. Let's paint the town red!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Just go with the flow.",
+     "ru": "Просто плыви по течению.",
+     "ex": "I don't know what to plan. / Just go with the flow.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Take it one day at a time.",
+     "ru": "Живи шаг за шагом, одним днём.",
+     "ex": "Recovery is slow. Take it one day at a time.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Keep calm and carry on.",
+     "ru": "Сохраняй спокойствие и продолжай. (британский девиз)",
+     "ex": "The printer broke again. Oh well, keep calm and carry on.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not over till it's over.",
+     "ru": "Ещё не вечер.",
+     "ex": "We're losing two-nil. / It's not over till it's over.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's head over heels in love.",
+     "ru": "Он влюблён по уши.",
+     "ex": "Look at him smiling. He's head over heels in love.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He popped the question on holiday.",
+     "ru": "Он сделал предложение в отпуске.",
+     "ex": "How did he propose? / He popped the question on holiday in Rome.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We got on like a house on fire.",
+     "ru": "Мы сразу отлично поладили. (букв. «как горящий дом»)",
+     "ex": "How was your date? / Great! We got on like a house on fire.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They're like two peas in a pod.",
+     "ru": "Они похожи как две капли воды. (букв. «две горошины в стручке»)",
+     "ex": "Look at the twins. They're like two peas in a pod.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We don't see eye to eye.",
+     "ru": "Мы расходимся во мнениях.",
+     "ex": "Do you agree with your boss? / We don't see eye to eye on most things.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She gave me the cold shoulder.",
+     "ru": "Она демонстративно меня игнорировала.",
+     "ex": "Is she still angry? / Yes, she gave me the cold shoulder all day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's bury the hatchet.",
+     "ru": "Давай зароем топор войны.",
+     "ex": "We've argued for years. Let's bury the hatchet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It takes two to tango.",
+     "ru": "Виноваты оба. (букв. «для танго нужны двое»)",
+     "ex": "It's all his fault! / It takes two to tango.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm turning over a new leaf.",
+     "ru": "Я начинаю с чистого листа.",
+     "ex": "No more junk food. I'm turning over a new leaf.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She has a heart of gold.",
+     "ru": "У неё золотое сердце.",
+     "ex": "She helps everyone. She has a heart of gold.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's very down to earth.",
+     "ru": "Он очень простой, без пафоса.",
+     "ex": "He's famous, but he's very down to earth.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's the life and soul of the party.",
+     "ru": "Он душа компании. (брит.)",
+     "ex": "Invite Mike. He's the life and soul of the party.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's really on the ball.",
+     "ru": "Она очень сообразительная и расторопная.",
+     "ex": "Our new assistant is really on the ball.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She always goes the extra mile.",
+     "ru": "Она всегда делает больше, чем нужно.",
+     "ex": "Customers love her. She always goes the extra mile.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He doesn't pull his weight.",
+     "ru": "Он не выполняет свою часть работы.",
+     "ex": "We're angry with Tom. He doesn't pull his weight.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't cut corners.",
+     "ru": "Не халтурь. (букв. «не срезай углы»)",
+     "ex": "Do it properly. Don't cut corners.",
+     "lvl": "B2"
+    },
+    {
+     "en": "His work isn't up to scratch.",
+     "ru": "Его работа не дотягивает до нужного уровня.",
+     "ex": "We can't send this. His work isn't up to scratch.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We need to think outside the box.",
+     "ru": "Нужно мыслить нестандартно.",
+     "ex": "The old ideas don't work. We need to think outside the box.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Everyone is jumping on the bandwagon.",
+     "ru": "Все подхватывают модную тенденцию.",
+     "ex": "Now every company has an AI app. Everyone is jumping on the bandwagon.",
+     "lvl": "B2"
+    },
+    {
+     "en": "A new version is in the pipeline.",
+     "ru": "Новая версия в разработке.",
+     "ex": "Is the app getting better? / Yes, a new version is in the pipeline.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've got the green light.",
+     "ru": "Нам дали зелёный свет.",
+     "ex": "Good news! We've got the green light for the project.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you give me a ballpark figure?",
+     "ru": "Можешь назвать примерную цифру?",
+     "ex": "I know it's hard to say, but can you give me a ballpark figure?",
+     "lvl": "B2"
+    },
+    {
+     "en": "The website is up and running.",
+     "ru": "Сайт запущен и работает.",
+     "ex": "Is the new website ready? / Yes, it's up and running.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's not talk shop.",
+     "ru": "Давай не будем о работе.",
+     "ex": "We're at a party. Let's not talk shop.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He got the sack.",
+     "ru": "Его уволили. (брит., разг.)",
+     "ex": "Why isn't Dave at work? / He got the sack.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've bitten off more than I can chew.",
+     "ru": "Я взял на себя больше, чем могу осилить.",
+     "ex": "Three jobs and a baby? I've bitten off more than I can chew.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You can't have your cake and eat it.",
+     "ru": "Нельзя получить всё сразу. (букв. «и съесть торт, и оставить»)",
+     "ex": "I want a big salary and no stress. / You can't have your cake and eat it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's food for thought.",
+     "ru": "Есть над чем подумать.",
+     "ex": "Maybe you should study abroad. / Hmm, that's food for thought.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It costs an arm and a leg.",
+     "ru": "Это стоит целое состояние. (букв. «руку и ногу»)",
+     "ex": "Do you want to go to Japan? / Yes, but it costs an arm and a leg.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It cost a bomb.",
+     "ru": "Это стоило кучу денег. (брит., разг.)",
+     "ex": "Nice car! / Thanks. It cost a bomb.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We paid through the nose for the tickets.",
+     "ru": "Мы заплатили за билеты втридорога.",
+     "ex": "How was the concert? / Great, but we paid through the nose for the tickets.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It won't break the bank.",
+     "ru": "Это не разорит.",
+     "ex": "Let's get a taxi. It won't break the bank.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's cheap and cheerful.",
+     "ru": "Дёшево и сердито. (брит.)",
+     "ex": "How's the new café? / It's cheap and cheerful.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm a bit strapped for cash.",
+     "ru": "Я сейчас на мели.",
+     "ex": "Can you come to dinner? / Sorry, I'm a bit strapped for cash.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's loaded.",
+     "ru": "Она очень богатая. (разг.)",
+     "ex": "She has three houses. She's loaded.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He was born with a silver spoon in his mouth.",
+     "ru": "Он родился с серебряной ложкой во рту.",
+     "ex": "He's never worked. He was born with a silver spoon in his mouth.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Money burns a hole in his pocket.",
+     "ru": "Деньги у него не задерживаются.",
+     "ex": "He spends his salary in a week. Money burns a hole in his pocket.",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's a bit over the top.",
+     "ru": "Это уже перебор.",
+     "ex": "A hundred balloons for a dog's birthday? That's a bit over the top.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Bob's your uncle!",
+     "ru": "И дело в шляпе! (брит.)",
+     "ex": "Press this button, then this one, and Bob's your uncle!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't jump the queue!",
+     "ru": "Не лезь без очереди! (брит.)",
+     "ex": "Hey! Don't jump the queue! We've been waiting for ages.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Over my dead body!",
+     "ru": "Только через мой труп!",
+     "ex": "Can I get a tattoo? / Over my dead body!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Great minds think alike!",
+     "ru": "Великие умы мыслят одинаково! (шутливо)",
+     "ex": "Let's order Chinese. / I was just going to say that! Great minds think alike!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Two heads are better than one.",
+     "ru": "Одна голова хорошо, а две лучше.",
+     "ex": "Can you help me with this? Two heads are better than one.",
+     "lvl": "B1"
+    },
+    {
+     "en": "No pain, no gain.",
+     "ru": "Без труда не выловишь и рыбку из пруда.",
+     "ex": "My legs hurt after the gym. / No pain, no gain!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Actions speak louder than words.",
+     "ru": "Дела говорят громче слов.",
+     "ex": "He always says sorry, but actions speak louder than words.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't judge a book by its cover.",
+     "ru": "Не суди по внешности. (букв. «книгу по обложке»)",
+     "ex": "The restaurant looks old, but don't judge a book by its cover.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Every cloud has a silver lining.",
+     "ru": "Нет худа без добра.",
+     "ex": "I missed the bus, but I met an old friend at the stop. Every cloud has a silver lining.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Losing that job was a blessing in disguise.",
+     "ru": "Не было бы счастья, да несчастье помогло.",
+     "ex": "Losing that job was a blessing in disguise. Now I love my work.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He called me out of the blue.",
+     "ru": "Он позвонил совершенно неожиданно.",
+     "ex": "I hadn't heard from him for years. Then he called me out of the blue.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's no use crying over spilt milk.",
+     "ru": "Что сделано, то сделано. (букв. «нет смысла плакать над пролитым молоком»)",
+     "ex": "I deleted the file. / It's no use crying over spilt milk. Start again.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Once bitten, twice shy.",
+     "ru": "Обжёгшись на молоке, дуешь на воду.",
+     "ex": "He won't lend money again. Once bitten, twice shy.",
+     "lvl": "B2"
+    },
+    {
+     "en": "When in Rome, do as the Romans do.",
+     "ru": "В чужой монастырь со своим уставом не ходят.",
+     "ex": "They eat dinner at ten here. When in Rome, do as the Romans do.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Rome wasn't built in a day.",
+     "ru": "Москва не сразу строилась.",
+     "ex": "I've studied for a month and I still can't speak. / Rome wasn't built in a day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Where there's a will, there's a way.",
+     "ru": "Кто хочет, тот добьётся.",
+     "ex": "I have no time to study. / Where there's a will, there's a way.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The grass is always greener on the other side.",
+     "ru": "Хорошо там, где нас нет.",
+     "ex": "I wish I lived in London. / The grass is always greener on the other side.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Curiosity killed the cat.",
+     "ru": "Любопытной Варваре на базаре нос оторвали.",
+     "ex": "What's in the box? / Curiosity killed the cat!",
+     "lvl": "B2"
+    },
+    {
+     "en": "You can't teach an old dog new tricks.",
+     "ru": "Старого пса новым трюкам не научишь.",
+     "ex": "My dad won't use a smartphone. You can't teach an old dog new tricks.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's no such thing as a free lunch.",
+     "ru": "Бесплатный сыр только в мышеловке.",
+     "ex": "The phone is free if you sign a two-year contract. There's no such thing as a free lunch.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Out of sight, out of mind.",
+     "ru": "С глаз долой — из сердца вон.",
+     "ex": "Since he moved, he never calls. Out of sight, out of mind.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let sleeping dogs lie.",
+     "ru": "Не буди лихо, пока оно тихо.",
+     "ex": "Should I ask him about the argument? / No, let sleeping dogs lie.",
+     "lvl": "B2"
+    },
+    {
+     "en": "No news is good news.",
+     "ru": "Отсутствие новостей — тоже хорошая новость.",
+     "ex": "Have you heard from the doctor? / Not yet. No news is good news.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Honesty is the best policy.",
+     "ru": "Честность — лучшая политика.",
+     "ex": "Should I tell her I broke it? / Yes. Honesty is the best policy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You only live once.",
+     "ru": "Живём один раз.",
+     "ex": "Should I buy the motorbike? / You only live once!",
+     "lvl": "B1"
+    },
+    {
+     "en": "All's well that ends well.",
+     "ru": "Всё хорошо, что хорошо кончается.",
+     "ex": "We missed the flight, but we got there in the end. All's well that ends well.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Home is where the heart is.",
+     "ru": "Дом там, где сердце.",
+     "ex": "Do you miss Russia? / Home is where the heart is.",
+     "lvl": "B1"
+    },
+    {
+     "en": "As a rule of thumb, add a little salt.",
+     "ru": "Как правило, добавляют немного соли. (rule of thumb — практическое правило)",
+     "ex": "How much salt? / As a rule of thumb, add a little and taste it.",
+     "lvl": "B2"
+    }
+   ]
   }
  ]
 }
