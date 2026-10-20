@@ -1456,7 +1456,716 @@
   {
    "id": "hotel",
    "title": "Отель",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "I have a reservation.",
+     "ru": "У меня забронирован номер.",
+     "ex": "Good evening. I have a reservation. / What name is it under?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've booked a double room for three nights.",
+     "ru": "Я забронировал двухместный номер на три ночи.",
+     "ex": "Hello. I've booked a double room for three nights. / Let me check.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The reservation is under the name Ivanova.",
+     "ru": "Бронь на имя Иванова.",
+     "ex": "What's the name, please? / The reservation is under the name Ivanova.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have any rooms available?",
+     "ru": "У вас есть свободные номера?",
+     "ex": "Do you have any rooms available? / Yes, for how many nights?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have a room for tonight?",
+     "ru": "У вас есть номер на сегодня?",
+     "ex": "Do you have a room for tonight? / Just one, I'm afraid.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like a single room, please.",
+     "ru": "Мне одноместный номер, пожалуйста.",
+     "ex": "What kind of room would you like? / I'd like a single room, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We'd like a twin room.",
+     "ru": "Нам номер с двумя отдельными кроватями.",
+     "ex": "Double or twin? / We'd like a twin room.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could we have two single beds?",
+     "ru": "Можно нам две отдельные кровати?",
+     "ex": "Could we have two single beds instead of a double?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could we have a room with a sea view?",
+     "ru": "Можно номер с видом на море?",
+     "ex": "Could we have a room with a sea view? / That's ten pounds extra.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have a room on a higher floor?",
+     "ru": "У вас есть номер на этаже повыше?",
+     "ex": "It's noisy downstairs. Do you have a room on a higher floor?",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much is it per night?",
+     "ru": "Сколько стоит за ночь?",
+     "ex": "How much is it per night? / Ninety pounds.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is that per person or per room?",
+     "ru": "Это за человека или за номер?",
+     "ex": "It's eighty pounds. / Is that per person or per room?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have anything cheaper?",
+     "ru": "У вас есть что-нибудь подешевле?",
+     "ex": "That's a bit expensive. Do you have anything cheaper?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is breakfast included?",
+     "ru": "Завтрак включён?",
+     "ex": "Is breakfast included? / Yes, from 7 to 10.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is the city tax included?",
+     "ru": "Туристический налог включён?",
+     "ex": "Is the city tax included in the price? / No, you pay it here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are towels included?",
+     "ru": "Полотенца входят в стоимость?",
+     "ex": "Are towels included? / Yes, they're in the room.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Does the room have a bath or a shower?",
+     "ru": "В номере ванна или душ?",
+     "ex": "Does the room have a bath or a shower? / Just a shower.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is it en suite?",
+     "ru": "В номере есть своя ванная? (en suite — брит.)",
+     "ex": "Is the room en suite? / Yes, it has its own bathroom.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a shared bathroom?",
+     "ru": "Ванная общая?",
+     "ex": "Is there a shared bathroom? / Yes, at the end of the corridor.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How many beds are there in the dorm?",
+     "ru": "Сколько кроватей в общем номере? (хостел)",
+     "ex": "How many beds are there in the dorm? / Six.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Does the room have air conditioning?",
+     "ru": "В номере есть кондиционер?",
+     "ex": "Does the room have air conditioning? / Yes, all our rooms do.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time is check-in?",
+     "ru": "Во сколько заселение?",
+     "ex": "What time is check-in? / From three o'clock.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time is check-out?",
+     "ru": "Во сколько нужно освободить номер?",
+     "ex": "What time is check-out? / By eleven.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I check in early?",
+     "ru": "Можно заселиться пораньше?",
+     "ex": "Our flight lands at 8. Can I check in early?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is late check-out possible?",
+     "ru": "Можно выехать попозже?",
+     "ex": "Is late check-out possible? / Yes, until one, for a small fee.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you fill in this form, please?",
+     "ru": "Заполните, пожалуйста, эту форму.",
+     "ex": "Could you fill in this form, please? / Sure. Do you have a pen?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I see your ID, please?",
+     "ru": "Можно ваше удостоверение личности?",
+     "ex": "Can I see your ID, please? / Here's my passport.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do I need to pay a deposit?",
+     "ru": "Нужно вносить залог?",
+     "ex": "Do I need to pay a deposit? / Yes, fifty pounds. You get it back.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I pay when I check out?",
+     "ru": "Можно заплатить при выезде?",
+     "ex": "Can I pay when I check out? / Of course.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Welcome to the Grand Hotel.",
+     "ru": "Добро пожаловать в отель «Гранд».",
+     "ex": "Welcome to the Grand Hotel. How can I help?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Here's your key card.",
+     "ru": "Вот ваша карта-ключ.",
+     "ex": "Here's your key card. You're in room 214.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Your room is on the third floor.",
+     "ru": "Ваш номер на третьем этаже. (в Британии этажи считают от ground floor, по-нашему это четвёртый)",
+     "ex": "Your room is on the third floor. The lift is over there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The lift is on the left.",
+     "ru": "Лифт слева. (lift — лифт, брит.)",
+     "ex": "The lift is on the left, next to the stairs.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a lift?",
+     "ru": "Здесь есть лифт?",
+     "ex": "My bag is heavy. Is there a lift? / Yes, just there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could someone take my bags up?",
+     "ru": "Кто-нибудь может поднять мои сумки в номер?",
+     "ex": "Could someone take my bags up? / Of course, the porter will help you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you keep my bags until this evening?",
+     "ru": "Можете подержать мои сумки до вечера?",
+     "ex": "I've checked out. Can you keep my bags until this evening?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What time is breakfast?",
+     "ru": "Во сколько завтрак?",
+     "ex": "What time is breakfast? / From seven till ten.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where is breakfast served?",
+     "ru": "Где подают завтрак?",
+     "ex": "Where is breakfast served? / In the restaurant on the ground floor.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I have breakfast in my room?",
+     "ru": "Можно завтрак в номер?",
+     "ex": "Can I have breakfast in my room? / Yes, there's a small charge.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time does the bar close?",
+     "ru": "Во сколько закрывается бар?",
+     "ex": "What time does the bar close? / At midnight.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there Wi-Fi in the room?",
+     "ru": "В номере есть Wi-Fi?",
+     "ex": "Is there Wi-Fi in the room? / Yes, it's free.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How do I connect to the Wi-Fi?",
+     "ru": "Как подключиться к Wi-Fi?",
+     "ex": "How do I connect to the Wi-Fi? / Use your room number and surname.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a safe in the room?",
+     "ru": "В номере есть сейф?",
+     "ex": "Is there a safe in the room? / Yes, in the wardrobe.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have parking?",
+     "ru": "У вас есть парковка?",
+     "ex": "Do you have parking? / Yes, behind the hotel.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is parking free?",
+     "ru": "Парковка бесплатная?",
+     "ex": "Is parking free? / It's fifteen pounds a day.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have a gym?",
+     "ru": "У вас есть спортзал?",
+     "ex": "Do you have a gym? / Yes, on the first floor.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is the gym free for guests?",
+     "ru": "Спортзал бесплатный для гостей?",
+     "ex": "Is the gym free for guests? / Yes, it's open 24 hours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a swimming pool?",
+     "ru": "Здесь есть бассейн?",
+     "ex": "Is there a swimming pool? / Yes, an indoor one.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time does the pool close?",
+     "ru": "Во сколько закрывается бассейн?",
+     "ex": "What time does the pool close? / At nine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a hairdryer in the room?",
+     "ru": "В номере есть фен?",
+     "ex": "Is there a hairdryer in the room? / Yes, in the bathroom.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a kettle in the room?",
+     "ru": "В номере есть чайник? (в британских отелях обычно есть)",
+     "ex": "Is there a kettle in the room? / Yes, with tea and coffee.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I borrow an iron?",
+     "ru": "Можно взять утюг?",
+     "ex": "Can I borrow an iron? / I'll send one up.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I borrow a plug adapter?",
+     "ru": "Можно взять переходник для розетки?",
+     "ex": "My charger doesn't fit. Can I borrow a plug adapter?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have a laundry service?",
+     "ru": "У вас есть прачечная?",
+     "ex": "Do you have a laundry service? / Yes, the bag is in your wardrobe.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where can I do my washing?",
+     "ru": "Где можно постирать вещи?",
+     "ex": "Where can I do my washing? / There's a launderette nearby.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I get a cot for the baby?",
+     "ru": "Можно детскую кроватку? (cot — брит.)",
+     "ex": "We're travelling with a baby. Could I get a cot?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are pets allowed?",
+     "ru": "С животными можно?",
+     "ex": "Are pets allowed? / Yes, small dogs are fine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is smoking allowed?",
+     "ru": "Здесь можно курить?",
+     "ex": "Is smoking allowed? / Only outside, I'm afraid.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is room service available?",
+     "ru": "Можно заказать еду в номер?",
+     "ex": "Is room service available? / Yes, until 11 pm.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to order room service.",
+     "ru": "Я бы хотел заказать еду в номер.",
+     "ex": "Hello, I'd like to order room service. / Of course. What would you like?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you send it to room 214?",
+     "ru": "Можно доставить в номер 214?",
+     "ex": "Two sandwiches, please. Could you send it to room 214?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could I have a wake-up call at seven?",
+     "ru": "Можно разбудить меня звонком в семь?",
+     "ex": "Could I have a wake-up call at seven? / Certainly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I have an extra pillow?",
+     "ru": "Можно ещё одну подушку?",
+     "ex": "Could I have an extra pillow, please? / I'll bring one up.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could I have some more towels?",
+     "ru": "Можно ещё полотенец?",
+     "ex": "Could I have some more towels? / Of course.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you bring me a toothbrush?",
+     "ru": "Не могли бы вы принести зубную щётку?",
+     "ex": "I forgot mine. Could you bring me a toothbrush?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you clean my room, please?",
+     "ru": "Не могли бы вы убрать в номере?",
+     "ex": "Could you clean my room, please? / Yes, this afternoon.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you change the sheets, please?",
+     "ru": "Не могли бы вы поменять постельное бельё?",
+     "ex": "Could you change the sheets, please? / Of course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My room hasn't been cleaned.",
+     "ru": "В моём номере не убрали.",
+     "ex": "Excuse me, my room hasn't been cleaned today.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll put the Do Not Disturb sign on the door.",
+     "ru": "Я повешу на дверь табличку «Не беспокоить».",
+     "ex": "I want to sleep late. I'll put the Do Not Disturb sign on the door.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry to bother you.",
+     "ru": "Извините за беспокойство.",
+     "ex": "Sorry to bother you. Could I have more coffee?",
+     "lvl": "A2"
+    },
+    {
+     "en": "This is room 112.",
+     "ru": "Это из номера 112. (по телефону)",
+     "ex": "Reception. / Hello, this is room 112.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Please call reception if you need anything.",
+     "ru": "Если что-то понадобится, звоните на ресепшен.",
+     "ex": "Please call reception if you need anything. / Thank you.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Dial zero for reception.",
+     "ru": "Наберите ноль, чтобы позвонить на ресепшен.",
+     "ex": "How do I call reception? / Dial zero.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The reception is open 24 hours.",
+     "ru": "Ресепшен работает круглосуточно.",
+     "ex": "Can I arrive late? / Yes, the reception is open 24 hours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a problem with my room.",
+     "ru": "С моим номером проблема.",
+     "ex": "Hello, there's a problem with my room.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The air conditioning doesn't work.",
+     "ru": "Не работает кондиционер.",
+     "ex": "It's very hot. The air conditioning doesn't work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The heating isn't on.",
+     "ru": "Отопление не включено.",
+     "ex": "It's cold in here. The heating isn't on.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How do I turn on the heating?",
+     "ru": "Как включить отопление?",
+     "ex": "How do I turn on the heating? / There's a button by the door.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's very cold in my room.",
+     "ru": "В моём номере очень холодно.",
+     "ex": "It's very cold in my room. / I'll send someone up.",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's no hot water.",
+     "ru": "Нет горячей воды.",
+     "ex": "Excuse me, there's no hot water in my room.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The shower is broken.",
+     "ru": "Душ сломан.",
+     "ex": "The shower is broken. Can you fix it?",
+     "lvl": "A2"
+    },
+    {
+     "en": "How does the shower work?",
+     "ru": "Как включается душ?",
+     "ex": "How does the shower work? / Turn the big handle to the left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The toilet won't flush.",
+     "ru": "Унитаз не смывает.",
+     "ex": "Sorry, the toilet won't flush.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The TV isn't working.",
+     "ru": "Телевизор не работает.",
+     "ex": "The TV isn't working. / Try the red button.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The light in the bathroom doesn't work.",
+     "ru": "Свет в ванной не работает.",
+     "ex": "The light in the bathroom doesn't work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The window won't open.",
+     "ru": "Окно не открывается.",
+     "ex": "It's hot and the window won't open.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can someone have a look at it?",
+     "ru": "Кто-нибудь может посмотреть?",
+     "ex": "The shower is broken. Can someone have a look at it?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you send someone up?",
+     "ru": "Можете кого-нибудь прислать?",
+     "ex": "The TV doesn't work. Could you send someone up?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The room is too noisy.",
+     "ru": "В номере слишком шумно.",
+     "ex": "The room is too noisy. It's next to the lift.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The people next door are very loud.",
+     "ru": "Люди в соседнем номере очень шумят.",
+     "ex": "It's midnight and the people next door are very loud.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could I have a quieter room?",
+     "ru": "Можно номер потише?",
+     "ex": "Could I have a quieter room? / I'll see what we have.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could I change rooms?",
+     "ru": "Можно поменять номер?",
+     "ex": "The room smells of smoke. Could I change rooms?",
+     "lvl": "A2"
+    },
+    {
+     "en": "My key card doesn't work.",
+     "ru": "Моя карта-ключ не работает.",
+     "ex": "My key card doesn't work. / Let me fix it for you.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've locked myself out.",
+     "ru": "Я захлопнул дверь, а ключ остался внутри.",
+     "ex": "Sorry, I've locked myself out of room 305.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've lost my key.",
+     "ru": "Я потерял ключ.",
+     "ex": "I've lost my key. / No problem, here's a new one.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are there any messages for me?",
+     "ru": "Для меня есть какие-нибудь сообщения?",
+     "ex": "Are there any messages for me? / Yes, one.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I leave a message for Mr Jones?",
+     "ru": "Можно оставить сообщение для мистера Джонса?",
+     "ex": "Can I leave a message for Mr Jones in room 210?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you call a taxi for me?",
+     "ru": "Можете вызвать мне такси?",
+     "ex": "Could you call a taxi for me? / Of course. Where to?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a shuttle to the airport?",
+     "ru": "Есть трансфер до аэропорта?",
+     "ex": "Is there a shuttle to the airport? / Yes, every hour.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you recommend a restaurant nearby?",
+     "ru": "Можете порекомендовать ресторан поблизости?",
+     "ex": "Could you recommend a restaurant nearby? / Try the Italian one on the corner.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a supermarket near here?",
+     "ru": "Здесь поблизости есть супермаркет?",
+     "ex": "Is there a supermarket near here? / Yes, two minutes away.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a chemist nearby?",
+     "ru": "Рядом есть аптека? (chemist — аптека, брит.)",
+     "ex": "Is there a chemist nearby? / Yes, opposite the station.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have a map of the area?",
+     "ru": "У вас есть карта района?",
+     "ex": "Do you have a map of the area? / Here you are.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How far is it to the city centre?",
+     "ru": "Далеко до центра?",
+     "ex": "How far is it to the city centre? / About fifteen minutes on foot.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to extend my stay.",
+     "ru": "Я бы хотел продлить проживание.",
+     "ex": "I'd like to extend my stay until Sunday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I stay one more night?",
+     "ru": "Можно остаться ещё на одну ночь?",
+     "ex": "Can I stay one more night? / Yes, the room is free.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to cancel my booking.",
+     "ru": "Я бы хотел отменить бронь.",
+     "ex": "Hello, I'd like to cancel my booking for next week.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to check out, please.",
+     "ru": "Я хотел бы выехать из номера.",
+     "ex": "Good morning. I'd like to check out, please. / Room number?",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's this charge for?",
+     "ru": "За что вот это начисление?",
+     "ex": "What's this charge for? / That's the minibar.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I didn't use the minibar.",
+     "ru": "Я не пользовался мини-баром.",
+     "ex": "Sorry, I didn't use the minibar.",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's a mistake on the bill.",
+     "ru": "В счёте ошибка.",
+     "ex": "Excuse me, there's a mistake on the bill.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could I have an invoice for my company?",
+     "ru": "Можно счёт на компанию?",
+     "ex": "Could I have an invoice for my company? / Of course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've left my charger in the room.",
+     "ru": "Я оставил зарядку в номере.",
+     "ex": "Sorry, I've left my charger in the room. Can I go back?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think I left something in my room.",
+     "ru": "Кажется, я что-то забыл в номере.",
+     "ex": "I think I left something in my room. / Let's go and look.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How was your stay?",
+     "ru": "Как вам у нас понравилось?",
+     "ex": "How was your stay? / Very nice, thank you.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We really enjoyed our stay.",
+     "ru": "Нам у вас очень понравилось.",
+     "ex": "We really enjoyed our stay. Thank you!",
+     "lvl": "B1"
+    },
+    {
+     "en": "The room was lovely.",
+     "ru": "Номер был чудесный.",
+     "ex": "How was everything? / The room was lovely.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The staff were very helpful.",
+     "ru": "Персонал был очень отзывчивым.",
+     "ex": "We loved the hotel. The staff were very helpful.",
+     "lvl": "B1"
+    }
+   ]
   },
   {
    "id": "restaurant",
@@ -2187,12 +2896,1472 @@
   {
    "id": "shopping",
    "title": "Магазин и покупки",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "Can I help you?",
+     "ru": "Чем могу помочь?",
+     "ex": "Can I help you? / I'm just looking, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm just looking, thanks.",
+     "ru": "Я просто смотрю, спасибо.",
+     "ex": "Are you looking for anything? / I'm just looking, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is anyone serving you?",
+     "ru": "Вас уже обслуживают?",
+     "ex": "Is anyone serving you? / No, not yet.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for a jacket.",
+     "ru": "Я ищу куртку.",
+     "ex": "Can I help you? / Yes, I'm looking for a jacket.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm looking for a present for my mum.",
+     "ru": "Я ищу подарок для мамы.",
+     "ex": "I'm looking for a present for my mum. / How about a scarf?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can you recommend something?",
+     "ru": "Можете что-нибудь посоветовать?",
+     "ex": "I don't know what to buy. Can you recommend something?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you sell phone chargers?",
+     "ru": "У вас продаются зарядки для телефона?",
+     "ex": "Do you sell phone chargers? / Yes, over there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where can I find the milk?",
+     "ru": "Где найти молоко?",
+     "ex": "Excuse me, where can I find the milk? / At the back.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Which aisle is the bread in?",
+     "ru": "В каком ряду хлеб?",
+     "ex": "Which aisle is the bread in? / Aisle four.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Which floor is menswear on?",
+     "ru": "На каком этаже мужская одежда?",
+     "ex": "Which floor is menswear on? / The second floor.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where are the changing rooms?",
+     "ru": "Где примерочные? (брит.)",
+     "ex": "Where are the changing rooms? / At the back on the left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I try it on?",
+     "ru": "Можно примерить?",
+     "ex": "I like this dress. Can I try it on? / Of course.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I try these on?",
+     "ru": "Можно примерить эти? (брюки, обувь)",
+     "ex": "Can I try these on? / Sure, what size are you?",
+     "lvl": "A2"
+    },
+    {
+     "en": "What size are you?",
+     "ru": "Какой у вас размер?",
+     "ex": "What size are you? / I'm a medium.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm a medium.",
+     "ru": "У меня размер M.",
+     "ex": "What size do you need? / I'm a medium.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have this in a smaller size?",
+     "ru": "Есть такое на размер меньше?",
+     "ex": "It's too big. Do you have this in a smaller size?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have it in a larger size?",
+     "ru": "Есть на размер больше?",
+     "ex": "Do you have it in a larger size? / Let me check.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have it in blue?",
+     "ru": "Есть такое синего цвета?",
+     "ex": "I like this shirt. Do you have it in blue?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have it in other colours?",
+     "ru": "Есть другие цвета?",
+     "ex": "Do you have it in other colours? / Black and grey.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's too big.",
+     "ru": "Слишком большой.",
+     "ex": "How is it? / It's too big.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's too small.",
+     "ru": "Слишком маленький.",
+     "ex": "It's too small. Can I have a bigger one?",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's too tight.",
+     "ru": "Слишком тесно.",
+     "ex": "How are the jeans? / They're too tight.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It doesn't fit.",
+     "ru": "Не подходит по размеру.",
+     "ex": "It doesn't fit. I need a smaller size.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It fits perfectly.",
+     "ru": "Сидит идеально.",
+     "ex": "How's the jacket? / It fits perfectly!",
+     "lvl": "A2"
+    },
+    {
+     "en": "It suits you.",
+     "ru": "Тебе идёт.",
+     "ex": "Do you like this hat? / Yes, it suits you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What do you think?",
+     "ru": "Как тебе?",
+     "ex": "What do you think? / It looks great.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Does this look OK?",
+     "ru": "Нормально смотрится?",
+     "ex": "Does this look OK? / Yes, it's nice.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I see that one, please?",
+     "ru": "Можно посмотреть вон тот?",
+     "ex": "Can I see that one, please? / This one? / Yes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Not that one, the one on the left.",
+     "ru": "Не этот, тот, что слева.",
+     "ex": "This one? / Not that one, the one on the left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I have a closer look?",
+     "ru": "Можно посмотреть поближе?",
+     "ex": "That watch is nice. Can I have a closer look?",
+     "lvl": "A2"
+    },
+    {
+     "en": "This one or that one?",
+     "ru": "Этот или тот?",
+     "ex": "This one or that one? / I prefer that one.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Which one is better?",
+     "ru": "Какой лучше?",
+     "ex": "Which one is better? / This one is stronger.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the difference between these two?",
+     "ru": "В чём разница между этими двумя?",
+     "ex": "What's the difference between these two? / This one is waterproof.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you got anything similar?",
+     "ru": "У вас есть что-нибудь похожее?",
+     "ex": "It's too expensive. Have you got anything similar?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's it made of?",
+     "ru": "Из чего это сделано?",
+     "ex": "What's it made of? / Cotton.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it real leather?",
+     "ru": "Это натуральная кожа?",
+     "ex": "Is it real leather? / Yes, it is.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it machine washable?",
+     "ru": "Это можно стирать в машинке?",
+     "ex": "Is it machine washable? / Yes, at thirty degrees.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not quite what I'm looking for.",
+     "ru": "Это не совсем то, что я ищу.",
+     "ex": "How about this one? / It's not quite what I'm looking for.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll take it.",
+     "ru": "Я возьму это.",
+     "ex": "It's thirty pounds. / OK, I'll take it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll think about it.",
+     "ru": "Я подумаю.",
+     "ex": "Would you like to buy it? / I'll think about it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much is this?",
+     "ru": "Сколько это стоит?",
+     "ex": "How much is this? / Twelve pounds.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much are these?",
+     "ru": "Сколько стоят эти?",
+     "ex": "How much are these? / Five pounds each.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's too expensive.",
+     "ru": "Это слишком дорого.",
+     "ex": "It's ninety pounds. / It's too expensive.",
+     "lvl": "A2"
+    },
+    {
+     "en": "That's a good price.",
+     "ru": "Хорошая цена.",
+     "ex": "It's only ten pounds. / That's a good price.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a bargain!",
+     "ru": "Это очень выгодно!",
+     "ex": "Only five pounds? It's a bargain!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a rip-off!",
+     "ru": "Это грабёж! (слишком дорого, разг.)",
+     "ex": "Twenty pounds for a sandwich? It's a rip-off!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I can't afford it.",
+     "ru": "Я не могу себе это позволить.",
+     "ex": "Do you like it? / Yes, but I can't afford it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm on a budget.",
+     "ru": "У меня ограниченный бюджет.",
+     "ex": "I'm on a budget. Do you have anything cheaper?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it on sale?",
+     "ru": "Это по распродаже?",
+     "ex": "Is it on sale? / Yes, it's half price.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a discount?",
+     "ru": "Есть скидка?",
+     "ex": "Is there a discount if I buy two?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are these reduced?",
+     "ru": "На эти снижена цена?",
+     "ex": "Are these reduced? / Yes, 30% off.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's on special offer.",
+     "ru": "Это по специальному предложению.",
+     "ex": "The coffee is on special offer this week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Twenty percent off everything.",
+     "ru": "Скидка 20% на всё.",
+     "ex": "Look! Twenty percent off everything!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Buy one, get one free.",
+     "ru": "Купи один — второй бесплатно.",
+     "ex": "The shampoo is buy one, get one free.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you do it for twenty?",
+     "ru": "Отдадите за двадцать? (на рынке)",
+     "ex": "It's twenty-five pounds. / Can you do it for twenty?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you keep it for me until tomorrow?",
+     "ru": "Можете отложить это для меня до завтра?",
+     "ex": "I don't have my card. Can you keep it for me until tomorrow?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is it in stock?",
+     "ru": "Это есть в наличии?",
+     "ex": "Is it in stock? / Yes, we have three left.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, we've sold out.",
+     "ru": "Извините, всё раскупили.",
+     "ex": "Do you have the new iPhone? / Sorry, we've sold out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When will you get more in?",
+     "ru": "Когда снова будет в наличии?",
+     "ex": "When will you get more in? / Next week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you order it for me?",
+     "ru": "Можете заказать это для меня?",
+     "ex": "We don't have your size. / Can you order it for me?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I order it online?",
+     "ru": "Можно заказать это онлайн?",
+     "ex": "Can I order it online? / Yes, on our website.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you deliver?",
+     "ru": "У вас есть доставка?",
+     "ex": "This sofa is big. Do you deliver? / Yes, we do.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much is delivery?",
+     "ru": "Сколько стоит доставка?",
+     "ex": "How much is delivery? / It's free over fifty pounds.",
+     "lvl": "A2"
+    },
+    {
+     "en": "When will it arrive?",
+     "ru": "Когда это привезут?",
+     "ex": "When will it arrive? / In three to five days.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where do I pay?",
+     "ru": "Где платить?",
+     "ex": "Where do I pay? / At the front.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where's the till?",
+     "ru": "Где касса? (till — касса, брит.)",
+     "ex": "Excuse me, where's the till? / Just there.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you in the queue?",
+     "ru": "Вы в очереди? / Вы стоите?",
+     "ex": "Excuse me, are you in the queue? / Yes, I am.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Next, please!",
+     "ru": "Следующий, пожалуйста!",
+     "ex": "Next, please! / Hi, just this, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How does the self-checkout work?",
+     "ru": "Как работает касса самообслуживания?",
+     "ex": "How does the self-checkout work? / Scan your items here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Unexpected item in the bagging area.",
+     "ru": "Неизвестный предмет в зоне упаковки. (голос кассы самообслуживания)",
+     "ex": "Unexpected item in the bagging area. / Oh no, not again!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you weigh this for me?",
+     "ru": "Не могли бы вы это взвесить?",
+     "ex": "Could you weigh this for me? / Sure, it's 800 grams.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you need a bag?",
+     "ru": "Вам нужен пакет?",
+     "ex": "Do you need a bag? / Yes, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "No, I've got a bag, thanks.",
+     "ru": "Нет, у меня есть пакет, спасибо.",
+     "ex": "Do you want a bag? / No, I've got a bag, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I have a bag, please?",
+     "ru": "Можно пакет?",
+     "ex": "Can I have a bag, please? / That's 10p.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Cash or card?",
+     "ru": "Наличными или картой?",
+     "ex": "That's fifteen pounds. Cash or card?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Card, please.",
+     "ru": "Картой, пожалуйста.",
+     "ex": "Cash or card? / Card, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I pay in cash?",
+     "ru": "Можно заплатить наличными?",
+     "ex": "Can I pay in cash? / Of course.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I pay with my phone?",
+     "ru": "Можно оплатить телефоном?",
+     "ex": "Can I pay with my phone? / Yes, just tap here.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I pay half in cash and half by card?",
+     "ru": "Можно часть наличными, часть картой?",
+     "ex": "Can I pay half in cash and half by card? / No problem.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Please enter your PIN.",
+     "ru": "Введите ПИН-код.",
+     "ex": "Please enter your PIN. / OK, done.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Your card has been declined.",
+     "ru": "Ваша карта отклонена.",
+     "ex": "Sorry, your card has been declined.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I try again?",
+     "ru": "Можно попробовать ещё раз?",
+     "ex": "It didn't work. / Can I try again?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have change for a twenty?",
+     "ru": "Не разменяете двадцатку?",
+     "ex": "Do you have change for a twenty? / Sorry, no.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sorry, I don't have any change.",
+     "ru": "Извините, у меня нет мелочи.",
+     "ex": "Do you have 50p? / Sorry, I don't have any change.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Here's your change.",
+     "ru": "Вот ваша сдача.",
+     "ex": "Here's your change. / Thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I think you've given me the wrong change.",
+     "ru": "Кажется, вы неправильно дали сдачу.",
+     "ex": "Excuse me, I think you've given me the wrong change.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you want the receipt?",
+     "ru": "Чек нужен?",
+     "ex": "Do you want the receipt? / Yes, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could I have a gift receipt?",
+     "ru": "Можно подарочный чек (без цены)?",
+     "ex": "It's a present. Could I have a gift receipt?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a present.",
+     "ru": "Это подарок.",
+     "ex": "Is it for you? / No, it's a present.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you gift-wrap it?",
+     "ru": "Можете упаковать как подарок?",
+     "ex": "It's a present. Could you gift-wrap it?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have a loyalty card?",
+     "ru": "У вас есть карта лояльности?",
+     "ex": "Do you have a loyalty card? / No, I don't.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I return it if it doesn't fit?",
+     "ru": "Можно вернуть, если не подойдёт?",
+     "ex": "Can I return it if it doesn't fit? / Yes, within 30 days.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's your returns policy?",
+     "ru": "Какие у вас правила возврата?",
+     "ex": "What's your returns policy? / You have 28 days with a receipt.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd like to return this.",
+     "ru": "Я хотел бы это вернуть.",
+     "ex": "I'd like to return this. / Do you have the receipt?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to exchange this for a bigger size.",
+     "ru": "Я хотел бы обменять это на размер больше.",
+     "ex": "I'd like to exchange this for a bigger size.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I bought it here yesterday.",
+     "ru": "Я купил это здесь вчера.",
+     "ex": "I bought it here yesterday and it doesn't work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you have the receipt?",
+     "ru": "У вас есть чек?",
+     "ex": "I'd like to return these shoes. / Do you have the receipt?",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's broken.",
+     "ru": "Это сломано.",
+     "ex": "I'd like to return this. It's broken.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It doesn't work.",
+     "ru": "Это не работает.",
+     "ex": "What's the problem? / It doesn't work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's a hole in it.",
+     "ru": "Здесь дырка.",
+     "ex": "I'd like to change this jumper. There's a hole in it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I have my money back?",
+     "ru": "Можно вернуть деньги?",
+     "ex": "It doesn't fit. Can I have my money back?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a guarantee?",
+     "ru": "Есть гарантия?",
+     "ex": "Is there a guarantee? / Yes, two years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where can I get this repaired?",
+     "ru": "Где это можно починить?",
+     "ex": "My phone screen is broken. Where can I get this repaired?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What time do you open?",
+     "ru": "Во сколько вы открываетесь?",
+     "ex": "What time do you open tomorrow? / At nine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are you open on Sundays?",
+     "ru": "Вы работаете по воскресеньям?",
+     "ex": "Are you open on Sundays? / Yes, from ten to four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What are your opening hours?",
+     "ru": "Какой у вас график работы?",
+     "ex": "What are your opening hours? / Nine to six, Monday to Saturday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're closing in ten minutes.",
+     "ru": "Мы закрываемся через десять минут.",
+     "ex": "Sorry, we're closing in ten minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where's the nearest supermarket?",
+     "ru": "Где ближайший супермаркет?",
+     "ex": "Where's the nearest supermarket? / On the high street.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a shopping centre near here?",
+     "ru": "Здесь поблизости есть торговый центр? (брит.)",
+     "ex": "Is there a shopping centre near here? / Yes, by the station.",
+     "lvl": "A2"
+    },
+    {
+     "en": "A kilo of apples, please.",
+     "ru": "Килограмм яблок, пожалуйста.",
+     "ex": "A kilo of apples, please. / Red or green?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Half a kilo of cheese, please.",
+     "ru": "Полкило сыра, пожалуйста.",
+     "ex": "Half a kilo of cheese, please. / This one?",
+     "lvl": "A2"
+    },
+    {
+     "en": "A loaf of bread, please.",
+     "ru": "Буханку хлеба, пожалуйста.",
+     "ex": "A loaf of bread, please. / White or brown?",
+     "lvl": "A2"
+    },
+    {
+     "en": "A bottle of water, please.",
+     "ru": "Бутылку воды, пожалуйста.",
+     "ex": "A bottle of water, please. / That's one pound.",
+     "lvl": "A2"
+    },
+    {
+     "en": "A packet of crisps, please.",
+     "ru": "Пачку чипсов, пожалуйста. (crisps — чипсы, брит.)",
+     "ex": "A packet of crisps, please. / Which flavour?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are these fresh?",
+     "ru": "Они свежие?",
+     "ex": "Are these strawberries fresh? / Yes, from this morning.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the use-by date?",
+     "ru": "Какой срок годности?",
+     "ex": "What's the use-by date? / Next Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is this organic?",
+     "ru": "Это органическое?",
+     "ex": "Is this milk organic? / Yes, it is.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I taste it?",
+     "ru": "Можно попробовать на вкус?",
+     "ex": "This cheese looks nice. Can I taste it?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's go shopping.",
+     "ru": "Пойдём по магазинам.",
+     "ex": "I'm bored. Let's go shopping!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I need to do some food shopping.",
+     "ru": "Мне нужно купить продукты.",
+     "ex": "I can't come now. I need to do some food shopping.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I spent too much money.",
+     "ru": "Я потратил слишком много денег.",
+     "ex": "Did you buy a lot? / Yes, I spent too much money.",
+     "lvl": "A2"
+    }
+   ]
   },
   {
    "id": "transport",
    "title": "Транспорт и дорога",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "Where's the nearest bus stop?",
+     "ru": "Где ближайшая автобусная остановка?",
+     "ex": "Where's the nearest bus stop? / Just across the road.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Which bus goes to the city centre?",
+     "ru": "Какой автобус идёт до центра?",
+     "ex": "Which bus goes to the city centre? / The number 12.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Does this bus go to the station?",
+     "ru": "Этот автобус идёт до вокзала?",
+     "ex": "Does this bus go to the station? / Yes, get on.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How often do the buses run?",
+     "ru": "Как часто ходят автобусы?",
+     "ex": "How often do the buses run? / Every fifteen minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The bus runs every ten minutes.",
+     "ru": "Автобус ходит каждые десять минут.",
+     "ex": "Don't worry, the bus runs every ten minutes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When's the next bus?",
+     "ru": "Когда следующий автобус?",
+     "ex": "When's the next bus? / In five minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What time is the first bus in the morning?",
+     "ru": "Во сколько первый автобус утром?",
+     "ex": "What time is the first bus in the morning? / At 5:30.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a night bus?",
+     "ru": "Есть ночной автобус?",
+     "ex": "The tube is closed. Is there a night bus? / Yes, the N29.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a timetable?",
+     "ru": "Есть расписание?",
+     "ex": "Is there a timetable? / Yes, on the bus stop.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The bus is late.",
+     "ru": "Автобус опаздывает.",
+     "ex": "The bus is late again!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've missed the bus.",
+     "ru": "Я опоздал на автобус.",
+     "ex": "Oh no, I've missed the bus!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where do I buy a ticket?",
+     "ru": "Где купить билет?",
+     "ex": "Where do I buy a ticket? / From the machine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much is the fare?",
+     "ru": "Сколько стоит проезд?",
+     "ex": "How much is the fare? / One pound seventy-five.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I pay on the bus?",
+     "ru": "Можно заплатить в автобусе?",
+     "ex": "Can I pay on the bus? / Only by card.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do I need the exact change?",
+     "ru": "Нужно без сдачи?",
+     "ex": "Do I need the exact change? / Yes, the driver can't give change.",
+     "lvl": "B1"
+    },
+    {
+     "en": "A day ticket, please.",
+     "ru": "Проездной на день, пожалуйста.",
+     "ex": "A day ticket, please. / That's five pounds.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where can I top up my Oyster card?",
+     "ru": "Где пополнить карту Oyster? (лондонская транспортная карта)",
+     "ex": "Where can I top up my Oyster card? / At any tube station.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How many stops is it?",
+     "ru": "Сколько остановок?",
+     "ex": "How many stops is it to the museum? / Four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's three stops from here.",
+     "ru": "Это в трёх остановках отсюда.",
+     "ex": "Is the park far? / It's three stops from here.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where should I get off?",
+     "ru": "Где мне выходить?",
+     "ex": "I want to go to the zoo. Where should I get off?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you tell me where to get off?",
+     "ru": "Подскажете, где мне выйти?",
+     "ex": "I'm going to the hospital. Could you tell me where to get off?",
+     "lvl": "B1"
+    },
+    {
+     "en": "This is my stop.",
+     "ru": "Это моя остановка.",
+     "ex": "Bye! This is my stop.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Excuse me, this is my stop.",
+     "ru": "Простите, мне выходить.",
+     "ex": "Excuse me, this is my stop. / Oh, sorry.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'd like to get off here.",
+     "ru": "Я бы хотел выйти здесь.",
+     "ex": "Driver, I'd like to get off here, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I missed my stop.",
+     "ru": "Я проехал свою остановку.",
+     "ex": "I was reading and I missed my stop.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I got on the wrong bus.",
+     "ru": "Я сел не на тот автобус.",
+     "ex": "Sorry I'm late. I got on the wrong bus.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you move down, please?",
+     "ru": "Пройдите, пожалуйста, в салон.",
+     "ex": "The bus is full. Could you move down, please?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Would you like to sit down?",
+     "ru": "Не хотите сесть? (уступить место)",
+     "ex": "Would you like to sit down? / Oh, thank you!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is this seat reserved?",
+     "ru": "Это место забронировано?",
+     "ex": "Is this seat reserved? / Yes, from Leeds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hold on tight.",
+     "ru": "Держитесь крепче.",
+     "ex": "Hold on tight, the bus is moving.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Mind the gap.",
+     "ru": "Осторожно, зазор между поездом и платформой. (лондонское метро)",
+     "ex": "Mind the gap between the train and the platform.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Please stand clear of the doors.",
+     "ru": "Отойдите от дверей.",
+     "ex": "Please stand clear of the doors. The train is leaving.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Which line do I take to Oxford Circus?",
+     "ru": "По какой линии ехать до Оксфорд-Серкус?",
+     "ex": "Which line do I take to Oxford Circus? / The Victoria line.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where do I change for the Central line?",
+     "ru": "Где пересесть на Центральную линию?",
+     "ex": "Where do I change for the Central line? / At Bank.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is this the eastbound platform?",
+     "ru": "Это платформа поездов в восточном направлении?",
+     "ex": "Is this the eastbound platform? / No, it's over there.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There are delays on the Northern line.",
+     "ru": "На Северной линии задержки.",
+     "ex": "There are delays on the Northern line this morning.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The train has been cancelled.",
+     "ru": "Поезд отменили.",
+     "ex": "The train has been cancelled. Let's take the bus.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a strike tomorrow.",
+     "ru": "Завтра забастовка.",
+     "ex": "There's a strike tomorrow. No trains at all!",
+     "lvl": "B1"
+    },
+    {
+     "en": "The train was packed.",
+     "ru": "Поезд был битком.",
+     "ex": "How was your journey? / Awful. The train was packed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's rush hour, so it's very busy.",
+     "ru": "Сейчас час пик, поэтому очень много людей.",
+     "ex": "Why are there so many people? / It's rush hour, so it's very busy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I take my bike on the train?",
+     "ru": "Можно провезти велосипед в поезде?",
+     "ex": "Can I take my bike on the train? / Not at rush hour.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a ferry to the island?",
+     "ru": "Есть паром на остров?",
+     "ex": "Is there a ferry to the island? / Yes, twice a day.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I get seasick.",
+     "ru": "Меня укачивает на воде.",
+     "ex": "Let's take the plane. I get seasick.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I get carsick.",
+     "ru": "Меня укачивает в машине.",
+     "ex": "Can I sit in the front? I get carsick.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I get there by bus?",
+     "ru": "Туда можно доехать на автобусе?",
+     "ex": "Can I get there by bus? / Yes, the 73.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the quickest way to get to the airport?",
+     "ru": "Как быстрее всего добраться до аэропорта?",
+     "ex": "What's the quickest way to get to the airport? / The express train.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's quicker to walk.",
+     "ru": "Пешком быстрее.",
+     "ex": "Shall we take the bus? / No, it's quicker to walk.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll get a taxi.",
+     "ru": "Я возьму такси.",
+     "ex": "It's late. I'll get a taxi.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where's the taxi rank?",
+     "ru": "Где стоянка такси?",
+     "ex": "Where's the taxi rank? / Outside the main entrance.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll order a taxi on the app.",
+     "ru": "Я закажу такси через приложение.",
+     "ex": "How are you getting home? / I'll order a taxi on the app.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The driver is two minutes away.",
+     "ru": "Водитель будет через две минуты.",
+     "ex": "Is the taxi coming? / Yes, the driver is two minutes away.",
+     "lvl": "A2"
+    },
+    {
+     "en": "To this address, please.",
+     "ru": "По этому адресу, пожалуйста.",
+     "ex": "Where to? / To this address, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Take me to the station, please.",
+     "ru": "Отвезите меня на вокзал, пожалуйста.",
+     "ex": "Take me to the station, please. / Which one?",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much will it cost?",
+     "ru": "Сколько это будет стоить?",
+     "ex": "How much will it cost to the airport? / About forty pounds.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How long will it take?",
+     "ru": "Сколько времени это займёт?",
+     "ex": "How long will it take? / About twenty minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm in a hurry.",
+     "ru": "Я тороплюсь.",
+     "ex": "Can we go faster? I'm in a hurry.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you drive a bit slower?",
+     "ru": "Можно ехать чуть медленнее?",
+     "ex": "Could you drive a bit slower, please? I feel sick.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you stop here, please?",
+     "ru": "Остановите здесь, пожалуйста.",
+     "ex": "Could you stop here, please? / Sure.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Just here is fine, thanks.",
+     "ru": "Вот здесь нормально, спасибо.",
+     "ex": "Where shall I stop? / Just here is fine, thanks.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can you wait for me?",
+     "ru": "Можете меня подождать?",
+     "ex": "Can you wait for me? I'll be five minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Could you open the boot?",
+     "ru": "Можете открыть багажник? (boot — багажник, брит.)",
+     "ex": "Could you open the boot? I have a suitcase.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Excuse me, how do I get to the British Museum?",
+     "ru": "Извините, как пройти к Британскому музею?",
+     "ex": "Excuse me, how do I get to the British Museum? / Go straight, then left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Take the second turning on the left.",
+     "ru": "Сверните во второй поворот налево.",
+     "ex": "Take the second turning on the left. It's there.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Go past the church.",
+     "ru": "Пройдите мимо церкви.",
+     "ex": "Go past the church and the bank is on the right.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Cross the road.",
+     "ru": "Перейдите дорогу.",
+     "ex": "Cross the road and turn left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Go over the bridge.",
+     "ru": "Перейдите через мост.",
+     "ex": "Go over the bridge and you'll see the castle.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Keep going until you see a bank.",
+     "ru": "Идите, пока не увидите банк.",
+     "ex": "Keep going until you see a bank, then turn right.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's opposite the post office.",
+     "ru": "Это напротив почты.",
+     "ex": "Where's the pharmacy? / It's opposite the post office.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's next to the supermarket.",
+     "ru": "Это рядом с супермаркетом.",
+     "ex": "Where's the café? / It's next to the supermarket.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's between the bank and the café.",
+     "ru": "Это между банком и кафе.",
+     "ex": "Where's the bookshop? / It's between the bank and the café.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's at the end of the street.",
+     "ru": "Это в конце улицы.",
+     "ex": "Where's the school? / It's at the end of the street.",
+     "lvl": "A2"
+    },
+    {
+     "en": "You can't miss it.",
+     "ru": "Вы не пропустите. / Сразу увидите.",
+     "ex": "It's a big red building. You can't miss it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "At the roundabout, take the first exit.",
+     "ru": "На круговом перекрёстке съезжайте на первом съезде.",
+     "ex": "At the roundabout, take the first exit.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I think we're going the wrong way.",
+     "ru": "Кажется, мы едем не туда.",
+     "ex": "I think we're going the wrong way. Let's check the map.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where are we now?",
+     "ru": "Где мы сейчас?",
+     "ex": "Where are we now? / Near the river.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are we nearly there?",
+     "ru": "Мы почти приехали?",
+     "ex": "Are we nearly there? / Yes, five more minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We're almost there.",
+     "ru": "Мы почти на месте.",
+     "ex": "I'm tired! / Don't worry, we're almost there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We'll be there in ten minutes.",
+     "ru": "Мы будем там через десять минут.",
+     "ex": "Where are you? / We'll be there in ten minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm running late.",
+     "ru": "Я опаздываю.",
+     "ex": "Sorry, I'm running late. Start without me.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a traffic jam.",
+     "ru": "Там пробка.",
+     "ex": "Why are we stopping? / There's a traffic jam.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We're stuck in traffic.",
+     "ru": "Мы застряли в пробке.",
+     "ex": "Sorry, we're stuck in traffic.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The traffic is terrible today.",
+     "ru": "Сегодня ужасные пробки.",
+     "ex": "The traffic is terrible today. Let's take the tube.",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's been an accident.",
+     "ru": "Произошла авария.",
+     "ex": "The road is closed. There's been an accident.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The road is closed.",
+     "ru": "Дорога перекрыта.",
+     "ex": "We can't go this way. The road is closed.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there another way?",
+     "ru": "Есть другой путь?",
+     "ex": "The bridge is closed. Is there another way?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's take a shortcut.",
+     "ru": "Давай срежем путь.",
+     "ex": "We're late. Let's take a shortcut through the park.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Slow down!",
+     "ru": "Помедленнее!",
+     "ex": "Slow down! There's a school here.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Watch out!",
+     "ru": "Осторожно!",
+     "ex": "Watch out! There's a car!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Put your seat belt on.",
+     "ru": "Пристегнись.",
+     "ex": "Put your seat belt on, please. / OK.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the speed limit here?",
+     "ru": "Какое здесь ограничение скорости?",
+     "ex": "What's the speed limit here? / Thirty miles an hour.",
+     "lvl": "B1"
+    },
+    {
+     "en": "They drive on the left in the UK.",
+     "ru": "В Великобритании ездят по левой стороне.",
+     "ex": "Be careful! They drive on the left in the UK.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Look right before you cross.",
+     "ru": "Перед тем как переходить, посмотрите направо. (в Британии)",
+     "ex": "Remember, look right before you cross.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Press the button and wait.",
+     "ru": "Нажмите кнопку и ждите. (пешеходный светофор)",
+     "ex": "How do I cross? / Press the button and wait.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Wait for the green man.",
+     "ru": "Дождитесь зелёного человечка. (сигнал светофора)",
+     "ex": "Don't cross yet. Wait for the green man.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is there a car park near here?",
+     "ru": "Здесь поблизости есть парковка? (car park — брит.)",
+     "ex": "Is there a car park near here? / Yes, behind the cinema.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can I park here?",
+     "ru": "Здесь можно парковаться?",
+     "ex": "Can I park here? / Only for one hour.",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much is parking?",
+     "ru": "Сколько стоит парковка?",
+     "ex": "How much is parking? / Two pounds an hour.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Where do I pay for parking?",
+     "ru": "Где оплатить парковку?",
+     "ex": "Where do I pay for parking? / At the machine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a parking ticket.",
+     "ru": "Мне выписали штраф за парковку.",
+     "ex": "Oh no! I've got a parking ticket.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where's the nearest petrol station?",
+     "ru": "Где ближайшая заправка? (petrol — бензин, брит.)",
+     "ex": "Where's the nearest petrol station? / About a mile away.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I need to get petrol.",
+     "ru": "Мне нужно заправиться.",
+     "ex": "Can we stop? I need to get petrol.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Fill it up, please.",
+     "ru": "Полный бак, пожалуйста.",
+     "ex": "How much petrol? / Fill it up, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Diesel or petrol?",
+     "ru": "Дизель или бензин?",
+     "ex": "Is your car diesel or petrol? / Petrol.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Pump number four.",
+     "ru": "Колонка номер четыре.",
+     "ex": "Which pump? / Pump number four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a flat tyre.",
+     "ru": "У меня спустило колесо. (tyre — брит.)",
+     "ex": "Can you help me? I've got a flat tyre.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My car has broken down.",
+     "ru": "У меня сломалась машина.",
+     "ex": "Hello, my car has broken down on the motorway.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The car won't start.",
+     "ru": "Машина не заводится.",
+     "ex": "The car won't start. I think it's the battery.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need a mechanic.",
+     "ru": "Мне нужен механик.",
+     "ex": "My car is making a strange noise. I need a mechanic.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can you give me a lift?",
+     "ru": "Подвезёшь меня? (lift — подвезти, брит.)",
+     "ex": "Can you give me a lift to the station? / Sure, get in.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll pick you up at eight.",
+     "ru": "Я заеду за тобой в восемь.",
+     "ex": "I'll pick you up at eight. / Great, see you then.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you drop me at the station?",
+     "ru": "Можешь подбросить меня до вокзала?",
+     "ex": "Can you drop me at the station on your way?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you drive?",
+     "ru": "Ты водишь машину?",
+     "ex": "Do you drive? / Yes, but I don't have a car.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I don't have a driving licence.",
+     "ru": "У меня нет водительских прав. (driving licence — брит.)",
+     "ex": "Can you drive? / No, I don't have a driving licence.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've just passed my driving test.",
+     "ru": "Я только что сдал на права.",
+     "ex": "Guess what? I've just passed my driving test!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I rent a bike here?",
+     "ru": "Здесь можно взять велосипед напрокат?",
+     "ex": "Can I rent a bike here? / Yes, with the app.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is there a cycle lane?",
+     "ru": "Здесь есть велодорожка?",
+     "ex": "Is there a cycle lane to the centre? / Yes, by the river.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How do you get to work?",
+     "ru": "Как ты добираешься до работы?",
+     "ex": "How do you get to work? / By bus.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I usually take the bus.",
+     "ru": "Я обычно езжу на автобусе.",
+     "ex": "Do you drive to work? / No, I usually take the bus.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I go to work by bike.",
+     "ru": "Я езжу на работу на велосипеде.",
+     "ex": "You look fit! / I go to work by bike.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I walk to work.",
+     "ru": "Я хожу на работу пешком.",
+     "ex": "Do you take the tube? / No, I walk to work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I commute by train.",
+     "ru": "Я езжу на работу на поезде.",
+     "ex": "Where do you live? / Outside London. I commute by train.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It takes me about forty minutes.",
+     "ru": "У меня уходит около сорока минут.",
+     "ex": "How long does it take to get to work? / It takes me about forty minutes.",
+     "lvl": "A2"
+    }
+   ]
   },
   {
    "id": "doctor",
