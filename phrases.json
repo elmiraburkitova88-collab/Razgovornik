@@ -730,6 +730,168 @@
      "ru": "Простите, вы мистер Браун?",
      "ex": "Excuse me, are you Mr Brown? / Yes, that's me.",
      "lvl": "A2"
+    },
+    {
+     "en": "I don't think we've been introduced.",
+     "ru": "По-моему, нас не представили.",
+     "ex": "I don't think we've been introduced. I'm Kate. / Hi Kate, I'm Paul.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Your face rings a bell.",
+     "ru": "Ваше лицо мне кажется знакомым.",
+     "ex": "Your face rings a bell. Did we meet at Anna's party?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm terrible with names.",
+     "ru": "У меня ужасная память на имена.",
+     "ex": "Sorry, I'm terrible with names. Was it Mark? / Mike.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do you mind me asking where you're from?",
+     "ru": "Не возражаете, если я спрошу, откуда вы?",
+     "ex": "Do you mind me asking where you're from? / Not at all. I'm from Poland.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I couldn't help overhearing. Are you from Moscow?",
+     "ru": "Простите, я невольно услышал. Вы из Москвы?",
+     "ex": "I couldn't help overhearing. Are you from Moscow? / Yes! You too?",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's a lovely accent. Where's it from?",
+     "ru": "Какой приятный акцент. Откуда он?",
+     "ex": "That's a lovely accent. Where's it from? / Ireland.",
+     "lvl": "B2"
+    },
+    {
+     "en": "So, how do you fit into all this?",
+     "ru": "А вы как связаны со всем этим?",
+     "ex": "So, how do you fit into all this? / I'm the bride's cousin.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've got a mutual friend.",
+     "ru": "У нас есть общий друг.",
+     "ex": "How do you know Tom? / We've got a mutual friend, Sarah.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Fancy seeing you here!",
+     "ru": "Вот так встреча!",
+     "ex": "Anna! Fancy seeing you here! / Hi! What a surprise!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I hardly recognised you!",
+     "ru": "Я тебя еле узнал!",
+     "ex": "Is that you, Max? I hardly recognised you! / I've cut my hair.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You're looking well.",
+     "ru": "Отлично выглядишь. (брит.)",
+     "ex": "You're looking well! / Thanks, I've just been on holiday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Keeping busy?",
+     "ru": "Всё в делах?",
+     "ex": "Hi Sam. Keeping busy? / Always!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Mustn't grumble.",
+     "ru": "Грех жаловаться. (брит.)",
+     "ex": "How are things? / Oh, mustn't grumble.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Same old, same old.",
+     "ru": "Всё по-старому.",
+     "ex": "What's new with you? / Same old, same old.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Things have been pretty hectic lately.",
+     "ru": "В последнее время всё очень суматошно.",
+     "ex": "Sorry I haven't called. Things have been pretty hectic lately.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't believe how quickly the year's gone.",
+     "ru": "Не верится, как быстро пролетел год.",
+     "ex": "It's December already! I can't believe how quickly the year's gone.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been meaning to ask, how did the move go?",
+     "ru": "Давно хотел спросить: как прошёл переезд?",
+     "ex": "I've been meaning to ask, how did the move go? / Exhausting, but fine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "How did you end up living here?",
+     "ru": "Как так вышло, что ты здесь живёшь?",
+     "ex": "How did you end up living here? / I came for a job and stayed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "How are you finding London?",
+     "ru": "Как тебе Лондон? (какие впечатления)",
+     "ex": "How are you finding London? / I love it, but it's so expensive.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Are you settling in OK?",
+     "ru": "Ты нормально обживаешься?",
+     "ex": "Are you settling in OK? / Yes, slowly.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm still finding my feet.",
+     "ru": "Я ещё осваиваюсь.",
+     "ex": "How's the new job? / I'm still finding my feet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What do you get up to when you're not working?",
+     "ru": "Чем ты занимаешься, когда не работаешь?",
+     "ex": "What do you get up to when you're not working? / I paint a bit.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Have you got anything nice planned?",
+     "ru": "Планируешь что-нибудь интересное?",
+     "ex": "It's a long weekend. Have you got anything nice planned?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll let you get on.",
+     "ru": "Не буду тебя отвлекать. (брит.)",
+     "ex": "Well, you look busy. I'll let you get on.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was lovely to catch up.",
+     "ru": "Было здорово пообщаться.",
+     "ex": "It was lovely to catch up. / Yes, let's do it again soon.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We must do this again sometime.",
+     "ru": "Надо будет как-нибудь повторить.",
+     "ex": "Great evening! We must do this again sometime.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's not leave it so long next time.",
+     "ru": "В следующий раз давай не будем так долго не видеться.",
+     "ex": "Bye! And let's not leave it so long next time!",
+     "lvl": "B2"
     }
    ]
   },
@@ -1450,6 +1612,162 @@
      "ru": "Приятного пребывания!",
      "ex": "Here's your key. Enjoy your stay!",
      "lvl": "A2"
+    },
+    {
+     "en": "We're flying out first thing tomorrow.",
+     "ru": "Мы вылетаем завтра рано утром.",
+     "ex": "Are you ready? / Almost. We're flying out first thing tomorrow.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm travelling light.",
+     "ru": "Я путешествую налегке.",
+     "ex": "Is that all your luggage? / Yes, I'm travelling light.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I always pack at the last minute.",
+     "ru": "Я всегда собираю вещи в последний момент.",
+     "ex": "Have you packed yet? / No, I always pack at the last minute.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Make sure your passport is valid for six months.",
+     "ru": "Проверь, чтобы паспорт был действителен ещё полгода.",
+     "ex": "Before you book, make sure your passport is valid for six months.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do I need to fill in a landing card?",
+     "ru": "Мне нужно заполнять миграционную карту?",
+     "ex": "Do I need to fill in a landing card? / Not for this country.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm in transit.",
+     "ru": "Я транзитный пассажир.",
+     "ex": "Where are you going? / I'm in transit. I fly to Tokyo in two hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like to upgrade to business class.",
+     "ru": "Я бы хотел повысить класс до бизнеса.",
+     "ex": "I'd like to upgrade to business class. How much is it?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is there any way I can get on an earlier flight?",
+     "ru": "Можно как-то улететь более ранним рейсом?",
+     "ex": "Is there any way I can get on an earlier flight? / Let me check.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The flight was overbooked.",
+     "ru": "На рейс продали больше билетов, чем мест.",
+     "ex": "Why can't I board? / I'm sorry, the flight was overbooked.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been bumped off my flight.",
+     "ru": "Меня сняли с рейса из-за перебронирования.",
+     "ex": "I've been bumped off my flight. What happens now?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Am I entitled to compensation?",
+     "ru": "Мне положена компенсация?",
+     "ex": "The flight was five hours late. Am I entitled to compensation?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We were stuck at the airport for six hours.",
+     "ru": "Мы застряли в аэропорту на шесть часов.",
+     "ex": "How was the trip? / Awful. We were stuck at the airport for six hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We hit some turbulence.",
+     "ru": "Мы попали в зону турбулентности.",
+     "ex": "Was the flight OK? / We hit some turbulence, but it was fine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The journey took longer than expected.",
+     "ru": "Дорога заняла больше времени, чем ожидалось.",
+     "ex": "Sorry we're late. The journey took longer than expected.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're going on a city break.",
+     "ru": "Мы едем в город на пару дней. (city break — брит.)",
+     "ex": "Any plans? / We're going on a city break to Lisbon.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We got a last-minute deal.",
+     "ru": "Мы купили горящую путёвку.",
+     "ex": "How did you afford it? / We got a last-minute deal.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it all-inclusive?",
+     "ru": "Это «всё включено»?",
+     "ex": "Is it all-inclusive? / Yes, food and drinks are included.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're going self-catering.",
+     "ru": "Мы будем жить с кухней и готовить сами. (брит.)",
+     "ex": "Is breakfast included? / No, we're going self-catering.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're planning to explore the area.",
+     "ru": "Мы планируем изучить окрестности.",
+     "ex": "What will you do there? / We're planning to explore the area.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We like to go off the beaten track.",
+     "ru": "Мы любим места, куда не ездят туристы.",
+     "ex": "We like to go off the beaten track and meet local people.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit of a tourist trap.",
+     "ru": "Там просто выкачивают деньги из туристов.",
+     "ex": "Should we eat on the main square? / No, it's a bit of a tourist trap.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it worth the trip?",
+     "ru": "Стоит ли туда ехать?",
+     "ex": "The castle is two hours away. Is it worth the trip?",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's well worth a visit.",
+     "ru": "Туда определённо стоит съездить.",
+     "ex": "Have you been to Bath? It's well worth a visit.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I love getting lost in a new city.",
+     "ru": "Обожаю бродить по незнакомому городу куда глаза глядят.",
+     "ex": "Don't you use a map? / No, I love getting lost in a new city.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got itchy feet.",
+     "ru": "Мне не сидится на месте. (тянет путешествовать)",
+     "ex": "Another trip? / I know, I've got itchy feet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was the trip of a lifetime.",
+     "ru": "Это было путешествие всей жизни.",
+     "ex": "How was Peru? / Amazing. It was the trip of a lifetime.",
+     "lvl": "B2"
     }
    ]
   },
@@ -2164,6 +2482,162 @@
      "ru": "Персонал был очень отзывчивым.",
      "ex": "We loved the hotel. The staff were very helpful.",
      "lvl": "B1"
+    },
+    {
+     "en": "I'm afraid the room isn't quite what we expected.",
+     "ru": "Боюсь, номер не совсем то, чего мы ожидали.",
+     "ex": "I'm afraid the room isn't quite what we expected. It's very small.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The room doesn't look anything like the photos.",
+     "ru": "Номер совсем не похож на фотографии.",
+     "ex": "The room doesn't look anything like the photos on your website.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is there any chance of an upgrade?",
+     "ru": "Есть ли шанс получить номер получше?",
+     "ex": "It's our honeymoon. Is there any chance of an upgrade?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're celebrating our anniversary.",
+     "ru": "Мы отмечаем годовщину.",
+     "ex": "We're celebrating our anniversary. Could you put flowers in the room?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you put us in a room away from the lift?",
+     "ru": "Можно номер подальше от лифта?",
+     "ex": "I'm a light sleeper. Could you put us in a room away from the lift?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'd rather be on a lower floor.",
+     "ru": "Мы бы предпочли этаж пониже.",
+     "ex": "My mother can't walk far. We'd rather be on a lower floor.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'd like to stay somewhere a bit more central.",
+     "ru": "Мы бы хотели остановиться где-нибудь поближе к центру.",
+     "ex": "This area is too quiet. We'd like to stay somewhere a bit more central.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The hotel was fully booked.",
+     "ru": "Отель был полностью забронирован.",
+     "ex": "Why didn't you stay there? / The hotel was fully booked.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We booked through a third-party website.",
+     "ru": "Мы бронировали через сторонний сайт.",
+     "ex": "I can't find your booking. / We booked through a third-party website.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is cancellation free?",
+     "ru": "Отмена бесплатная?",
+     "ex": "Is cancellation free? / Yes, up to 48 hours before arrival.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's non-refundable.",
+     "ru": "Это без возврата денег.",
+     "ex": "Can I cancel? / I'm sorry, it's non-refundable.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do you offer a discount for longer stays?",
+     "ru": "Есть скидка при длительном проживании?",
+     "ex": "We're staying a month. Do you offer a discount for longer stays?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We got an early check-in at no extra cost.",
+     "ru": "Нам разрешили заселиться пораньше без доплаты.",
+     "ex": "The staff were lovely. We got an early check-in at no extra cost.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is there anywhere to store valuables?",
+     "ru": "Есть ли где хранить ценные вещи?",
+     "ex": "Is there anywhere to store valuables? / There's a safe at reception.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been overcharged.",
+     "ru": "С меня взяли лишнее.",
+     "ex": "I've been overcharged. The price was ninety, not a hundred and twenty.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I was charged twice for the same night.",
+     "ru": "С меня дважды сняли деньги за одну ночь.",
+     "ex": "Look at my bill. I was charged twice for the same night.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you waive the fee?",
+     "ru": "Можете не брать эту плату?",
+     "ex": "The late check-out was your mistake. Could you waive the fee?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd appreciate it if this could be sorted out today.",
+     "ru": "Буду признателен, если это решат сегодня.",
+     "ex": "The heating is still broken. I'd appreciate it if this could be sorted out today.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm not happy with the way this has been handled.",
+     "ru": "Я недоволен тем, как решали эту проблему.",
+     "ex": "I've asked three times. I'm not happy with the way this has been handled.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I barely slept a wink.",
+     "ru": "Я почти глаз не сомкнул.",
+     "ex": "How was the night? / I barely slept a wink. The street was so noisy.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was a bit run-down.",
+     "ru": "Отель был довольно обшарпанный.",
+     "ex": "How was the hotel? / Cheap, but a bit run-down.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The view was breathtaking.",
+     "ru": "Вид был потрясающий.",
+     "ex": "Did you like the room? / Yes, the view was breathtaking.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The staff couldn't do enough for us.",
+     "ru": "Персонал делал для нас всё возможное.",
+     "ex": "The staff couldn't do enough for us. We'll definitely come back.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's good value for the location.",
+     "ru": "За такое расположение это недорого.",
+     "ex": "It's not cheap, but it's good value for the location.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'll be checking out first thing.",
+     "ru": "Мы выезжаем рано утром.",
+     "ex": "We'll be checking out first thing. Can we pay the bill tonight?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll be leaving a review.",
+     "ru": "Я оставлю отзыв.",
+     "ex": "Thank you for everything. I'll be leaving a review.",
+     "lvl": "B2"
     }
    ]
   },
@@ -2890,6 +3364,162 @@
      "ru": "Можно терминал для оплаты картой?",
      "ex": "I'll pay by card. Can I have the card machine, please?",
      "lvl": "B1"
+    },
+    {
+     "en": "Could we have a table somewhere quieter?",
+     "ru": "Можно столик где-нибудь потише?",
+     "ex": "It's very loud here. Could we have a table somewhere quieter?",
+     "lvl": "B2"
+    },
+    {
+     "en": "What's the chef's speciality?",
+     "ru": "Какое фирменное блюдо шефа?",
+     "ex": "What's the chef's speciality? / The slow-cooked lamb.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't decide between the fish and the risotto.",
+     "ru": "Не могу выбрать между рыбой и ризотто.",
+     "ex": "I can't decide between the fish and the risotto. / Get both and share!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll go for the lamb.",
+     "ru": "Я, пожалуй, возьму баранину.",
+     "ex": "Have you decided? / Yes, I'll go for the lamb.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Shall we share a few starters?",
+     "ru": "Может, возьмём несколько закусок на всех?",
+     "ex": "Shall we share a few starters? / Good idea.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could I have the sauce on the side?",
+     "ru": "Можно соус отдельно?",
+     "ex": "Could I have the sauce on the side, please?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it possible to make it less spicy?",
+     "ru": "Можно сделать менее острым?",
+     "ex": "Is it possible to make it less spicy? / Of course.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm trying to cut down on carbs.",
+     "ru": "Я стараюсь есть меньше углеводов.",
+     "ex": "No bread for me, thanks. I'm trying to cut down on carbs.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll have whatever you're having.",
+     "ru": "Я буду то же, что и ты.",
+     "ex": "What are you having? / The burger. / I'll have whatever you're having.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's push the boat out.",
+     "ru": "Давай шиканём. (брит.)",
+     "ex": "It's your birthday. Let's push the boat out and order champagne.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit pricey, but it's worth it.",
+     "ru": "Дороговато, но того стоит.",
+     "ex": "Is that restaurant good? / It's a bit pricey, but it's worth it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My mouth is watering.",
+     "ru": "У меня слюнки текут.",
+     "ex": "Look at that cake! My mouth is watering.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got a sweet tooth.",
+     "ru": "Я сладкоежка.",
+     "ex": "Dessert? / Always! I've got a sweet tooth.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The portions are huge.",
+     "ru": "Порции огромные.",
+     "ex": "Don't order three dishes. The portions are huge.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit bland.",
+     "ru": "Немного пресно.",
+     "ex": "How's the soup? / It's a bit bland. Is there any salt?",
+     "lvl": "B2"
+    },
+    {
+     "en": "This isn't quite how I ordered it.",
+     "ru": "Это не совсем то, как я заказывал.",
+     "ex": "Excuse me, this isn't quite how I ordered it. I asked for no cheese.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My steak is overdone.",
+     "ru": "Мой стейк пережарен.",
+     "ex": "I asked for medium, but my steak is overdone.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Would you mind checking on our order?",
+     "ru": "Не могли бы вы узнать, как там наш заказ?",
+     "ex": "It's been forty minutes. Would you mind checking on our order?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could I possibly have a clean glass?",
+     "ru": "Можно, пожалуйста, чистый бокал?",
+     "ex": "Sorry, could I possibly have a clean glass? This one is dirty.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The service was a bit slow.",
+     "ru": "Обслуживание было медленноватым.",
+     "ex": "The food was great, but the service was a bit slow.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm stuffed.",
+     "ru": "Я объелся.",
+     "ex": "More pudding? / No, thanks. I'm stuffed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Shall we leave a tip?",
+     "ru": "Оставим чаевые?",
+     "ex": "The waiter was lovely. Shall we leave a tip?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's go Dutch.",
+     "ru": "Давай каждый за себя. (платить)",
+     "ex": "Let me pay. / No, let's go Dutch.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit of a hidden gem.",
+     "ru": "Это настоящая находка. (малоизвестное хорошее место)",
+     "ex": "Nobody knows this café. It's a bit of a hidden gem.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's always packed on Friday nights.",
+     "ru": "В пятницу вечером там всегда битком.",
+     "ex": "Book a table. It's always packed on Friday nights.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We had to queue for half an hour.",
+     "ru": "Нам пришлось стоять в очереди полчаса.",
+     "ex": "Was it busy? / Very. We had to queue for half an hour.",
+     "lvl": "B2"
     }
    ]
   },
@@ -3622,6 +4252,162 @@
      "ru": "Я потратил слишком много денег.",
      "ex": "Did you buy a lot? / Yes, I spent too much money.",
      "lvl": "A2"
+    },
+    {
+     "en": "I'm after a winter coat.",
+     "ru": "Я ищу зимнее пальто. (be after — брит., разг.)",
+     "ex": "Can I help you? / Yes, I'm after a winter coat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do you know where I could get one?",
+     "ru": "Не знаете, где можно такое купить?",
+     "ex": "We don't sell umbrellas. / Do you know where I could get one?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been looking for one of these for ages.",
+     "ru": "Я давно ищу такой.",
+     "ex": "Oh, a blue teapot! I've been looking for one of these for ages.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit out of my price range.",
+     "ru": "Это немного выше моего бюджета.",
+     "ex": "Do you like it? / Yes, but it's a bit out of my price range.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll shop around first.",
+     "ru": "Сначала посмотрю цены в других местах.",
+     "ex": "Shall I wrap it for you? / No, thanks. I'll shop around first.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I saw it cheaper online.",
+     "ru": "Я видел дешевле в интернете.",
+     "ex": "It's eighty pounds. / I saw it cheaper online.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you match that price?",
+     "ru": "Можете дать такую же цену?",
+     "ex": "It's sixty pounds on your website. Can you match that price?",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's daylight robbery!",
+     "ru": "Это грабёж средь бела дня! (брит.)",
+     "ex": "Fifteen pounds for a T-shirt? It's daylight robbery!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I got it for half price in the sales.",
+     "ru": "Я купил это за полцены на распродаже.",
+     "ex": "Nice jacket! / Thanks. I got it for half price in the sales.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The sales start on Boxing Day.",
+     "ru": "Распродажи начинаются 26 декабря. (Boxing Day — брит.)",
+     "ex": "Don't buy it now. The sales start on Boxing Day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They're flying off the shelves.",
+     "ru": "Их сметают с полок.",
+     "ex": "Are these new phones popular? / They're flying off the shelves.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They've run out of my size.",
+     "ru": "Моего размера не осталось.",
+     "ex": "Did you buy the boots? / No, they've run out of my size.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit snug.",
+     "ru": "Сидит в обтяжку. / Тесноват.",
+     "ex": "How's the jacket? / It's a bit snug around the shoulders.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit baggy.",
+     "ru": "Мешковато.",
+     "ex": "Do the jeans fit? / They're a bit baggy.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's not really me.",
+     "ru": "Это не совсем мой стиль.",
+     "ex": "Try this pink dress. / Hmm, it's not really me.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It goes with everything.",
+     "ru": "Подходит ко всему.",
+     "ex": "Buy the black bag. It goes with everything.",
+     "lvl": "B2"
+    },
+    {
+     "en": "These shoes don't go with my dress.",
+     "ru": "Эти туфли не подходят к платью.",
+     "ex": "These shoes don't go with my dress. I need something lighter.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm torn between these two.",
+     "ru": "Не могу выбрать из этих двух.",
+     "ex": "Which one do you like? / I'm torn between these two.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was an impulse buy.",
+     "ru": "Это была спонтанная покупка.",
+     "ex": "Why did you buy a guitar? / It was an impulse buy.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I treated myself to new trainers.",
+     "ru": "Я побаловал себя новыми кроссовками. (trainers — брит.)",
+     "ex": "I got paid, so I treated myself to new trainers.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Retail therapy!",
+     "ru": "Шопинг-терапия!",
+     "ex": "Bad day? / Terrible. Time for some retail therapy!",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was faulty when I bought it.",
+     "ru": "Оно было бракованным уже при покупке.",
+     "ex": "Did you drop it? / No, it was faulty when I bought it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm entitled to a refund.",
+     "ru": "Я имею право на возврат денег.",
+     "ex": "It broke after two days. I'm entitled to a refund.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Would you prefer a refund or an exchange?",
+     "ru": "Хотите вернуть деньги или обменять?",
+     "ex": "Would you prefer a refund or an exchange? / An exchange, please.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do you do click and collect?",
+     "ru": "Можно заказать онлайн и забрать в магазине? (click and collect — брит.)",
+     "ex": "Do you do click and collect? / Yes, it's ready in two hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll have it delivered.",
+     "ru": "Закажу доставку.",
+     "ex": "Can you carry the table home? / No, I'll have it delivered.",
+     "lvl": "B2"
     }
    ]
   },
@@ -4360,6 +5146,162 @@
      "ru": "У меня уходит около сорока минут.",
      "ex": "How long does it take to get to work? / It takes me about forty minutes.",
      "lvl": "A2"
+    },
+    {
+     "en": "The trains are running a reduced service.",
+     "ru": "Поезда ходят по сокращённому расписанию.",
+     "ex": "Why is the platform so busy? / The trains are running a reduced service.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's a replacement bus service.",
+     "ru": "Вместо поездов пустили автобусы.",
+     "ex": "The line is closed, but there's a replacement bus service.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The line is closed for engineering works.",
+     "ru": "Линия закрыта на ремонтные работы. (брит.)",
+     "ex": "The line is closed for engineering works this weekend.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I nearly missed my connection.",
+     "ru": "Я чуть не опоздал на пересадку.",
+     "ex": "The first train was late, so I nearly missed my connection.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Off-peak tickets are much cheaper.",
+     "ru": "Билеты вне часа пик намного дешевле. (брит.)",
+     "ex": "Travel after half nine. Off-peak tickets are much cheaper.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got a railcard.",
+     "ru": "У меня есть скидочная карта на поезда. (брит.)",
+     "ex": "Do you want a discount? / Yes, I've got a railcard.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is there step-free access?",
+     "ru": "Там можно пройти без ступенек? (для колясок, чемоданов)",
+     "ex": "I've got a pushchair. Is there step-free access?",
+     "lvl": "B2"
+    },
+    {
+     "en": "The escalator is out of order.",
+     "ru": "Эскалатор не работает.",
+     "ex": "Take the lift. The escalator is out of order.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The journey is a nightmare at rush hour.",
+     "ru": "В час пик дорога — это кошмар.",
+     "ex": "How's your commute? / The journey is a nightmare at rush hour.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'd better leave early to beat the traffic.",
+     "ru": "Лучше выехать пораньше, чтобы не попасть в пробки.",
+     "ex": "We'd better leave early to beat the traffic.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There are roadworks on the motorway.",
+     "ru": "На шоссе ремонт дороги.",
+     "ex": "Why is it so slow? / There are roadworks on the motorway.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's a diversion.",
+     "ru": "Здесь объезд.",
+     "ex": "We can't go straight. There's a diversion.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Take the next exit.",
+     "ru": "Съезжайте на следующем съезде.",
+     "ex": "Take the next exit, then turn left.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Pull over here.",
+     "ru": "Прижмитесь к обочине здесь.",
+     "ex": "Pull over here. I need to check the map.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it a long drive?",
+     "ru": "Долго ехать на машине?",
+     "ex": "Is it a long drive to Edinburgh? / About seven hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can we stop for a toilet break?",
+     "ru": "Можем остановиться в туалет?",
+     "ex": "Can we stop for a toilet break? / Sure, in ten minutes.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's stop at the next services.",
+     "ru": "Давай остановимся на следующей зоне отдыха. (services — брит.)",
+     "ex": "I'm hungry. Let's stop at the next services.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll drop you off on my way.",
+     "ru": "Я тебя подброшу по пути.",
+     "ex": "Do you need a lift? I'll drop you off on my way.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The driver let me off at the lights.",
+     "ru": "Водитель высадил меня на светофоре.",
+     "ex": "How did you get here so fast? / The driver let me off at the lights.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's quicker to cut through the park.",
+     "ru": "Быстрее срезать через парк.",
+     "ex": "Don't go round. It's quicker to cut through the park.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You're going the wrong way down a one-way street!",
+     "ru": "Ты едешь против движения по односторонней!",
+     "ex": "Stop! You're going the wrong way down a one-way street!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I got caught speeding.",
+     "ru": "Меня поймали за превышение скорости.",
+     "ex": "Why are you so upset? / I got caught speeding.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I got points on my licence.",
+     "ru": "Мне начислили штрафные баллы на права. (брит.)",
+     "ex": "I got caught speeding and got points on my licence.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm a nervous driver.",
+     "ru": "Я неуверенный водитель.",
+     "ex": "Can you drive in London? / No, I'm a nervous driver.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's a terrible back-seat driver.",
+     "ru": "Он вечно командует с заднего сиденья.",
+     "ex": "Don't let Dad come. He's a terrible back-seat driver.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The car is due for its MOT.",
+     "ru": "Машине пора проходить техосмотр. (MOT — брит.)",
+     "ex": "I can't lend you the car. It's due for its MOT.",
+     "lvl": "B2"
     }
    ]
   },
@@ -5092,6 +6034,162 @@
      "ru": "Выздоравливай!",
      "ex": "I'm off sick today. / Get well soon!",
      "lvl": "A2"
+    },
+    {
+     "en": "I'm feeling a bit under the weather.",
+     "ru": "Я немного приболел.",
+     "ex": "Are you coming to work? / No, I'm feeling a bit under the weather.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been feeling a bit run-down.",
+     "ru": "Я чувствую себя немного разбитым.",
+     "ex": "I've been feeling a bit run-down. Maybe I need vitamins.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got a splitting headache.",
+     "ru": "У меня раскалывается голова.",
+     "ex": "Can you turn the music off? I've got a splitting headache.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've pulled a muscle.",
+     "ru": "Я потянул мышцу.",
+     "ex": "I can't play today. I've pulled a muscle.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's been going on for a while.",
+     "ru": "Это длится уже какое-то время.",
+     "ex": "When did it start? / It's been going on for a while.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It keeps me awake at night.",
+     "ru": "Из-за этого я не сплю по ночам.",
+     "ex": "The pain in my shoulder keeps me awake at night.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It flares up now and then.",
+     "ru": "Время от времени обостряется.",
+     "ex": "Is your back always painful? / No, it flares up now and then.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm prone to migraines.",
+     "ru": "Я склонен к мигреням.",
+     "ex": "I'm prone to migraines, especially when I'm stressed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's a history of heart problems in my family.",
+     "ru": "В моей семье были проблемы с сердцем.",
+     "ex": "There's a history of heart problems in my family. Should I get checked?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm worried it might be something serious.",
+     "ru": "Я боюсь, что это может быть что-то серьёзное.",
+     "ex": "I've had this cough for a month. I'm worried it might be something serious.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Should I be worried?",
+     "ru": "Мне стоит волноваться?",
+     "ex": "Should I be worried? / No, it's very common.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it contagious?",
+     "ru": "Это заразно?",
+     "ex": "Is it contagious? / Yes, stay at home for three days.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What are my options?",
+     "ru": "Какие у меня варианты?",
+     "ex": "What are my options? / Physiotherapy or an operation.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like a second opinion.",
+     "ru": "Я бы хотел услышать мнение другого врача.",
+     "ex": "It's a big operation. I'd like a second opinion.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm having a check-up.",
+     "ru": "Я прохожу обследование.",
+     "ex": "Why are you at the clinic? / I'm having a check-up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Do I need to fast before the blood test?",
+     "ru": "Мне нужно не есть перед анализом крови?",
+     "ex": "Do I need to fast before the blood test? / Yes, for twelve hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm waiting for my test results.",
+     "ru": "Я жду результатов анализов.",
+     "ex": "Do you know what it is? / Not yet. I'm waiting for my test results.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The results came back normal.",
+     "ru": "Результаты в норме.",
+     "ex": "Good news. The results came back normal.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's healing nicely.",
+     "ru": "Хорошо заживает.",
+     "ex": "How's the cut? / It's healing nicely.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm on the mend.",
+     "ru": "Я иду на поправку.",
+     "ex": "How are you after the operation? / I'm on the mend, thanks.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm back on my feet.",
+     "ru": "Я снова на ногах.",
+     "ex": "I was ill for two weeks, but I'm back on my feet now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's an over-the-counter medicine.",
+     "ru": "Это лекарство продаётся без рецепта.",
+     "ex": "Do I need a prescription? / No, it's an over-the-counter medicine.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is there a generic version?",
+     "ru": "Есть аналог подешевле? (дженерик)",
+     "ex": "This is expensive. Is there a generic version?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I keep forgetting to take my tablets.",
+     "ru": "Я постоянно забываю пить таблетки.",
+     "ex": "I keep forgetting to take my tablets. / Set an alarm on your phone.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've run out of my medication.",
+     "ru": "У меня закончились лекарства.",
+     "ex": "I've run out of my medication. Can I get more today?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need a repeat prescription.",
+     "ru": "Мне нужен повторный рецепт. (брит.)",
+     "ex": "I need a repeat prescription for my blood pressure tablets.",
+     "lvl": "B2"
     }
    ]
   },
@@ -5824,6 +6922,162 @@
      "ru": "Это выгодно обеим сторонам.",
      "ex": "We get a discount and they get a big order. It's a win-win situation.",
      "lvl": "B1"
+    },
+    {
+     "en": "Let's get the ball rolling.",
+     "ru": "Давайте начнём.",
+     "ex": "Everyone's here, so let's get the ball rolling.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll keep this short.",
+     "ru": "Буду краток.",
+     "ex": "I know you're all busy, so I'll keep this short.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's keep it brief.",
+     "ru": "Давайте покороче.",
+     "ex": "We've only got ten minutes. Let's keep it brief.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can I run something by you?",
+     "ru": "Можно с тобой кое-что обсудить? (посоветоваться)",
+     "ex": "Can I run something by you? I've got an idea for the client.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like to get your input on this.",
+     "ru": "Я бы хотел узнать твоё мнение по этому вопросу.",
+     "ex": "You know the market well. I'd like to get your input on this.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's take this offline.",
+     "ru": "Давайте обсудим это отдельно. (не на общей встрече)",
+     "ex": "This is getting detailed. Let's take this offline.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can we circle back to this later?",
+     "ru": "Можем вернуться к этому позже?",
+     "ex": "We don't have the numbers yet. Can we circle back to this later?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's put it on hold for now.",
+     "ru": "Давай пока отложим.",
+     "ex": "The budget isn't ready. Let's put it on hold for now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We need to prioritise.",
+     "ru": "Нам нужно расставить приоритеты.",
+     "ex": "We can't do everything this week. We need to prioritise.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's not a priority right now.",
+     "ru": "Сейчас это не в приоритете.",
+     "ex": "What about the new logo? / It's not a priority right now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're up against a tight deadline.",
+     "ru": "У нас очень сжатые сроки.",
+     "ex": "No holidays this month. We're up against a tight deadline.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm working flat out.",
+     "ru": "Я работаю на пределе сил.",
+     "ex": "Can you take another project? / Sorry, I'm working flat out.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you take this off my hands?",
+     "ru": "Можешь забрать у меня эту задачу?",
+     "ex": "I'm too busy. Can you take this off my hands?",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's not part of my job description.",
+     "ru": "Это не входит в мои обязанности.",
+     "ex": "Can you clean the kitchen? / Sorry, that's not part of my job description.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll pick up where you left off.",
+     "ru": "Я продолжу с того места, где ты остановился.",
+     "ex": "I'm going on holiday. / Don't worry, I'll pick up where you left off.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm off on Friday, so I'll hand it over to Tom.",
+     "ru": "В пятницу меня не будет, так что передам это Тому.",
+     "ex": "Who's doing the report? / I'm off on Friday, so I'll hand it over to Tom.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could we push the meeting back to three?",
+     "ru": "Можем сдвинуть встречу на три?",
+     "ex": "I'm stuck in traffic. Could we push the meeting back to three?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could we bring the meeting forward?",
+     "ru": "Можем перенести встречу на более раннее время?",
+     "ex": "I have to leave at four. Could we bring the meeting forward?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll follow up with an email.",
+     "ru": "Я пришлю письмо по итогам.",
+     "ex": "Thanks for the call. I'll follow up with an email.",
+     "lvl": "B2"
+    },
+    {
+     "en": "As discussed, I've attached the contract.",
+     "ru": "Как и договаривались, прикладываю договор.",
+     "ex": "Dear Mr Lee, as discussed, I've attached the contract.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm happy to discuss this further.",
+     "ru": "Готов обсудить это подробнее.",
+     "ex": "If you have any questions, I'm happy to discuss this further.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's not reinvent the wheel.",
+     "ru": "Давай не будем изобретать велосипед.",
+     "ex": "Let's not reinvent the wheel. Use last year's plan.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a steep learning curve.",
+     "ru": "Приходится очень быстро учиться.",
+     "ex": "How's the new job? / Good, but it's a steep learning curve.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been headhunted.",
+     "ru": "Меня переманила другая компания.",
+     "ex": "Why are you leaving? / I've been headhunted by a bigger company.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm burnt out.",
+     "ru": "Я выгорел.",
+     "ex": "I've worked every weekend this year. I'm burnt out.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need a better work-life balance.",
+     "ru": "Мне нужен лучший баланс между работой и жизнью.",
+     "ex": "I never see my kids. I need a better work-life balance.",
+     "lvl": "B2"
     }
    ]
   },
@@ -6550,6 +7804,162 @@
      "ru": "Не могли бы вы сказать, почему мне отказали?",
      "ex": "Could you tell me why I wasn't successful? It would help me next time.",
      "lvl": "B1"
+    },
+    {
+     "en": "I'd describe myself as a calm, practical person.",
+     "ru": "Я бы описал себя как спокойного и практичного человека.",
+     "ex": "How would you describe yourself? / I'd describe myself as a calm, practical person.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My background is in finance.",
+     "ru": "У меня опыт в сфере финансов.",
+     "ex": "Tell me about your experience. / My background is in finance.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I have a proven track record in sales.",
+     "ru": "У меня подтверждённые успехи в продажах.",
+     "ex": "I have a proven track record in sales. Last year I was top of the team.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I thrive under pressure.",
+     "ru": "Под давлением я работаю ещё лучше.",
+     "ex": "It's a stressful job. / That's fine. I thrive under pressure.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm used to juggling several projects at once.",
+     "ru": "Я привык вести несколько проектов одновременно.",
+     "ex": "Can you manage a busy schedule? / Yes, I'm used to juggling several projects at once.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I bring a fresh perspective.",
+     "ru": "Я привношу свежий взгляд.",
+     "ex": "You're new to this industry. / Yes, but I bring a fresh perspective.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a great fit for my skills.",
+     "ru": "Эта должность отлично подходит к моим навыкам.",
+     "ex": "Why this role? / It's a great fit for my skills.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm keen to take on more responsibility.",
+     "ru": "Я хочу брать на себя больше ответственности.",
+     "ex": "Why do you want to move? / I'm keen to take on more responsibility.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've outgrown my current role.",
+     "ru": "Я перерос свою нынешнюю должность.",
+     "ex": "Why are you looking for a new job? / I've outgrown my current role.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I tend to take on too much.",
+     "ru": "Я склонен брать на себя слишком много.",
+     "ex": "What's your weakness? / I tend to take on too much.",
+     "lvl": "B2"
+    },
+    {
+     "en": "One thing I'm working on is delegating.",
+     "ru": "Сейчас я учусь делегировать.",
+     "ex": "What would you like to improve? / One thing I'm working on is delegating.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I took the initiative and set up a new system.",
+     "ru": "Я проявил инициативу и внедрил новую систему.",
+     "ex": "Orders were often lost, so I took the initiative and set up a new system.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I managed to turn the situation around.",
+     "ru": "Мне удалось переломить ситуацию.",
+     "ex": "Sales were falling, but I managed to turn the situation around.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I was promoted within a year.",
+     "ru": "Меня повысили в течение года.",
+     "ex": "I joined as an assistant and I was promoted within a year.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Looking back, I'd have done it differently.",
+     "ru": "Оглядываясь назад, я бы сделал это иначе.",
+     "ex": "Was it the right decision? / Looking back, I'd have done it differently.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It taught me the importance of planning.",
+     "ru": "Это научило меня важности планирования.",
+     "ex": "The project was late, but it taught me the importance of planning.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What would success look like in this role?",
+     "ru": "Как выглядит успех на этой должности?",
+     "ex": "What would success look like in this role in the first year?",
+     "lvl": "B2"
+    },
+    {
+     "en": "What are the biggest challenges facing the team?",
+     "ru": "С какими главными трудностями сталкивается команда?",
+     "ex": "What are the biggest challenges facing the team right now?",
+     "lvl": "B2"
+    },
+    {
+     "en": "How would you describe the company culture?",
+     "ru": "Как бы вы описали корпоративную культуру?",
+     "ex": "How would you describe the company culture? / Friendly and fast-moving.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What does the benefits package include?",
+     "ru": "Что входит в соцпакет?",
+     "ex": "What does the benefits package include? / Health insurance and a pension.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What's the timeline for making a decision?",
+     "ru": "Когда вы примете решение?",
+     "ex": "What's the timeline for making a decision? / Within two weeks.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd be open to negotiation on salary.",
+     "ru": "Я готов обсуждать зарплату.",
+     "ex": "The salary is a bit low, but I'd be open to negotiation.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm weighing up a couple of offers.",
+     "ru": "Я сравниваю пару предложений.",
+     "ex": "Are you interviewing elsewhere? / Yes, I'm weighing up a couple of offers.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm currently on a notice period.",
+     "ru": "Сейчас я отрабатываю срок уведомления.",
+     "ex": "Can you start next week? / No, I'm currently on a notice period.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm confident I can hit the ground running.",
+     "ru": "Уверен, что смогу сразу включиться в работу.",
+     "ex": "I know your software, so I'm confident I can hit the ground running.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I appreciate you taking the time to meet me.",
+     "ru": "Благодарю, что нашли время встретиться.",
+     "ex": "Thank you. I appreciate you taking the time to meet me.",
+     "lvl": "B2"
     }
    ]
   },
@@ -7276,6 +8686,162 @@
      "ru": "Пока! (в конце разговора)",
      "ex": "OK, see you on Friday. Bye for now!",
      "lvl": "A2"
+    },
+    {
+     "en": "Who shall I say is calling?",
+     "ru": "Как вас представить?",
+     "ex": "Can I speak to Ms Clark? / Who shall I say is calling?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll put you on hold for a moment.",
+     "ru": "Я поставлю вас на удержание на минутку.",
+     "ex": "Let me check. I'll put you on hold for a moment.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Bear with me a moment.",
+     "ru": "Минуточку, пожалуйста.",
+     "ex": "Bear with me a moment. I'm looking for your file.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll just pull up your details.",
+     "ru": "Сейчас открою ваши данные.",
+     "ex": "Can I have your name? Thanks. I'll just pull up your details.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The call may be recorded for training purposes.",
+     "ru": "Звонок может быть записан в целях обучения персонала.",
+     "ex": "Before we start, the call may be recorded for training purposes.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm afraid that's not something I can help with.",
+     "ru": "Боюсь, с этим я помочь не могу.",
+     "ex": "I'm afraid that's not something I can help with. Try our sales team.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you give me a reference number?",
+     "ru": "Можете дать номер обращения?",
+     "ex": "Can you give me a reference number for this call?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm ringing to chase up my order.",
+     "ru": "Я звоню узнать, как продвигается мой заказ.",
+     "ex": "Hello, I'm ringing to chase up my order. It hasn't arrived.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I was told someone would call me back.",
+     "ru": "Мне сказали, что мне перезвонят.",
+     "ex": "I called on Monday. I was told someone would call me back.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Nobody's got back to me yet.",
+     "ru": "Мне до сих пор никто не перезвонил.",
+     "ex": "It's been a week and nobody's got back to me yet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could I speak to someone more senior?",
+     "ru": "Можно поговорить с кем-то из руководства?",
+     "ex": "This isn't working. Could I speak to someone more senior?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like to escalate this.",
+     "ru": "Я хотел бы передать этот вопрос выше.",
+     "ex": "This is the third time I've called. I'd like to escalate this.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Sorry, I didn't quite catch your name.",
+     "ru": "Извините, я не совсем расслышал ваше имя.",
+     "ex": "Sorry, I didn't quite catch your name. / It's Siobhan.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let me just grab a pen.",
+     "ru": "Сейчас возьму ручку.",
+     "ex": "Can I give you the number? / Let me just grab a pen.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been trying to get hold of you all day.",
+     "ru": "Я весь день пытаюсь до тебя дозвониться.",
+     "ex": "Finally! I've been trying to get hold of you all day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I couldn't get through.",
+     "ru": "Я не смог дозвониться.",
+     "ex": "Did you call the bank? / Yes, but I couldn't get through.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll try you again later.",
+     "ru": "Я попробую позвонить тебе позже.",
+     "ex": "No answer. I'll try you again later.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Sorry, I'm in the middle of something.",
+     "ru": "Извини, я сейчас занят.",
+     "ex": "Sorry, I'm in the middle of something. Can I ring you back?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can I ring you back in a bit?",
+     "ru": "Можно я перезвоню чуть позже?",
+     "ex": "I'm just cooking. Can I ring you back in a bit?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Sorry, I've got to take this.",
+     "ru": "Извини, мне нужно ответить на звонок.",
+     "ex": "Sorry, I've got to take this. It's my boss.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll let you get back to work.",
+     "ru": "Не буду отвлекать тебя от работы.",
+     "ex": "Anyway, I'll let you get back to work. Speak soon!",
+     "lvl": "B2"
+    },
+    {
+     "en": "You're very faint.",
+     "ru": "Вас очень плохо слышно.",
+     "ex": "Hello? You're very faint. Can you speak up?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I think we've got a bad line.",
+     "ru": "Кажется, у нас плохая связь.",
+     "ex": "I think we've got a bad line. I'll call you back.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It keeps cutting out.",
+     "ru": "Связь постоянно пропадает.",
+     "ex": "Sorry, it keeps cutting out. Are you on the train?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm going into a tunnel, I might lose you.",
+     "ru": "Я заезжаю в тоннель, связь может пропасть.",
+     "ex": "I'm going into a tunnel, I might lose you. / OK, call me later.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll drop you a line.",
+     "ru": "Я тебе черкну.",
+     "ex": "I'll drop you a line when I know the dates.",
+     "lvl": "B2"
     }
    ]
   },
@@ -7996,6 +9562,168 @@
      "ru": "Я нашёл на улице десятифунтовую купюру.",
      "ex": "Lucky day! I found a ten-pound note on the street.",
      "lvl": "B1"
+    },
+    {
+     "en": "I'm in the red.",
+     "ru": "Я в минусе.",
+     "ex": "Can you lend me some money? I'm in the red.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm back in the black.",
+     "ru": "Я снова в плюсе.",
+     "ex": "I paid off my overdraft. I'm back in the black.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm struggling to make ends meet.",
+     "ru": "Я с трудом свожу концы с концами.",
+     "ex": "Since I lost my job, I'm struggling to make ends meet.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're tightening our belts.",
+     "ru": "Мы затягиваем пояса.",
+     "ex": "No holiday this year. We're tightening our belts.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got a bit put aside.",
+     "ru": "У меня кое-что отложено.",
+     "ex": "Can you afford a new car? / Yes, I've got a bit put aside.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm saving for a rainy day.",
+     "ru": "Я коплю на чёрный день.",
+     "ex": "Why don't you spend it? / I'm saving for a rainy day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's within my budget.",
+     "ru": "Это в рамках моего бюджета.",
+     "ex": "It's three hundred pounds. / That's fine, it's within my budget.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's way over budget.",
+     "ru": "Это сильно выходит за рамки бюджета.",
+     "ex": "The new kitchen is way over budget.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I splashed out on a new watch.",
+     "ru": "Я раскошелился на новые часы.",
+     "ex": "Nice watch! / Thanks, I splashed out on it for my birthday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you spot me a tenner?",
+     "ru": "Можешь одолжить десятку? (брит., разг.)",
+     "ex": "I left my wallet at home. Can you spot me a tenner?",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a false economy.",
+     "ru": "Это ложная экономия.",
+     "ex": "Cheap shoes are a false economy. They break in a month.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You get what you pay for.",
+     "ru": "Скупой платит дважды.",
+     "ex": "The cheap hotel was awful. / Well, you get what you pay for.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The payment has gone through.",
+     "ru": "Платёж прошёл.",
+     "ex": "Did you pay the rent? / Yes, the payment has gone through.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's showing as pending.",
+     "ru": "Он отображается как «в обработке».",
+     "ex": "Has the money arrived? / It's showing as pending.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The funds should clear in three working days.",
+     "ru": "Деньги должны поступить в течение трёх рабочих дней.",
+     "ex": "When can I use the money? / The funds should clear in three working days.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like to set up a standing order.",
+     "ru": "Я хотел бы оформить регулярный перевод. (брит.)",
+     "ex": "I'd like to set up a standing order to pay my rent every month.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been charged an overdraft fee.",
+     "ru": "С меня взяли плату за овердрафт.",
+     "ex": "I've been charged an overdraft fee, but I was only over for one day.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Are there any hidden charges?",
+     "ru": "Есть скрытые комиссии?",
+     "ex": "It looks cheap. Are there any hidden charges?",
+     "lvl": "B2"
+    },
+    {
+     "en": "What's the APR?",
+     "ru": "Какая годовая процентная ставка? (APR)",
+     "ex": "I'd like the loan. What's the APR? / 6.9%.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Is it a fixed or variable rate?",
+     "ru": "Ставка фиксированная или плавающая?",
+     "ex": "Is it a fixed or variable rate? / Fixed for five years.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're first-time buyers.",
+     "ru": "Мы покупаем жильё впервые.",
+     "ex": "We're first-time buyers. Can we get help with the deposit?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm looking to remortgage.",
+     "ru": "Я хочу рефинансировать ипотеку.",
+     "ex": "My deal ends in March. I'm looking to remortgage.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been approved for the loan.",
+     "ru": "Мне одобрили кредит.",
+     "ex": "Good news! I've been approved for the loan.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My credit score isn't great.",
+     "ru": "У меня не очень хорошая кредитная история.",
+     "ex": "They said no. My credit score isn't great.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd like to dispute this transaction.",
+     "ru": "Я хотел бы оспорить эту операцию.",
+     "ex": "I never bought this. I'd like to dispute this transaction.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been scammed.",
+     "ru": "Меня обманули мошенники.",
+     "ex": "I paid for a flat online and it doesn't exist. I've been scammed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They took money out of my account without my permission.",
+     "ru": "Они сняли деньги с моего счёта без моего разрешения.",
+     "ex": "They took money out of my account without my permission.",
+     "lvl": "B2"
     }
    ]
   },
@@ -8728,6 +10456,162 @@
      "ru": "Надеюсь, завтра будет лучше.",
      "ex": "What a horrible day. / Hopefully it'll be better tomorrow.",
      "lvl": "B1"
+    },
+    {
+     "en": "It's a scorcher today!",
+     "ru": "Сегодня пекло! (брит., разг.)",
+     "ex": "It's a scorcher today! Thirty-two degrees!",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's close today.",
+     "ru": "Сегодня душно. (брит.)",
+     "ex": "Open a window. It's close today.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Temperatures could hit thirty-five.",
+     "ru": "Температура может дойти до тридцати пяти.",
+     "ex": "Drink lots of water. Temperatures could hit thirty-five.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're having an Indian summer.",
+     "ru": "У нас бабье лето.",
+     "ex": "It's October and it's still warm. We're having an Indian summer.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's a hosepipe ban.",
+     "ru": "Запрещено поливать из шланга. (брит., из-за засухи)",
+     "ex": "You can't water the garden. There's a hosepipe ban.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's a nip in the air.",
+     "ru": "В воздухе чувствуется холодок.",
+     "ex": "Autumn is coming. There's a nip in the air.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's perishing out there!",
+     "ru": "На улице жуткий холод! (брит.)",
+     "ex": "Close the door! It's perishing out there!",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're in for a cold snap.",
+     "ru": "Нас ждёт резкое похолодание.",
+     "ex": "Get your winter coat out. We're in for a cold snap.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's unseasonably cold.",
+     "ru": "Необычно холодно для этого времени года.",
+     "ex": "It's May, but it's unseasonably cold.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's been a mild winter.",
+     "ru": "Зима была мягкой.",
+     "ex": "We've hardly had any snow. It's been a mild winter.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We had a white Christmas.",
+     "ru": "У нас было снежное Рождество.",
+     "ex": "It snowed on the 25th! We had a white Christmas.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The snow has brought everything to a standstill.",
+     "ru": "Из-за снега всё встало.",
+     "ex": "No buses, no trains. The snow has brought everything to a standstill.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's black ice on the roads.",
+     "ru": "На дорогах невидимая наледь. (black ice)",
+     "ex": "Drive slowly. There's black ice on the roads.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's set to stay dry all week.",
+     "ru": "Всю неделю обещают без дождей.",
+     "ex": "Good news for the festival. It's set to stay dry all week.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's only spitting.",
+     "ru": "Чуть накрапывает. (брит.)",
+     "ex": "Is it raining? / It's only spitting.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We got caught in a downpour.",
+     "ru": "Мы попали под ливень.",
+     "ex": "Why are you so wet? / We got caught in a downpour.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The rain's easing off.",
+     "ru": "Дождь стихает.",
+     "ex": "Wait a minute. The rain's easing off.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's brightening up.",
+     "ru": "Проясняется.",
+     "ex": "Look, it's brightening up. Let's go out.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The fog should lift by midday.",
+     "ru": "Туман должен рассеяться к полудню.",
+     "ex": "The fog should lift by midday, so flights will start again.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The wind has really picked up.",
+     "ru": "Ветер сильно усилился.",
+     "ex": "The wind has really picked up. Bring the chairs in.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's blowing a gale out there.",
+     "ru": "На улице штормовой ветер.",
+     "ex": "Don't go sailing today. It's blowing a gale out there.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The temperature is expected to soar.",
+     "ru": "Ожидается резкий подъём температуры.",
+     "ex": "The temperature is expected to soar this weekend.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The summer has been a washout.",
+     "ru": "Лето испортили дожди.",
+     "ex": "We hardly went to the beach. The summer has been a washout.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You never know with British weather.",
+     "ru": "С британской погодой никогда не угадаешь.",
+     "ex": "Take sunglasses and an umbrella. You never know with British weather.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'll have to play it by ear.",
+     "ru": "Будем действовать по обстоятельствам.",
+     "ex": "Will we have the picnic? / We'll have to play it by ear.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Whatever the weather, we're going.",
+     "ru": "Пойдём при любой погоде.",
+     "ex": "It might rain. / Whatever the weather, we're going.",
+     "lvl": "B2"
     }
    ]
   },
