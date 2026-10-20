@@ -77,11 +77,6 @@ main{padding-block:22px 56px;display:flex;flex-direction:column;gap:22px}
 .seg button{padding:5px 10px;border-radius:8px;font-size:.85rem;color:var(--muted);font-weight:500}
 .seg button[aria-pressed="true"]{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px rgb(0 0 0 / .08)}
 
-/* summary */
-.summary{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
-.summary div{background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
-.summary strong{font-family:var(--font-display);font-size:1.35rem;font-variant-numeric:tabular-nums;font-weight:500}
-.summary span{font-size:.8rem;color:var(--muted)}
 
 /* section tiles */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px}
@@ -90,12 +85,6 @@ main{padding-block:22px 56px;display:flex;flex-direction:column;gap:22px}
 .tile:disabled{background:transparent;border-style:dashed;cursor:default}
 .tile h3{font-size:1rem;font-weight:600;line-height:1.3}
 .tile .meta{display:flex;justify-content:space-between;gap:8px;font-size:.8rem;color:var(--muted);font-variant-numeric:tabular-nums}
-.bar{height:6px;border-radius:3px;background:var(--sunk);display:flex;overflow:hidden}
-.bar i{display:block;height:100%}
-.bar .l{background:var(--good)}.bar .p{background:var(--warn)}
-.chip{font-size:.72rem;font-weight:600;padding:2px 8px;border-radius:99px;background:var(--accent-soft);color:var(--accent);white-space:nowrap}
-.legend{display:flex;gap:14px;font-size:.78rem;color:var(--muted);flex-wrap:wrap}
-.legend i{display:inline-block;width:9px;height:9px;border-radius:2px;margin-right:5px;vertical-align:0}
 
 /* mode cards in section */
 .modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}
@@ -321,10 +310,6 @@ const lvl = l => `<span class="lvl ${esc((l || 'A2').toLowerCase())}">${esc(l ||
 const starBtn = key => `<button class="icon-btn star" data-act="fav" data-key="${esc(key)}" aria-pressed="${favs.has(key)}" aria-label="${favs.has(key) ? 'Убрать из избранного' : 'В избранное'}">${IC.star}</button>`;
 const speakBtn = (it, label) => `<button class="${label ? 'speak' : 'icon-btn'}" data-act="speak" data-key="${esc(it.key)}" aria-label="Послушать">${IC.speak}${label ? 'Слушать' : ''}</button>`;
 const exLines = ex => ex ? `<div class="ex">${ex.split(' / ').map(l => `<p>${esc(l)}</p>`).join('')}</div>` : '';
-function bar(s) {
-  if (!s.total) return '<div class="bar"></div>';
-  return `<div class="bar" aria-hidden="true"><i class="l" style="width:${s.learned / s.total * 100}%"></i><i class="p" style="width:${s.learning / s.total * 100}%"></i></div>`;
-}
 function itemRow(it, opts = {}) {
   const hl = t => opts.q ? esc(t).replace(opts.re, m => `<mark>${m}</mark>`) : esc(t);
   return `<div class="item"><div class="t"><div class="en">${hl(it.p.en)}${lvl(it.p.lvl)}</div><div class="ru">${hl(it.p.ru)}</div>${opts.src ? `<div class="src">${esc(it.stitle)}</div>` : ''}</div>
@@ -359,24 +344,17 @@ function vHome() {
     <div style="display:flex;flex-direction:column;gap:6px">
       <div class="eyebrow">Разговорный английский: уровни A2–B2</div>
       <h1 class="h1">Фразы, которые говорят каждый день</h1>
-      <p class="muted" style="margin:0">${filled} из ${DATA.sections.length} тем заполнены · ${ALL.length} ${plural(ALL.length, 'фраза', 'фразы', 'фраз')} · британское произношение</p>
-    </div>
-    <div class="summary">
-      <div><strong>${s.learned}</strong><span>выучено</span></div>
-      <div><strong>${s.learning}</strong><span>в процессе</span></div>
-      <div><strong>${s.due}</strong><span>пора повторить</span></div>
+      <p class="muted" style="margin:0">${filled} ${plural(filled, 'тема', 'темы', 'тем')} · ${ALL.length} ${plural(ALL.length, 'фраза', 'фразы', 'фраз')} · британское произношение</p>
     </div>
     ${s.due ? `<button class="btn primary" data-act="go" data-to='{"name":"cards","deck":"all"}'>Повторить ${s.due} ${plural(s.due, 'фразу', 'фразы', 'фраз')} из всех тем</button>` : ''}
     <div style="display:flex;flex-direction:column;gap:10px">
-      <div class="row" style="justify-content:space-between"><h2 class="eyebrow">Темы</h2>
-        <div class="legend"><span><i style="background:var(--good)"></i>выучено</span><span><i style="background:var(--warn)"></i>в процессе</span></div></div>
+      <h2 class="eyebrow">Темы</h2>
       <div class="grid">${DATA.sections.map(sec => {
-        const d = BYSEC[sec.id], st = stats(d);
+        const d = BYSEC[sec.id];
         if (!d.length) return `<button class="tile" disabled><h3 class="muted">${esc(sec.title)}</h3><div class="meta"><span>Скоро: фразы ещё не добавлены</span></div></button>`;
         return `<button class="tile" data-act="go" data-to='${esc(JSON.stringify({ name: 'section', id: sec.id }))}'>
-          <div class="row" style="justify-content:space-between;align-items:flex-start;flex-wrap:nowrap"><h3>${esc(sec.title)}</h3>${st.due ? `<span class="chip">${st.due} к повтору</span>` : ''}</div>
-          ${bar(st)}
-          <div class="meta"><span>${st.learned} / ${st.total} выучено</span><span>${st.fresh} новых</span></div></button>`;
+          <h3>${esc(sec.title)}</h3>
+          <div class="meta"><span>${d.length} ${plural(d.length, 'фраза', 'фразы', 'фраз')}</span></div></button>`;
       }).join('')}</div>
     </div>`;
 }
@@ -390,8 +368,7 @@ function vSection() {
     ${backBtn({ name: 'home' }, 'Все темы')}
     <div style="display:flex;flex-direction:column;gap:8px">
       <h1 class="h1">${esc(deckTitle(id))}</h1>
-      <p class="muted" style="margin:0">${st.total} ${plural(st.total, 'фраза', 'фразы', 'фраз')}: ${levels} · выучено ${st.learned}</p>
-      ${bar(st)}
+      <p class="muted" style="margin:0">${st.total} ${plural(st.total, 'фраза', 'фразы', 'фраз')}: ${levels}</p>
     </div>
     <div class="modes">
       <button class="mode main" data-act="go" data-to='${esc(JSON.stringify({ name: 'cards', deck: id }))}'><strong>Карточки</strong><span>${st.due ? `${st.due} к повтору, ` : ''}${st.fresh} новых</span></button>
