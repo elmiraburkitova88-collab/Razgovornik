@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="Английские разговорные фразы для уровня Pre-Intermediate: карточки, тесты, озвучка.">
+<meta name="description" content="Английские разговорные фразы уровней A2–B2: карточки, тесты, озвучка.">
 <style>
 :root{color-scheme:light;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
 body{margin:0}
@@ -117,6 +117,7 @@ main{padding-block:22px 56px;display:flex;flex-direction:column;gap:22px}
 .item .acts{display:flex;gap:2px;align-items:center}
 .lvl{font-size:.68rem;font-weight:700;letter-spacing:.05em;padding:1px 6px;border-radius:5px;border:1px solid var(--line);color:var(--muted);vertical-align:2px;margin-left:6px}
 .lvl.b1{border-color:var(--warn);color:var(--warn)}
+.lvl.b2{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 .star[aria-pressed="true"]{color:var(--accent)}
 .star[aria-pressed="true"] svg{fill:currentColor}
 mark{background:var(--warn-soft);color:inherit;border-radius:3px}
@@ -316,7 +317,7 @@ function nextCard(deck, lastKey, extra) {
 const weakest = (deck, n) => shuffle(deck).sort((a, b) => (progress[a.key]?.box ?? -1) - (progress[b.key]?.box ?? -1)).slice(0, n);
 
 /* ---------- shared bits ---------- */
-const lvl = l => `<span class="lvl ${l === 'B1' ? 'b1' : ''}">${esc(l || 'A2')}</span>`;
+const lvl = l => `<span class="lvl ${esc((l || 'A2').toLowerCase())}">${esc(l || 'A2')}</span>`;
 const starBtn = key => `<button class="icon-btn star" data-act="fav" data-key="${esc(key)}" aria-pressed="${favs.has(key)}" aria-label="${favs.has(key) ? 'Убрать из избранного' : 'В избранное'}">${IC.star}</button>`;
 const speakBtn = (it, label) => `<button class="${label ? 'speak' : 'icon-btn'}" data-act="speak" data-key="${esc(it.key)}" aria-label="Послушать">${IC.speak}${label ? 'Слушать' : ''}</button>`;
 const exLines = ex => ex ? `<div class="ex">${ex.split(' / ').map(l => `<p>${esc(l)}</p>`).join('')}</div>` : '';
@@ -356,7 +357,7 @@ function vHome() {
   const filled = DATA.sections.filter(x => BYSEC[x.id].length).length;
   $app.innerHTML = `
     <div style="display:flex;flex-direction:column;gap:6px">
-      <div class="eyebrow">Английский для уровня Pre-Intermediate</div>
+      <div class="eyebrow">Разговорный английский: уровни A2–B2</div>
       <h1 class="h1">Фразы, которые говорят каждый день</h1>
       <p class="muted" style="margin:0">${filled} из ${DATA.sections.length} тем заполнены · ${ALL.length} ${plural(ALL.length, 'фраза', 'фразы', 'фраз')} · британское произношение</p>
     </div>
@@ -383,12 +384,13 @@ function vHome() {
 function vSection() {
   const id = view.id, d = deckOf(id), st = stats(d);
   const show = view.limit || 40;
-  const levels = { A2: d.filter(x => x.p.lvl !== 'B1').length, B1: d.filter(x => x.p.lvl === 'B1').length };
+  const levels = ['A2', 'B1', 'B2'].map(l => [l, d.filter(x => (x.p.lvl || 'A2') === l).length]).filter(([, n]) => n)
+    .map(([l, n]) => `${n} уровня ${l}`).join(', ');
   $app.innerHTML = `
     ${backBtn({ name: 'home' }, 'Все темы')}
     <div style="display:flex;flex-direction:column;gap:8px">
       <h1 class="h1">${esc(deckTitle(id))}</h1>
-      <p class="muted" style="margin:0">${st.total} ${plural(st.total, 'фраза', 'фразы', 'фраз')}: ${levels.A2} уровня A2, ${levels.B1} уровня B1 · выучено ${st.learned}</p>
+      <p class="muted" style="margin:0">${st.total} ${plural(st.total, 'фраза', 'фразы', 'фраз')}: ${levels} · выучено ${st.learned}</p>
       ${bar(st)}
     </div>
     <div class="modes">

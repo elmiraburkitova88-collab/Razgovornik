@@ -8734,17 +8734,2390 @@
   {
    "id": "family",
    "title": "Семья и отношения",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "Have you got any brothers or sisters?",
+     "ru": "У тебя есть братья или сёстры?",
+     "ex": "Have you got any brothers or sisters? / Yes, one sister.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm an only child.",
+     "ru": "Я единственный ребёнок в семье.",
+     "ex": "Do you have any brothers? / No, I'm an only child.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm the eldest of three.",
+     "ru": "Я старший из троих детей.",
+     "ex": "Are you the youngest? / No, I'm the eldest of three.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My sister is two years younger than me.",
+     "ru": "Моя сестра на два года младше меня.",
+     "ex": "Is your sister older? / No, my sister is two years younger than me.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We're twins.",
+     "ru": "Мы близнецы.",
+     "ex": "You look the same! / We're twins.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I come from a big family.",
+     "ru": "Я из большой семьи.",
+     "ex": "I come from a big family. I've got five cousins on my mum's side.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you live with your parents?",
+     "ru": "Ты живёшь с родителями?",
+     "ex": "Do you live with your parents? / No, I moved out last year.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Are you close to your family?",
+     "ru": "Ты близок со своей семьёй?",
+     "ex": "Are you close to your family? / Very. We talk every day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're very close.",
+     "ru": "Мы очень близки.",
+     "ex": "How's your relationship with your mum? / We're very close.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're a close-knit family.",
+     "ru": "У нас очень дружная семья.",
+     "ex": "We're a close-knit family. We help each other a lot.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I take after my dad.",
+     "ru": "Я пошёл в отца.",
+     "ex": "You're so calm! / I take after my dad.",
+     "lvl": "B2"
+    },
+    {
+     "en": "You look just like your mum.",
+     "ru": "Ты вылитая мама.",
+     "ex": "Is that your mum in the photo? You look just like your mum.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She gets her sense of humour from her grandad.",
+     "ru": "Чувство юмора у неё от дедушки.",
+     "ex": "She's so funny. / She gets her sense of humour from her grandad.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It runs in the family.",
+     "ru": "Это у нас семейное.",
+     "ex": "You're all so tall! / It runs in the family.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Like father, like son.",
+     "ru": "Яблоко от яблони недалеко падает.",
+     "ex": "He wants to be a doctor too. / Like father, like son.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I get on really well with my sister.",
+     "ru": "Я очень хорошо лажу с сестрой.",
+     "ex": "I get on really well with my sister. She's my best friend.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I don't get on with my brother.",
+     "ru": "Я не лажу с братом.",
+     "ex": "I don't get on with my brother. We're very different.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We had a big argument.",
+     "ru": "Мы сильно поругались.",
+     "ex": "Why aren't you talking to Sam? / We had a big argument.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We fell out years ago.",
+     "ru": "Мы поссорились много лет назад.",
+     "ex": "Do you see your uncle? / No, we fell out years ago.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We haven't spoken for years.",
+     "ru": "Мы не разговариваем уже много лет.",
+     "ex": "We haven't spoken for years. I don't even know where he lives.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We made up in the end.",
+     "ru": "В итоге мы помирились.",
+     "ex": "Did you sort it out? / Yes, we made up in the end.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My parents are divorced.",
+     "ru": "Мои родители в разводе.",
+     "ex": "My parents are divorced, but they're still friends.",
+     "lvl": "B1"
+    },
+    {
+     "en": "They split up when I was ten.",
+     "ru": "Они расстались, когда мне было десять.",
+     "ex": "They split up when I was ten, and I lived with my mum.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My mum remarried.",
+     "ru": "Мама снова вышла замуж.",
+     "ex": "My mum remarried when I was fifteen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's my stepbrother.",
+     "ru": "Он мой сводный брат.",
+     "ex": "Is that your brother? / He's my stepbrother. His dad married my mum.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's my half-sister.",
+     "ru": "Она моя сестра по одному из родителей.",
+     "ex": "She's my half-sister. We have the same dad.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My grandparents brought me up.",
+     "ru": "Меня вырастили бабушка с дедушкой.",
+     "ex": "My parents worked abroad, so my grandparents brought me up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I grew up in a small village.",
+     "ru": "Я вырос в маленькой деревне.",
+     "ex": "Where did you grow up? / I grew up in a small village near Tver.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When I was a kid, we used to go to the seaside every summer.",
+     "ru": "В детстве мы каждое лето ездили на море.",
+     "ex": "When I was a kid, we used to go to the seaside every summer.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I was a bit of a naughty child.",
+     "ru": "Я был довольно непослушным ребёнком.",
+     "ex": "I was a bit of a naughty child. I was always in trouble at school.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My parents were quite strict.",
+     "ru": "Мои родители были довольно строгими.",
+     "ex": "My parents were quite strict. I had to be home by nine.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My parents don't approve of him.",
+     "ru": "Моим родителям он не нравится. (не одобряют)",
+     "ex": "My parents don't approve of him. They think he's too old for me.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My dad is retiring next year.",
+     "ru": "Папа выходит на пенсию в следующем году.",
+     "ex": "My dad is retiring next year after forty years at the bank.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My grandmother passed away last year.",
+     "ru": "Бабушка умерла в прошлом году. (passed away — мягкая форма)",
+     "ex": "My grandmother passed away last year. I miss her a lot.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm so sorry for your loss.",
+     "ru": "Соболезную вашей утрате.",
+     "ex": "My father died last week. / I'm so sorry for your loss.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Family comes first.",
+     "ru": "Семья на первом месте.",
+     "ex": "Can you work this weekend? / Sorry, family comes first.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Family can drive you crazy sometimes.",
+     "ru": "Семья иногда может свести с ума.",
+     "ex": "Christmas with everyone? Family can drive you crazy sometimes!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Blood is thicker than water.",
+     "ru": "Кровь не водица. (родные ближе всех)",
+     "ex": "He's difficult, but he's my brother. Blood is thicker than water.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We have Sunday lunch together every week.",
+     "ru": "Мы каждую неделю вместе обедаем по воскресеньям.",
+     "ex": "We have Sunday lunch together every week at my mum's.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We get together at Christmas.",
+     "ru": "Мы собираемся вместе на Рождество.",
+     "ex": "Do you see your cousins? / We get together at Christmas.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a family tradition.",
+     "ru": "Это семейная традиция.",
+     "ex": "Why do you go to the lake every May? / It's a family tradition.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to visit my parents this weekend.",
+     "ru": "В выходные я еду к родителям.",
+     "ex": "Any plans? / I'm going to visit my parents this weekend.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm staying with my aunt for a few days.",
+     "ru": "Я на несколько дней остановился у тёти.",
+     "ex": "Where are you staying in London? / I'm staying with my aunt for a few days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My in-laws are coming to stay.",
+     "ru": "К нам приезжают родственники мужа. / …жены.",
+     "ex": "I need to clean the house. My in-laws are coming to stay.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I get on well with my mother-in-law.",
+     "ru": "Я хорошо лажу со свекровью. / …с тёщей.",
+     "ex": "I get on well with my mother-in-law. She's lovely.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My cousin is getting married.",
+     "ru": "Мой двоюродный брат женится. / Моя двоюродная сестра выходит замуж.",
+     "ex": "My cousin is getting married in August.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Give my love to your family.",
+     "ru": "Передавай привет семье.",
+     "ex": "I have to go. Give my love to your family!",
+     "lvl": "B1"
+    },
+    {
+     "en": "How old are your kids now?",
+     "ru": "Сколько сейчас лет твоим детям?",
+     "ex": "How old are your kids now? / Seven and ten.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you want to have children?",
+     "ru": "Ты хочешь детей?",
+     "ex": "Do you want to have children? / Maybe one day.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We're not ready for kids yet.",
+     "ru": "Мы пока не готовы к детям.",
+     "ex": "When are you having a baby? / We're not ready for kids yet.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Are you seeing anyone?",
+     "ru": "Ты с кем-нибудь встречаешься?",
+     "ex": "Are you seeing anyone at the moment? / Not really.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm single.",
+     "ru": "Я свободен. / Я не в отношениях.",
+     "ex": "Do you have a girlfriend? / No, I'm single.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a boyfriend.",
+     "ru": "У меня есть парень.",
+     "ex": "Sorry, I've got a boyfriend.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's your partner's name?",
+     "ru": "Как зовут твоего партнёра? (мужа, жену, парня, девушку)",
+     "ex": "What's your partner's name? / Alex.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've been together for five years.",
+     "ru": "Мы вместе пять лет.",
+     "ex": "How long have you been together? / We've been together for five years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How did you two meet?",
+     "ru": "Как вы познакомились?",
+     "ex": "You're a lovely couple. How did you two meet?",
+     "lvl": "B1"
+    },
+    {
+     "en": "We met at university.",
+     "ru": "Мы познакомились в университете.",
+     "ex": "How did you meet? / We met at university.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We met online.",
+     "ru": "Мы познакомились в интернете.",
+     "ex": "We met online, on a dating app.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It was love at first sight.",
+     "ru": "Это была любовь с первого взгляда.",
+     "ex": "I saw him and that was it. It was love at first sight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He asked me out.",
+     "ru": "Он пригласил меня на свидание.",
+     "ex": "Guess what? He asked me out! / That's great!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Would you like to go out sometime?",
+     "ru": "Не хочешь как-нибудь куда-нибудь сходить вместе?",
+     "ex": "Would you like to go out sometime? / I'd love to.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We went on a date.",
+     "ru": "Мы сходили на свидание.",
+     "ex": "We went on a date last Friday. It was nice.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I really like you.",
+     "ru": "Ты мне очень нравишься.",
+     "ex": "I really like you. / I like you too.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've got a crush on someone at work.",
+     "ru": "Я влюбился в коллегу. (crush — влюблённость)",
+     "ex": "I've got a crush on someone at work. / Ooh, who?",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's out of my league.",
+     "ru": "Она мне не по зубам. (слишком хороша для меня)",
+     "ex": "Ask her out! / No way. She's out of my league.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're just friends.",
+     "ru": "Мы просто друзья.",
+     "ex": "Is he your boyfriend? / No, we're just friends.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We're getting on really well.",
+     "ru": "У нас всё складывается отлично.",
+     "ex": "How's it going with Tom? / We're getting on really well.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're moving in together.",
+     "ru": "Мы съезжаемся.",
+     "ex": "Big news! We're moving in together.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He proposed!",
+     "ru": "Он сделал предложение!",
+     "ex": "Look at my ring! He proposed!",
+     "lvl": "B1"
+    },
+    {
+     "en": "We got engaged last month.",
+     "ru": "Мы обручились в прошлом месяце.",
+     "ex": "We got engaged last month. The wedding is next year.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Congratulations on your engagement!",
+     "ru": "Поздравляю с помолвкой!",
+     "ex": "Congratulations on your engagement! When's the wedding?",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're getting married in June.",
+     "ru": "Мы женимся в июне.",
+     "ex": "We're getting married in June. Can you come?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Who's going to be your best man?",
+     "ru": "Кто будет твоим шафером?",
+     "ex": "Who's going to be your best man? / My brother.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've been married for ten years.",
+     "ru": "Мы женаты десять лет.",
+     "ex": "We've been married for ten years and we've got two kids.",
+     "lvl": "B1"
+    },
+    {
+     "en": "They've been happily married for forty years.",
+     "ru": "Они счастливо женаты уже сорок лет.",
+     "ex": "My grandparents have been happily married for forty years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's our anniversary today.",
+     "ru": "Сегодня наша годовщина.",
+     "ex": "Why the flowers? / It's our anniversary today.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're expecting a baby.",
+     "ru": "Мы ждём ребёнка.",
+     "ex": "We've got some news. We're expecting a baby!",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's due in March.",
+     "ru": "Ей рожать в марте.",
+     "ex": "When's the baby coming? / She's due in March.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They've just had a baby girl.",
+     "ru": "У них только что родилась девочка.",
+     "ex": "Have you heard? Anna and Max have just had a baby girl.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Congratulations on the new baby!",
+     "ru": "Поздравляю с рождением малыша!",
+     "ex": "Congratulations on the new baby! What's her name?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who does she look like?",
+     "ru": "На кого она похожа?",
+     "ex": "Who does she look like? / Her dad, I think.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm going to be an aunt!",
+     "ru": "Я стану тётей!",
+     "ex": "My sister is pregnant. I'm going to be an aunt!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm on maternity leave.",
+     "ru": "Я в декрете.",
+     "ex": "Are you working? / No, I'm on maternity leave.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My husband is on paternity leave.",
+     "ru": "Муж в отпуске по уходу за ребёнком.",
+     "ex": "My husband is on paternity leave for two weeks.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Who's looking after the kids?",
+     "ru": "Кто присматривает за детьми?",
+     "ex": "You're both here! Who's looking after the kids?",
+     "lvl": "B1"
+    },
+    {
+     "en": "My mum babysits on Fridays.",
+     "ru": "По пятницам с детьми сидит моя мама.",
+     "ex": "We go out on Fridays. My mum babysits.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to pick the kids up from school.",
+     "ru": "Мне нужно забрать детей из школы.",
+     "ex": "I have to leave at three. I need to pick the kids up from school.",
+     "lvl": "B1"
+    },
+    {
+     "en": "They grow up so fast.",
+     "ru": "Они так быстро растут.",
+     "ex": "My son starts school next week. They grow up so fast.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Kids will be kids.",
+     "ru": "Дети есть дети.",
+     "ex": "They broke the window again. / Kids will be kids.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Bedtime!",
+     "ru": "Пора спать!",
+     "ex": "Come on, it's nine o'clock. Bedtime!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Be nice to your sister!",
+     "ru": "Не обижай сестру!",
+     "ex": "Stop it! Be nice to your sister!",
+     "lvl": "A2"
+    },
+    {
+     "en": "She's a typical teenager.",
+     "ru": "Она типичный подросток.",
+     "ex": "She sleeps till noon and never talks to us. She's a typical teenager.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's going through a difficult phase.",
+     "ru": "У него сейчас трудный период.",
+     "ex": "He's very angry these days. He's going through a difficult phase.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're going through a rough patch.",
+     "ru": "У нас сейчас сложный период. (в отношениях)",
+     "ex": "Are you and Sam OK? / We're going through a rough patch.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We need to talk.",
+     "ru": "Нам нужно поговорить.",
+     "ex": "We need to talk. / That sounds serious.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's not argue.",
+     "ru": "Давай не будем ссориться.",
+     "ex": "Let's not argue. We're both tired.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I didn't mean it.",
+     "ru": "Я не хотел. / Я не это имел в виду.",
+     "ex": "I'm sorry I shouted. I didn't mean it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can we start again?",
+     "ru": "Может, начнём сначала?",
+     "ex": "I'm sorry. Can we start again?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I don't trust him any more.",
+     "ru": "Я ему больше не доверяю.",
+     "ex": "He lied to me. I don't trust him any more.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He cheated on her.",
+     "ru": "Он ей изменил.",
+     "ex": "Why did they break up? / He cheated on her.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's not you, it's me.",
+     "ru": "Дело не в тебе, а во мне.",
+     "ex": "It's not you, it's me. I'm just not ready.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We broke up.",
+     "ru": "Мы расстались.",
+     "ex": "Where's your boyfriend? / We broke up last week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She dumped him.",
+     "ru": "Она его бросила.",
+     "ex": "Are they still together? / No, she dumped him.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm over him now.",
+     "ru": "Я его уже забыла.",
+     "ex": "Are you still sad about Mark? / No, I'm over him now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I miss you.",
+     "ru": "Я скучаю по тебе.",
+     "ex": "I miss you. / I miss you too. Come home soon.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I can't wait to see you.",
+     "ru": "Не могу дождаться встречи с тобой.",
+     "ex": "I'm flying home on Friday. I can't wait to see you!",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're in a long-distance relationship.",
+     "ru": "У нас отношения на расстоянии.",
+     "ex": "He lives in Spain. We're in a long-distance relationship.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We see each other every other weekend.",
+     "ru": "Мы видимся раз в две недели, по выходным.",
+     "ex": "How often do you meet? / We see each other every other weekend.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's my best friend.",
+     "ru": "Она моя лучшая подруга.",
+     "ex": "Who's that? / That's Masha. She's my best friend.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We've known each other since school.",
+     "ru": "Мы знаем друг друга со школы.",
+     "ex": "How long have you been friends? / We've known each other since school.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We lost touch.",
+     "ru": "Мы потеряли связь.",
+     "ex": "Do you still see Olga? / No, we lost touch.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've drifted apart.",
+     "ru": "Мы отдалились друг от друга.",
+     "ex": "We were close at school, but we've drifted apart.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I bumped into an old friend yesterday.",
+     "ru": "Вчера я случайно встретил старого друга.",
+     "ex": "I bumped into an old friend yesterday at the station.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's always there for me.",
+     "ru": "Он всегда рядом, когда нужен.",
+     "ex": "My brother is great. He's always there for me.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You can always count on her.",
+     "ru": "На неё всегда можно положиться.",
+     "ex": "Ask Kate. You can always count on her.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's a really good listener.",
+     "ru": "Она умеет слушать.",
+     "ex": "I tell Anna everything. She's a really good listener.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We have a lot in common.",
+     "ru": "У нас много общего.",
+     "ex": "We both love music and travel. We have a lot in common.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've got nothing in common.",
+     "ru": "У нас нет ничего общего.",
+     "ex": "Why don't you like him? / We've got nothing in common.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She's very easy-going.",
+     "ru": "С ней очень легко общаться.",
+     "ex": "Your sister is nice. / Yes, she's very easy-going.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's a bit shy at first.",
+     "ru": "Поначалу он немного стесняется.",
+     "ex": "He's quiet. / He's a bit shy at first. Wait till you know him.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He gets on my nerves.",
+     "ru": "Он действует мне на нервы.",
+     "ex": "Why don't you invite Tom? / He gets on my nerves.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We hit it off straight away.",
+     "ru": "Мы сразу нашли общий язык.",
+     "ex": "How did you meet your wife? / At a party. We hit it off straight away.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We tied the knot last summer.",
+     "ru": "Мы поженились прошлым летом. (разг.)",
+     "ex": "Are you married? / Yes, we tied the knot last summer.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He's a real family man.",
+     "ru": "Он настоящий семьянин.",
+     "ex": "He never goes out without his kids. He's a real family man.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My parents are always nagging me to settle down.",
+     "ru": "Родители постоянно пилят меня, чтобы я остепенился.",
+     "ex": "I'm thirty and my parents are always nagging me to settle down.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've been through a lot together.",
+     "ru": "Мы многое вместе пережили.",
+     "ex": "We've been through a lot together, so we're very close.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm the black sheep of the family.",
+     "ru": "Я белая ворона в семье.",
+     "ex": "Everyone is a doctor except me. I'm the black sheep of the family.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She wears the trousers in that relationship.",
+     "ru": "В этих отношениях главная она. (брит., разг.)",
+     "ex": "Who decides where they go on holiday? / She wears the trousers in that relationship.",
+     "lvl": "B2"
+    }
+   ]
   },
   {
    "id": "hobbies",
    "title": "Хобби и свободное время",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "What do you like doing in your free time?",
+     "ru": "Что ты любишь делать в свободное время?",
+     "ex": "What do you like doing in your free time? / I read and play tennis.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm into photography.",
+     "ru": "Я увлекаюсь фотографией.",
+     "ex": "Nice camera! / Thanks, I'm into photography.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've taken up yoga.",
+     "ru": "Я занялся йогой.",
+     "ex": "You look relaxed. / I've taken up yoga.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've just started learning the guitar.",
+     "ru": "Я только начал учиться играть на гитаре.",
+     "ex": "I've just started learning the guitar. My fingers hurt!",
+     "lvl": "B1"
+    },
+    {
+     "en": "How long have you been playing?",
+     "ru": "Сколько ты уже играешь?",
+     "ex": "You play really well. How long have you been playing?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I used to play the piano as a kid.",
+     "ru": "В детстве я играл на пианино.",
+     "ex": "Can you play anything? / I used to play the piano as a kid.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I gave it up years ago.",
+     "ru": "Я бросил это много лет назад.",
+     "ex": "Do you still swim? / No, I gave it up years ago.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd love to get back into it.",
+     "ru": "Я бы с удовольствием снова этим занялся.",
+     "ex": "I used to dance. I'd love to get back into it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm a complete beginner.",
+     "ru": "Я полный новичок.",
+     "ex": "Can I join the class? I'm a complete beginner.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm not very good at it, but I enjoy it.",
+     "ru": "У меня не очень получается, но мне нравится.",
+     "ex": "Are you a good singer? / I'm not very good at it, but I enjoy it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm getting better at it.",
+     "ru": "У меня получается всё лучше.",
+     "ex": "How's your painting? / I'm getting better at it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's harder than it looks.",
+     "ru": "Это сложнее, чем кажется.",
+     "ex": "Surfing looks easy. / It's harder than it looks.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Practice makes perfect.",
+     "ru": "Повторение — мать учения.",
+     "ex": "I keep making mistakes. / Don't worry. Practice makes perfect.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm teaching myself to draw.",
+     "ru": "Я сам учусь рисовать.",
+     "ex": "Did you do a course? / No, I'm teaching myself to draw.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I watched a tutorial on YouTube.",
+     "ru": "Я посмотрел обучающее видео на YouTube.",
+     "ex": "How did you learn to knit? / I watched a tutorial on YouTube.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm hooked!",
+     "ru": "Я подсел!",
+     "ex": "How's the climbing? / I'm hooked! I go three times a week.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It helps me relax.",
+     "ru": "Это помогает мне расслабиться.",
+     "ex": "Why do you garden? / It helps me relax.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a great way to unwind after work.",
+     "ru": "Это отличный способ отдохнуть после работы.",
+     "ex": "Swimming is a great way to unwind after work.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I lose track of time when I'm painting.",
+     "ru": "Когда рисую, я теряю счёт времени.",
+     "ex": "Is it midnight already? I lose track of time when I'm painting.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Time flies when you're having fun.",
+     "ru": "За интересным занятием время летит незаметно.",
+     "ex": "Is it six already? Time flies when you're having fun!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I don't have much free time these days.",
+     "ru": "Сейчас у меня мало свободного времени.",
+     "ex": "Do you still play football? / I don't have much free time these days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I never seem to have time for hobbies.",
+     "ru": "Мне вечно не хватает времени на хобби.",
+     "ex": "With two kids, I never seem to have time for hobbies.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I like to keep busy.",
+     "ru": "Я люблю быть чем-то занятым.",
+     "ex": "You do so much! / I like to keep busy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a bit of a couch potato.",
+     "ru": "Я тот ещё лежебока.",
+     "ex": "Do you do any sport? / Not really. I'm a bit of a couch potato.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I just like chilling at home.",
+     "ru": "Я просто люблю отдыхать дома.",
+     "ex": "Do you go out a lot? / Not really. I just like chilling at home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I go to the gym three times a week.",
+     "ru": "Я хожу в спортзал три раза в неделю.",
+     "ex": "You look fit! / I go to the gym three times a week.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm trying to get fit.",
+     "ru": "Я стараюсь прийти в форму.",
+     "ex": "Why are you running? / I'm trying to get fit.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I go running every morning.",
+     "ru": "Я бегаю каждое утро.",
+     "ex": "I go running every morning before work.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm training for a half marathon.",
+     "ru": "Я готовлюсь к полумарафону.",
+     "ex": "I'm training for a half marathon in October.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I do pilates once a week.",
+     "ru": "Раз в неделю я занимаюсь пилатесом.",
+     "ex": "I do pilates once a week. It's good for my back.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I play football with some friends on Sundays.",
+     "ru": "По воскресеньям я играю в футбол с друзьями.",
+     "ex": "I play football with some friends on Sundays in the park.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Which team do you support?",
+     "ru": "За какую команду ты болеешь?",
+     "ex": "Which team do you support? / Manchester United.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I support Arsenal.",
+     "ru": "Я болею за «Арсенал».",
+     "ex": "Do you like football? / Yes, I support Arsenal.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Did you watch the match last night?",
+     "ru": "Ты смотрел матч вчера вечером?",
+     "ex": "Did you watch the match last night? / Yes, what a game!",
+     "lvl": "A2"
+    },
+    {
+     "en": "What was the score?",
+     "ru": "Какой был счёт?",
+     "ex": "I missed the match. What was the score?",
+     "lvl": "A2"
+    },
+    {
+     "en": "It was a draw.",
+     "ru": "Была ничья.",
+     "ex": "Who won? / Nobody. It was a draw.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We lost two-nil.",
+     "ru": "Мы проиграли 0:2. (nil — ноль, брит.)",
+     "ex": "How was the match? / Terrible. We lost two-nil.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My team won last week!",
+     "ru": "Моя команда выиграла на прошлой неделе!",
+     "ex": "You look happy! / My team won last week!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you fancy a game of tennis?",
+     "ru": "Не хочешь сыграть в теннис?",
+     "ex": "Do you fancy a game of tennis on Saturday? / Sure!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm not very sporty.",
+     "ru": "Я не очень спортивный.",
+     "ex": "Do you play any sports? / No, I'm not very sporty.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'd rather read a book.",
+     "ru": "Я бы лучше почитал книгу.",
+     "ex": "Want to watch the football? / I'd rather read a book.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm reading a great book at the moment.",
+     "ru": "Я сейчас читаю отличную книгу.",
+     "ex": "I'm reading a great book at the moment. It's about Japan.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I couldn't put it down.",
+     "ru": "Я не мог оторваться. (о книге)",
+     "ex": "Was the book good? / Amazing. I couldn't put it down.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Have you read anything good lately?",
+     "ru": "Читал что-нибудь хорошее в последнее время?",
+     "ex": "Have you read anything good lately? / Yes, a new thriller.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who's your favourite author?",
+     "ru": "Кто твой любимый писатель?",
+     "ex": "Who's your favourite author? / Agatha Christie.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I listen to audiobooks on the way to work.",
+     "ru": "Я слушаю аудиокниги по дороге на работу.",
+     "ex": "When do you read? / I listen to audiobooks on the way to work.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're members of a book club.",
+     "ru": "Мы состоим в книжном клубе.",
+     "ex": "We're members of a book club. We meet once a month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm watching a really good series.",
+     "ru": "Я смотрю очень хороший сериал.",
+     "ex": "I'm watching a really good series. It's about a detective.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I binge-watched the whole season.",
+     "ru": "Я посмотрел весь сезон запоем.",
+     "ex": "What did you do on Sunday? / I binge-watched the whole season.",
+     "lvl": "B2"
+    },
+    {
+     "en": "No spoilers, please!",
+     "ru": "Только без спойлеров!",
+     "ex": "Did you see the end? / No spoilers, please! I haven't finished.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you seen the new Bond film?",
+     "ru": "Ты видел новый фильм про Бонда?",
+     "ex": "Have you seen the new Bond film? / Not yet.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Shall we go to the cinema tonight?",
+     "ru": "Пойдём сегодня в кино?",
+     "ex": "Shall we go to the cinema tonight? / Good idea.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's on at the cinema?",
+     "ru": "Что идёт в кино?",
+     "ex": "What's on at the cinema this week? / Let me check.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's supposed to be really good.",
+     "ru": "Говорят, он очень хороший.",
+     "ex": "Let's see the new film. It's supposed to be really good.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It got really good reviews.",
+     "ru": "У него очень хорошие отзывы.",
+     "ex": "Is the play good? / It got really good reviews.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It was a bit disappointing.",
+     "ru": "Было немного разочаровывающе.",
+     "ex": "How was the film? / It was a bit disappointing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's not really my thing.",
+     "ru": "Это не совсем моё.",
+     "ex": "Do you like opera? / It's not really my thing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What kind of music are you into?",
+     "ru": "Какую музыку ты любишь?",
+     "ex": "What kind of music are you into? / Rock, mostly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I listen to all sorts.",
+     "ru": "Я слушаю всё подряд.",
+     "ex": "What music do you like? / I listen to all sorts.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm a big fan of jazz.",
+     "ru": "Я большой поклонник джаза.",
+     "ex": "I'm a big fan of jazz. Do you know any good clubs?",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're going to a gig on Saturday.",
+     "ru": "В субботу мы идём на концерт. (gig — разг.)",
+     "ex": "We're going to a gig on Saturday. Want to come?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Have you ever seen them live?",
+     "ru": "Ты когда-нибудь видел их вживую?",
+     "ex": "I love this band. / Have you ever seen them live?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I play in a band.",
+     "ru": "Я играю в группе.",
+     "ex": "I play in a band. We play in pubs on Fridays.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I sing in a choir.",
+     "ru": "Я пою в хоре.",
+     "ex": "I sing in a choir. We have a concert next week.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We go to the theatre a couple of times a year.",
+     "ru": "Мы ходим в театр пару раз в год.",
+     "ex": "We go to the theatre a couple of times a year, usually in London.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've booked tickets for a musical.",
+     "ru": "Я забронировал билеты на мюзикл.",
+     "ex": "I've booked tickets for a musical for your birthday!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I love going to museums and galleries.",
+     "ru": "Я обожаю ходить по музеям и галереям.",
+     "ex": "I love going to museums and galleries when I travel.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I love cooking for friends.",
+     "ru": "Я люблю готовить для друзей.",
+     "ex": "I love cooking for friends. Come for dinner on Friday!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm trying out new recipes.",
+     "ru": "Я пробую новые рецепты.",
+     "ex": "What are you making? / I'm trying out new recipes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I bake my own bread.",
+     "ru": "Я сама пеку хлеб.",
+     "ex": "This bread is amazing. / Thanks, I bake my own bread.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I do a bit of painting.",
+     "ru": "Я немного рисую красками.",
+     "ex": "Do you have any hobbies? / I do a bit of painting.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've signed up for a pottery class.",
+     "ru": "Я записался на курсы гончарного дела.",
+     "ex": "I've signed up for a pottery class. It starts on Monday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm learning Spanish in my spare time.",
+     "ru": "В свободное время я учу испанский.",
+     "ex": "I'm learning Spanish in my spare time for my holiday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I go to an evening class on Tuesdays.",
+     "ru": "По вторникам я хожу на вечерние курсы.",
+     "ex": "I can't meet on Tuesdays. I go to an evening class.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I take photos on my phone mostly.",
+     "ru": "Я в основном фотографирую на телефон.",
+     "ex": "Do you have a good camera? / No, I take photos on my phone mostly.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I love going for long walks.",
+     "ru": "Я обожаю долгие прогулки.",
+     "ex": "I love going for long walks in the countryside.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We go hiking most weekends.",
+     "ru": "Почти каждые выходные мы ходим в походы.",
+     "ex": "We go hiking most weekends in the Lake District.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I like being outdoors.",
+     "ru": "Я люблю бывать на природе.",
+     "ex": "I like being outdoors, even when it rains.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We went camping last summer.",
+     "ru": "Прошлым летом мы ходили в поход с палатками.",
+     "ex": "We went camping last summer. It rained every day!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I go cycling at the weekend.",
+     "ru": "По выходным я катаюсь на велосипеде.",
+     "ex": "I go cycling at the weekend with my son.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've always wanted to try surfing.",
+     "ru": "Я всегда хотел попробовать сёрфинг.",
+     "ex": "I've always wanted to try surfing. Maybe this summer.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm scared of heights, so climbing isn't for me.",
+     "ru": "Я боюсь высоты, так что скалолазание не для меня.",
+     "ex": "Come climbing with us! / I'm scared of heights, so climbing isn't for me.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I love gardening.",
+     "ru": "Я люблю возиться в саду.",
+     "ex": "I love gardening. I grow my own tomatoes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I do a lot of DIY.",
+     "ru": "Я многое делаю по дому своими руками. (DIY)",
+     "ex": "Who built these shelves? / Me. I do a lot of DIY.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I collect old coins.",
+     "ru": "Я коллекционирую старые монеты.",
+     "ex": "I collect old coins. This one is from 1850.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I play chess online.",
+     "ru": "Я играю в шахматы онлайн.",
+     "ex": "I play chess online every evening.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm a keen gamer.",
+     "ru": "Я заядлый геймер.",
+     "ex": "I'm a keen gamer. I play every evening.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I volunteer at an animal shelter.",
+     "ru": "Я волонтёр в приюте для животных.",
+     "ex": "I volunteer at an animal shelter on Saturdays.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Walking the dog is my exercise.",
+     "ru": "Выгул собаки — это моя физкультура.",
+     "ex": "Do you go to the gym? / No, walking the dog is my exercise.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We go to a pub quiz every Thursday.",
+     "ru": "По четвергам мы ходим на викторину в пабе. (британская традиция)",
+     "ex": "We go to a pub quiz every Thursday. We never win!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's an expensive hobby.",
+     "ru": "Это дорогое хобби.",
+     "ex": "How much is a golf club? / It's an expensive hobby.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's worth every penny.",
+     "ru": "Это стоит каждого потраченного пенни.",
+     "ex": "Was the course expensive? / Yes, but it's worth every penny.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I spend too much time on my phone.",
+     "ru": "Я провожу слишком много времени в телефоне.",
+     "ex": "I spend too much time on my phone. I want to read more.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm trying to cut down on screen time.",
+     "ru": "Я стараюсь меньше сидеть в телефоне и за компьютером.",
+     "ex": "I'm trying to cut down on screen time, so I've started drawing.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've got into podcasts recently.",
+     "ru": "Недавно я подсел на подкасты.",
+     "ex": "I've got into podcasts recently. Any good ones?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Any recommendations?",
+     "ru": "Есть что посоветовать?",
+     "ex": "I need a new book. Any recommendations?",
+     "lvl": "B1"
+    },
+    {
+     "en": "You should give it a try.",
+     "ru": "Тебе стоит попробовать.",
+     "ex": "I've never done yoga. / You should give it a try.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You'd love it!",
+     "ru": "Тебе бы очень понравилось!",
+     "ex": "Come to salsa with me. You'd love it!",
+     "lvl": "B1"
+    },
+    {
+     "en": "What are you up to this weekend?",
+     "ru": "Чем занимаешься на выходных?",
+     "ex": "What are you up to this weekend? / Not much. You?",
+     "lvl": "B1"
+    },
+    {
+     "en": "What did you get up to at the weekend?",
+     "ru": "Чем ты занимался на выходных?",
+     "ex": "What did you get up to at the weekend? / I went to the coast.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Fancy doing something tonight?",
+     "ru": "Не хочешь чем-нибудь заняться вечером?",
+     "ex": "Fancy doing something tonight? / Sure, what?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's do something different for a change.",
+     "ru": "Давай для разнообразия сделаем что-нибудь другое.",
+     "ex": "Not the pub again! Let's do something different for a change.",
+     "lvl": "B2"
+    },
+    {
+     "en": "How about going bowling?",
+     "ru": "Может, сходим в боулинг?",
+     "ex": "How about going bowling on Friday? / I'm terrible, but OK!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you want to join us?",
+     "ru": "Хочешь присоединиться к нам?",
+     "ex": "We're going for a walk. Do you want to join us?",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's more fun with friends.",
+     "ru": "С друзьями веселее.",
+     "ex": "Come running with me. It's more fun with friends.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm up for it!",
+     "ru": "Я за!",
+     "ex": "Karaoke tonight? / I'm up for it!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Count me in!",
+     "ru": "Я с вами! / Я в деле!",
+     "ex": "We're going camping in May. / Count me in!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll give it a miss this time.",
+     "ru": "В этот раз я пас.",
+     "ex": "Coming to the party? / I'll give it a miss this time. I'm tired.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm not in the mood.",
+     "ru": "Я не в настроении.",
+     "ex": "Let's go dancing! / Sorry, I'm not in the mood.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Maybe next time.",
+     "ru": "Может, в следующий раз.",
+     "ex": "Are you sure you can't come? / Maybe next time.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's meet at the pub at eight.",
+     "ru": "Встретимся в пабе в восемь.",
+     "ex": "Let's meet at the pub at eight. / See you there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We had a great night out.",
+     "ru": "Мы отлично провели вечер в городе.",
+     "ex": "We had a great night out. We danced until two.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're having a barbecue on Saturday.",
+     "ru": "В субботу у нас барбекю.",
+     "ex": "We're having a barbecue on Saturday. Bring your family!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Do you want to come to my party?",
+     "ru": "Придёшь ко мне на вечеринку?",
+     "ex": "Do you want to come to my party on Friday? / I'd love to!",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's fancy dress.",
+     "ru": "Это костюмированная вечеринка. (брит.)",
+     "ex": "What should I wear to the party? / It's fancy dress. Come as a pirate!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I had a lie-in on Sunday.",
+     "ru": "В воскресенье я поспал подольше. (lie-in — брит.)",
+     "ex": "You look rested. / I had a lie-in on Sunday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I just stayed in and relaxed.",
+     "ru": "Я просто остался дома и отдохнул.",
+     "ex": "What did you do last night? / I just stayed in and relaxed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I spent the whole day doing nothing.",
+     "ru": "Я весь день ничего не делал.",
+     "ex": "I spent the whole day doing nothing. It was great.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It was nice to have some me time.",
+     "ru": "Было приятно побыть наедине с собой.",
+     "ex": "The kids were at Grandma's. It was nice to have some me time.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm going away for the weekend.",
+     "ru": "Я уезжаю на выходные.",
+     "ex": "I'm going away for the weekend. Can you feed my cat?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm really looking forward to the weekend.",
+     "ru": "Я очень жду выходных.",
+     "ex": "I'm really looking forward to the weekend. I need a rest.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been meaning to take up running for ages.",
+     "ru": "Я уже давно собираюсь начать бегать.",
+     "ex": "I've been meaning to take up running for ages, but it's always raining.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm not much of a reader.",
+     "ru": "Я не большой любитель читать.",
+     "ex": "Have you read this book? / No, I'm not much of a reader.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm useless at sport.",
+     "ru": "В спорте я полный ноль.",
+     "ex": "Join our team! / Sorry, I'm useless at sport.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm a sucker for romantic comedies.",
+     "ru": "Обожаю романтические комедии. (моя слабость)",
+     "ex": "I know they're silly, but I'm a sucker for romantic comedies.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It really takes my mind off work.",
+     "ru": "Это помогает мне отвлечься от работы.",
+     "ex": "Why do you play the drums? / It really takes my mind off work.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't get enough of it!",
+     "ru": "Мне всё мало!",
+     "ex": "How's the dancing? / I can't get enough of it!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Once you start, it's hard to stop.",
+     "ru": "Стоит начать — и трудно остановиться.",
+     "ex": "Be careful with this game. Once you start, it's hard to stop.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We should make this a regular thing.",
+     "ru": "Давай сделаем это традицией.",
+     "ex": "That was a great evening. We should make this a regular thing.",
+     "lvl": "B2"
+    }
+   ]
   },
   {
    "id": "home",
    "title": "Дом и быт",
-   "phrases": []
+   "phrases": [
+    {
+     "en": "I live in a flat in the city centre.",
+     "ru": "Я живу в квартире в центре города. (flat — брит.)",
+     "ex": "Where do you live? / I live in a flat in the city centre.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a two-bedroom flat.",
+     "ru": "Это квартира с двумя спальнями.",
+     "ex": "How big is it? / It's a two-bedroom flat.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We live in a semi-detached house.",
+     "ru": "Мы живём в доме на две семьи. (брит.)",
+     "ex": "Do you live in a flat? / No, we live in a semi-detached house.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Our flat is on the top floor.",
+     "ru": "Наша квартира на последнем этаже.",
+     "ex": "Our flat is on the top floor. Great views!",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's no lift, so it's a lot of stairs.",
+     "ru": "Лифта нет, так что приходится много ходить по лестнице.",
+     "ex": "There's no lift, so it's a lot of stairs with the shopping.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've got a small balcony.",
+     "ru": "У нас маленький балкон.",
+     "ex": "Do you have a garden? / No, but we've got a small balcony.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a ten-minute walk to the station.",
+     "ru": "До станции десять минут пешком.",
+     "ex": "Is it far from the station? / No, it's a ten-minute walk to the station.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a quiet area.",
+     "ru": "Это тихий район.",
+     "ex": "I love it here. It's a quiet area.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a nice neighbourhood.",
+     "ru": "Это хороший район.",
+     "ex": "Is it safe? / Yes, it's a nice neighbourhood.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've lived here for five years.",
+     "ru": "Я живу здесь пять лет.",
+     "ex": "How long have you lived here? / I've lived here for five years.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We rent our flat.",
+     "ru": "Мы снимаем квартиру.",
+     "ex": "Do you own your flat? / No, we rent it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We've just bought a house.",
+     "ru": "Мы только что купили дом.",
+     "ex": "We've just bought a house! Come and see it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for a flat to rent.",
+     "ru": "Я ищу квартиру в аренду.",
+     "ex": "I'm looking for a flat to rent near the university.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Is the flat furnished?",
+     "ru": "Квартира с мебелью?",
+     "ex": "Is the flat furnished? / Yes, fully furnished.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much is the deposit?",
+     "ru": "Какой залог?",
+     "ex": "How much is the deposit? / One month's rent.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When can I move in?",
+     "ru": "Когда я могу въехать?",
+     "ex": "I'll take it. When can I move in? / From the first.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The rent's gone up again.",
+     "ru": "Аренда опять подорожала.",
+     "ex": "The rent's gone up again. We need to find somewhere cheaper.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're moving house next month.",
+     "ru": "В следующем месяце мы переезжаем.",
+     "ex": "We're moving house next month. Want our old sofa?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Moving house is so stressful.",
+     "ru": "Переезд — это такой стресс.",
+     "ex": "Moving house is so stressful. Boxes everywhere!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you help me move on Saturday?",
+     "ru": "Поможешь мне переехать в субботу?",
+     "ex": "Can you help me move on Saturday? I'll buy pizza.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I share a flat with two friends.",
+     "ru": "Я снимаю квартиру вместе с двумя друзьями.",
+     "ex": "Do you live alone? / No, I share a flat with two friends.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My flatmate never washes up.",
+     "ru": "Мой сосед по квартире никогда не моет посуду. (wash up — брит.)",
+     "ex": "The kitchen is a mess. My flatmate never washes up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Whose turn is it to do the washing-up?",
+     "ru": "Чья очередь мыть посуду?",
+     "ex": "Whose turn is it to do the washing-up? / Yours!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's make a cleaning rota.",
+     "ru": "Давай составим график уборки. (rota — брит.)",
+     "ex": "We always argue about cleaning. Let's make a cleaning rota.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you take the bins out?",
+     "ru": "Вынесешь мусор? (bins — брит.)",
+     "ex": "Could you take the bins out? They're full.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The bins are collected on Tuesdays.",
+     "ru": "Мусор вывозят по вторникам.",
+     "ex": "The bins are collected on Tuesdays, so put them out on Monday night.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where does the recycling go?",
+     "ru": "Куда выкидывать вторсырьё?",
+     "ex": "Where does the recycling go? / In the blue bin.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to do some washing.",
+     "ru": "Мне нужно постирать.",
+     "ex": "I've got no clean socks. I need to do some washing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll put the washing machine on.",
+     "ru": "Я включу стиральную машину.",
+     "ex": "I'll put the washing machine on before I go to work.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you hang the washing out?",
+     "ru": "Повесишь бельё сушиться?",
+     "ex": "It's sunny. Can you hang the washing out?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I hate ironing.",
+     "ru": "Ненавижу гладить.",
+     "ex": "I hate ironing, so I buy shirts that don't need it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll do the hoovering.",
+     "ru": "Я пропылесошу. (hoover — пылесос, брит.)",
+     "ex": "You clean the kitchen and I'll do the hoovering.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've just mopped the floor.",
+     "ru": "Я только что помыл пол.",
+     "ex": "Don't come in! I've just mopped the floor.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Mind, the floor's wet.",
+     "ru": "Осторожно, пол мокрый.",
+     "ex": "Mind, the floor's wet. / Thanks!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you tidy your room?",
+     "ru": "Приберись в своей комнате.",
+     "ex": "Could you tidy your room before Grandma comes?",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's a mess in here!",
+     "ru": "Тут бардак!",
+     "ex": "It's a mess in here! What happened?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I can't find anything in this mess.",
+     "ru": "Я ничего не могу найти в этом бардаке.",
+     "ex": "Where's my phone? I can't find anything in this mess.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Put it back where you found it.",
+     "ru": "Положи туда, где взял.",
+     "ex": "Can I use your scissors? / Yes, but put it back where you found it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's in the drawer next to the sink.",
+     "ru": "Это в ящике рядом с раковиной.",
+     "ex": "Where's the corkscrew? / It's in the drawer next to the sink.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm a bit of a neat freak.",
+     "ru": "Я немного помешан на чистоте.",
+     "ex": "Your flat is so clean! / I'm a bit of a neat freak.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm not very tidy.",
+     "ru": "Я не очень аккуратный.",
+     "ex": "Sorry about the mess. I'm not very tidy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've got too much stuff.",
+     "ru": "У нас слишком много вещей.",
+     "ex": "We've got too much stuff. The cupboards are full.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's have a clear-out.",
+     "ru": "Давай разберём хлам.",
+     "ex": "We've got too much stuff. Let's have a clear-out this weekend.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll take it to the charity shop.",
+     "ru": "Я отнесу это в благотворительный магазин. (брит.)",
+     "ex": "What about these old clothes? / I'll take it all to the charity shop.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Take your shoes off, please.",
+     "ru": "Разуйтесь, пожалуйста.",
+     "ex": "Come in. Take your shoes off, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Come in and have a seat.",
+     "ru": "Проходи, садись.",
+     "ex": "Hi! Come in and have a seat.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Make yourself at home.",
+     "ru": "Чувствуй себя как дома.",
+     "ex": "Make yourself at home. The kettle's in the kitchen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Shall I put the kettle on?",
+     "ru": "Поставить чайник? (брит.)",
+     "ex": "You look tired. Shall I put the kettle on?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let me show you around the house.",
+     "ru": "Давай я покажу тебе дом.",
+     "ex": "Welcome! Let me show you around the house.",
+     "lvl": "B1"
+    },
+    {
+     "en": "This is the living room.",
+     "ru": "Это гостиная.",
+     "ex": "This is the living room, and the kitchen is through there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The bathroom is upstairs on the left.",
+     "ru": "Ванная наверху, слева.",
+     "ex": "Where's the bathroom? / Upstairs on the left.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Feel free to use the shower.",
+     "ru": "Можешь спокойно пользоваться душем.",
+     "ex": "Feel free to use the shower. Towels are on the bed.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The spare room is ready for you.",
+     "ru": "Гостевая комната для тебя готова.",
+     "ex": "The spare room is ready for you. Stay as long as you like.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's for dinner?",
+     "ru": "Что на ужин?",
+     "ex": "Mum, what's for dinner? / Pasta.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Dinner's ready!",
+     "ru": "Ужин готов!",
+     "ex": "Dinner's ready! Wash your hands!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Who's going to do the cooking tonight?",
+     "ru": "Кто сегодня готовит?",
+     "ex": "Who's going to do the cooking tonight? / I'll do it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you lay the table?",
+     "ru": "Накроешь на стол? (брит.)",
+     "ex": "Dinner's nearly ready. Can you lay the table?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you clear the table?",
+     "ru": "Уберёшь со стола?",
+     "ex": "Could you clear the table? I'll wash up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Something smells good!",
+     "ru": "Что-то вкусно пахнет!",
+     "ex": "Something smells good! What are you cooking?",
+     "lvl": "A2"
+    },
+    {
+     "en": "We've run out of milk.",
+     "ru": "У нас закончилось молоко.",
+     "ex": "We've run out of milk. I'll go to the shop.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you pick up some bread on the way home?",
+     "ru": "Купишь хлеба по дороге домой?",
+     "ex": "Can you pick up some bread on the way home? / Sure.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's nothing in the fridge.",
+     "ru": "В холодильнике пусто.",
+     "ex": "There's nothing in the fridge. Let's go shopping.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's get a takeaway tonight.",
+     "ru": "Давай сегодня закажем еду навынос. (takeaway — брит.)",
+     "ex": "I'm too tired to cook. Let's get a takeaway tonight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't forget to turn the oven off.",
+     "ru": "Не забудь выключить духовку.",
+     "ex": "I'm going out. Don't forget to turn the oven off!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who left the lights on?",
+     "ru": "Кто оставил свет включённым?",
+     "ex": "Who left the lights on all night?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Turn the lights off when you leave the room.",
+     "ru": "Выключай свет, когда выходишь из комнаты.",
+     "ex": "Turn the lights off when you leave the room! Electricity is expensive.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Don't leave the tap running.",
+     "ru": "Не оставляй кран открытым.",
+     "ex": "Don't leave the tap running while you brush your teeth.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The tap is dripping.",
+     "ru": "Кран капает.",
+     "ex": "The tap is dripping all night. I can't sleep.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The sink is blocked.",
+     "ru": "Раковина засорилась.",
+     "ex": "The sink is blocked. The water won't go down.",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a leak under the sink.",
+     "ru": "Под раковиной течёт.",
+     "ex": "There's a leak under the sink. The floor is wet.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The boiler's broken.",
+     "ru": "Сломался газовый котёл.",
+     "ex": "The boiler's broken, so there's no hot water.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We've got no heating.",
+     "ru": "У нас не работает отопление.",
+     "ex": "We've got no heating and it's December!",
+     "lvl": "B1"
+    },
+    {
+     "en": "A light bulb has gone.",
+     "ru": "Перегорела лампочка.",
+     "ex": "A light bulb has gone in the kitchen.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you change the light bulb?",
+     "ru": "Можешь поменять лампочку?",
+     "ex": "Could you change the light bulb? I can't reach.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The fuse has blown.",
+     "ru": "Выбило пробки.",
+     "ex": "All the lights went off. I think the fuse has blown.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's been a power cut.",
+     "ru": "Отключили электричество.",
+     "ex": "Why is it dark? / There's been a power cut.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The Wi-Fi's down again.",
+     "ru": "Опять не работает Wi-Fi.",
+     "ex": "The Wi-Fi's down again. I can't work!",
+     "lvl": "B1"
+    },
+    {
+     "en": "The washing machine is making a funny noise.",
+     "ru": "Стиральная машина как-то странно шумит.",
+     "ex": "The washing machine is making a funny noise. Is it broken?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The fridge isn't working.",
+     "ru": "Холодильник не работает.",
+     "ex": "The fridge isn't working. The milk is warm.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I need to call a plumber.",
+     "ru": "Мне нужно вызвать сантехника.",
+     "ex": "Water everywhere! I need to call a plumber.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll ask the landlord to fix it.",
+     "ru": "Я попрошу хозяина квартиры это починить.",
+     "ex": "The window is broken. / I'll ask the landlord to fix it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "When can you come and have a look?",
+     "ru": "Когда вы можете прийти посмотреть?",
+     "ex": "My boiler isn't working. When can you come and have a look?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you fix it today?",
+     "ru": "Можете починить сегодня?",
+     "ex": "It's leaking a lot. Can you fix it today?",
+     "lvl": "A2"
+    },
+    {
+     "en": "How much will it cost to repair?",
+     "ru": "Сколько будет стоить ремонт?",
+     "ex": "How much will it cost to repair? / About eighty pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're doing up the kitchen.",
+     "ru": "Мы делаем ремонт на кухне. (do up — брит.)",
+     "ex": "Sorry about the noise. We're doing up the kitchen.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're redecorating the bedroom.",
+     "ru": "Мы обновляем спальню. (переклеиваем обои, перекрашиваем)",
+     "ex": "We're redecorating the bedroom. We chose green walls.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've painted the living room.",
+     "ru": "Мы покрасили гостиную.",
+     "ex": "We've painted the living room. Do you like the colour?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I put up some shelves.",
+     "ru": "Я повесил полки.",
+     "ex": "I put up some shelves in the bathroom. They're a bit crooked!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you give me a hand moving this sofa?",
+     "ru": "Поможешь передвинуть диван?",
+     "ex": "Could you give me a hand moving this sofa? It's heavy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Where shall we put the sofa?",
+     "ru": "Куда поставим диван?",
+     "ex": "Where shall we put the sofa? / By the window.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We need a new sofa.",
+     "ru": "Нам нужен новый диван.",
+     "ex": "This sofa is so old. We need a new sofa.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The house needs a lot of work.",
+     "ru": "Дому нужен серьёзный ремонт.",
+     "ex": "It's a nice house, but it needs a lot of work.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's a bit cramped.",
+     "ru": "Здесь тесновато.",
+     "ex": "The flat is nice, but it's a bit cramped for four people.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's really cosy.",
+     "ru": "Здесь очень уютно.",
+     "ex": "I love your living room. It's really cosy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It gets a lot of light.",
+     "ru": "Здесь много света.",
+     "ex": "I love this room. It gets a lot of light.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's quite damp.",
+     "ru": "Здесь довольно сыро.",
+     "ex": "The basement is quite damp. Don't keep books there.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There's mould in the bathroom.",
+     "ru": "В ванной плесень.",
+     "ex": "There's mould in the bathroom. We need to open the window more.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The walls are really thin.",
+     "ru": "Стены очень тонкие.",
+     "ex": "The walls are really thin. I can hear my neighbour's TV.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Our neighbours are really friendly.",
+     "ru": "Соседи у нас очень дружелюбные.",
+     "ex": "Our neighbours are really friendly. They always say hello.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The neighbours are a bit noisy.",
+     "ru": "Соседи немного шумные.",
+     "ex": "The neighbours are a bit noisy at the weekend.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you keep the noise down, please?",
+     "ru": "Не могли бы вы потише?",
+     "ex": "It's midnight. Could you keep the noise down, please?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Could you water my plants while I'm away?",
+     "ru": "Польёшь мои цветы, пока меня не будет?",
+     "ex": "I'm going on holiday. Could you water my plants while I'm away?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you feed the cat?",
+     "ru": "Покормишь кошку?",
+     "ex": "I'll be late tonight. Could you feed the cat?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've lost my house keys.",
+     "ru": "Я потерял ключи от дома.",
+     "ex": "I've lost my house keys. Are you at home?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Have you seen my keys?",
+     "ru": "Ты не видел мои ключи?",
+     "ex": "Have you seen my keys? / On the table.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Did you lock the door?",
+     "ru": "Ты запер дверь?",
+     "ex": "Did you lock the door? / Yes, I think so.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can you get the door?",
+     "ru": "Откроешь дверь?",
+     "ex": "Someone's knocking. Can you get the door?",
+     "lvl": "B1"
+    },
+    {
+     "en": "There's a parcel for you.",
+     "ru": "Тебе посылка.",
+     "ex": "There's a parcel for you. I put it in your room.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm expecting a delivery.",
+     "ru": "Я жду доставку.",
+     "ex": "I can't go out. I'm expecting a delivery.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you sign for my parcel?",
+     "ru": "Можешь расписаться за мою посылку?",
+     "ex": "I'm at work. Could you sign for my parcel if it comes?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need to mow the lawn.",
+     "ru": "Мне нужно подстричь газон.",
+     "ex": "I need to mow the lawn this weekend. The grass is so long.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The garden needs weeding.",
+     "ru": "В саду надо прополоть сорняки.",
+     "ex": "The garden needs weeding. Can you help?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's sit in the garden.",
+     "ru": "Давай посидим в саду.",
+     "ex": "It's sunny. Let's sit in the garden.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm home!",
+     "ru": "Я дома!",
+     "ex": "I'm home! / Hi! How was your day?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Did you have a good day?",
+     "ru": "Как прошёл день?",
+     "ex": "Did you have a good day? / Busy, but OK.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I can't wait to get home.",
+     "ru": "Не могу дождаться, когда буду дома.",
+     "ex": "What a long day. I can't wait to get home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm going to have a bath.",
+     "ru": "Я приму ванну.",
+     "ex": "I'm going to have a bath and go to bed.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm off to bed.",
+     "ru": "Я пошёл спать.",
+     "ex": "I'm off to bed. Good night!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you set the alarm for seven?",
+     "ru": "Поставишь будильник на семь?",
+     "ex": "We have an early train. Can you set the alarm for seven?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Home sweet home!",
+     "ru": "Дом, милый дом!",
+     "ex": "Back from holiday at last. Home sweet home!",
+     "lvl": "A2"
+    },
+    {
+     "en": "There's no place like home.",
+     "ru": "Нет места лучше дома.",
+     "ex": "The trip was great, but there's no place like home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's handy for the shops.",
+     "ru": "Отсюда удобно ходить по магазинам. (handy — брит.)",
+     "ex": "Why did you choose this flat? / It's handy for the shops.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The tenancy agreement is for twelve months.",
+     "ru": "Договор аренды на двенадцать месяцев.",
+     "ex": "Can I leave after six months? / No, the tenancy agreement is for twelve months.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The landlord still hasn't got back to me about the leak.",
+     "ru": "Хозяин квартиры так и не ответил мне насчёт протечки.",
+     "ex": "Is the bathroom fixed? / No, the landlord still hasn't got back to me about the leak.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're thinking of downsizing now the kids have left home.",
+     "ru": "Мы подумываем переехать в жильё поменьше, раз дети разъехались.",
+     "ex": "The house is too big for us. We're thinking of downsizing now the kids have left home.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We've had the windows replaced.",
+     "ru": "Нам поменяли окна.",
+     "ex": "It's much warmer now. We've had the windows replaced.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're getting the boiler serviced next week.",
+     "ru": "На следующей неделе нам проведут техобслуживание котла.",
+     "ex": "We're getting the boiler serviced next week, so there'll be no hot water on Monday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The kitchen could do with a lick of paint.",
+     "ru": "Кухню не мешало бы подкрасить.",
+     "ex": "The flat is fine, but the kitchen could do with a lick of paint.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The place could do with a good clean.",
+     "ru": "Здесь не помешала бы хорошая уборка.",
+     "ex": "Before the party, the place could do with a good clean.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The house is a tip!",
+     "ru": "В доме полный бардак! (tip — брит., разг.)",
+     "ex": "Sorry, don't look! The house is a tip!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't leave your things lying around.",
+     "ru": "Не разбрасывай свои вещи.",
+     "ex": "Don't leave your things lying around. Someone will fall over them.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I've been putting off cleaning the oven for weeks.",
+     "ru": "Я уже несколько недель откладываю чистку духовки.",
+     "ex": "I've been putting off cleaning the oven for weeks. Today's the day!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't be bothered to cook tonight.",
+     "ru": "Мне лень сегодня готовить.",
+     "ex": "I can't be bothered to cook tonight. Shall we order pizza?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We take it in turns to do the cooking.",
+     "ru": "Мы готовим по очереди.",
+     "ex": "Who cooks in your house? / We take it in turns to do the cooking.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's split the bills equally.",
+     "ru": "Давай делить счета поровну.",
+     "ex": "There are three of us, so let's split the bills equally.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The heating bills are through the roof.",
+     "ru": "Счета за отопление заоблачные.",
+     "ex": "We need better windows. The heating bills are through the roof.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're on good terms with the neighbours.",
+     "ru": "У нас хорошие отношения с соседями.",
+     "ex": "Can you ask the neighbours to help? / Yes, we're on good terms with them.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Our street is a nightmare for parking.",
+     "ru": "На нашей улице с парковкой просто беда.",
+     "ex": "Come by train. Our street is a nightmare for parking.",
+     "lvl": "B2"
+    }
+   ]
   },
   {
    "id": "emotions",
