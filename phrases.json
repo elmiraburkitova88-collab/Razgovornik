@@ -17718,6 +17718,2370 @@
      "lvl": "B2"
     }
    ]
+  },
+  {
+   "id": "phrasal",
+   "title": "Фразовые глаголы",
+   "phrases": [
+    {
+     "en": "I get up at seven.",
+     "ru": "Я встаю в семь. (get up — вставать)",
+     "ex": "What time do you get up? / I get up at seven.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I woke up in the middle of the night.",
+     "ru": "Я проснулся посреди ночи. (wake up — просыпаться)",
+     "ex": "You look tired. / I woke up in the middle of the night.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I slept in this morning.",
+     "ru": "Сегодня утром я проспал. (sleep in — поспать подольше)",
+     "ex": "Why are you late? / Sorry, I slept in this morning.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We stayed up all night.",
+     "ru": "Мы не спали всю ночь. (stay up — не ложиться)",
+     "ex": "You look tired. / We stayed up all night watching films.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I nodded off on the sofa.",
+     "ru": "Я задремал на диване. (nod off — задремать, брит.)",
+     "ex": "Did you watch the film? / No, I nodded off on the sofa.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need to lie down.",
+     "ru": "Мне нужно прилечь. (lie down — прилечь)",
+     "ex": "I've got a headache. I need to lie down.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Put your coat on.",
+     "ru": "Надень пальто. (put on — надевать)",
+     "ex": "It's cold outside. Put your coat on.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Take your jacket off.",
+     "ru": "Сними куртку. (take off — снимать)",
+     "ex": "Come in! Take your jacket off.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Zip up your coat.",
+     "ru": "Застегни куртку. (zip up — застегнуть молнию)",
+     "ex": "It's windy. Zip up your coat.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do I need to dress up?",
+     "ru": "Нужно наряжаться? (dress up — наряжаться)",
+     "ex": "We're going to a nice restaurant. / Do I need to dress up?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The plane took off on time.",
+     "ru": "Самолёт взлетел вовремя. (take off — взлетать)",
+     "ex": "How was the flight? / Good. The plane took off on time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you turn the radio on?",
+     "ru": "Включишь радио? (turn on — включать)",
+     "ex": "Can you turn the radio on? I want to hear the news.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Turn the TV off, please.",
+     "ru": "Выключи телевизор, пожалуйста. (turn off — выключать)",
+     "ex": "It's dinner time. Turn the TV off, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Switch off your phone.",
+     "ru": "Выключи телефон. (switch off — выключать, брит.)",
+     "ex": "The film is starting. Switch off your phone.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Turn it down, please.",
+     "ru": "Сделай потише, пожалуйста. (turn down — убавить)",
+     "ex": "The music is too loud. Turn it down, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I turned down the job offer.",
+     "ru": "Я отказался от предложения о работе. (turn down — отклонить)",
+     "ex": "Did you take the job? / No, I turned down the job offer.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Turn round and look!",
+     "ru": "Повернись и посмотри! (turn round — повернуться, брит.)",
+     "ex": "Turn round and look! There's a deer.",
+     "lvl": "A2"
+    },
+    {
+     "en": "He didn't turn up.",
+     "ru": "Он не пришёл. (turn up — появиться)",
+     "ex": "Did Mark come to the party? / No, he didn't turn up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It turned out that he was right.",
+     "ru": "Оказалось, что он был прав. (turn out — оказаться)",
+     "ex": "I thought he was wrong, but it turned out that he was right.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The rain turned into snow.",
+     "ru": "Дождь перешёл в снег. (turn into — превратиться)",
+     "ex": "It got colder and the rain turned into snow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking for my glasses.",
+     "ru": "Я ищу очки. (look for — искать)",
+     "ex": "What are you doing? / I'm looking for my glasses.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Can you look after my cat?",
+     "ru": "Присмотришь за моей кошкой? (look after — заботиться)",
+     "ex": "I'm away this weekend. Can you look after my cat?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm looking forward to the holiday.",
+     "ru": "Жду не дождусь отпуска. (look forward to — с нетерпением ждать)",
+     "ex": "Only one more week! I'm looking forward to the holiday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Look it up in the dictionary.",
+     "ru": "Посмотри в словаре. (look up — найти информацию)",
+     "ex": "What does this word mean? / Look it up in the dictionary.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Could you look into it?",
+     "ru": "Не могли бы вы разобраться? (look into — изучить вопрос)",
+     "ex": "My bill is wrong. Could you look into it?",
+     "lvl": "B1"
+    },
+    {
+     "en": "I looked through the photos.",
+     "ru": "Я просмотрел фотографии. (look through — просмотреть)",
+     "ex": "Did you find the photo? / I looked through the photos, but it's not there.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can we look round the house?",
+     "ru": "Можно осмотреть дом? (look round — осмотреть, брит.)",
+     "ex": "We're interested in the house. Can we look round it on Saturday?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Things are looking up.",
+     "ru": "Дела налаживаются. (look up — улучшаться)",
+     "ex": "How's business? / Things are looking up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I look up to my grandfather.",
+     "ru": "Я равняюсь на дедушку. (look up to — уважать, восхищаться)",
+     "ex": "Who's your hero? / I look up to my grandfather.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's go out tonight.",
+     "ru": "Давай сходим куда-нибудь вечером. (go out — выходить развлечься)",
+     "ex": "I'm bored. Let's go out tonight.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The lights went out.",
+     "ru": "Свет погас. (go out — погаснуть)",
+     "ex": "What happened? / The lights went out in the whole street.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Go on, I'm listening.",
+     "ru": "Продолжай, я слушаю. (go on — продолжать)",
+     "ex": "Sorry, I interrupted you. / Go on, I'm listening.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's going on?",
+     "ru": "Что происходит? (go on — происходить)",
+     "ex": "Why is everyone shouting? What's going on?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Prices keep going up.",
+     "ru": "Цены всё растут. (go up — расти)",
+     "ex": "Prices keep going up. Bread is so expensive now.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My alarm didn't go off.",
+     "ru": "Мой будильник не сработал. (go off — сработать, зазвенеть)",
+     "ex": "Why are you late? / My alarm didn't go off.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The milk has gone off.",
+     "ru": "Молоко испортилось. (go off — испортиться, брит.)",
+     "ex": "This smells strange. The milk has gone off.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll go over my notes before the exam.",
+     "ru": "Я просмотрю записи перед экзаменом. (go over — повторить, проверить)",
+     "ex": "Are you ready for the test? / I'll go over my notes tonight.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Get on the bus.",
+     "ru": "Садись в автобус. (get on — сесть в транспорт)",
+     "ex": "Quick, get on the bus! It's leaving.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Get off at the next stop.",
+     "ru": "Выходи на следующей остановке. (get off — выйти из транспорта)",
+     "ex": "Where's the museum? / Get off at the next stop.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I got back late last night.",
+     "ru": "Я вчера поздно вернулся. (get back — вернуться)",
+     "ex": "Why are you so tired? / I got back late last night.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's get together on Friday.",
+     "ru": "Давай соберёмся в пятницу. (get together — собраться)",
+     "ex": "We haven't seen each other for ages. Let's get together on Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How are you getting on?",
+     "ru": "Как у тебя продвигается? (get on — справляться, брит.)",
+     "ex": "How are you getting on with your new job? / Very well, thanks.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's getting over the flu.",
+     "ru": "Она поправляется после гриппа. (get over — оправиться)",
+     "ex": "Is Kate still ill? / She's getting over the flu.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'll get through this together.",
+     "ru": "Мы вместе справимся. (get through — пережить)",
+     "ex": "I'm so worried. / Don't worry. We'll get through this together.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need to get rid of these old clothes.",
+     "ru": "Мне нужно избавиться от этой старой одежды. (get rid of — избавиться)",
+     "ex": "My wardrobe is full. I need to get rid of these old clothes.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How did you get away with it?",
+     "ru": "Как тебе это сошло с рук? (get away with — избежать наказания)",
+     "ex": "I didn't pay for parking. / How did you get away with it?",
+     "lvl": "B2"
+    },
+    {
+     "en": "We got lost and ended up in the wrong town.",
+     "ru": "Мы заблудились и оказались не в том городе. (end up — в итоге оказаться)",
+     "ex": "Why were you so late? / We got lost and ended up in the wrong town.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I gave up smoking.",
+     "ru": "Я бросил курить. (give up — бросить)",
+     "ex": "Do you smoke? / Not any more. I gave up smoking last year.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't give up!",
+     "ru": "Не сдавайся! (give up — сдаваться)",
+     "ex": "This is too hard. / Don't give up! You're nearly there.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I finally gave in and bought a new phone.",
+     "ru": "В конце концов я сдался и купил новый телефон. (give in — уступить)",
+     "ex": "I thought you didn't want a new phone. / I finally gave in and bought one.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you give me back my charger?",
+     "ru": "Отдашь мне зарядку обратно? (give back — вернуть)",
+     "ex": "Can you give me back my charger? I need it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you hand out these papers?",
+     "ru": "Раздашь эти листы? (hand out — раздать)",
+     "ex": "Can you hand out these papers to everyone?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hand in your homework on Friday.",
+     "ru": "Сдайте домашнее задание в пятницу. (hand in — сдать)",
+     "ex": "When is the homework due? / Hand in your homework on Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to fill in an application form.",
+     "ru": "Мне нужно заполнить заявление. (fill in — заполнить, брит.)",
+     "ex": "What are you doing? / I need to fill in an application form for the course.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you fill me in on the meeting?",
+     "ru": "Расскажешь, что было на встрече? (fill in — ввести в курс дела)",
+     "ex": "I missed it. Can you fill me in on the meeting?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Write it down.",
+     "ru": "Запиши. (write down — записать)",
+     "ex": "My number is 07700 900123. / Wait, let me write it down.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Find out what time it starts.",
+     "ru": "Узнай, во сколько начало. (find out — выяснить)",
+     "ex": "Are we going to the concert? / Yes. Find out what time it starts.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's work it out together.",
+     "ru": "Давай разберёмся вместе. (work out — решить, понять)",
+     "ex": "I don't understand this bill. / Let's work it out together.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I work out three times a week.",
+     "ru": "Я тренируюсь три раза в неделю. (work out — тренироваться)",
+     "ex": "You look fit! / Thanks, I work out three times a week.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's warm up before we run.",
+     "ru": "Давай разомнёмся перед пробежкой. (warm up — разминаться)",
+     "ex": "Let's warm up before we run, or we'll hurt ourselves.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you figure out the answer?",
+     "ru": "Сможешь сообразить ответ? (figure out — понять, вычислить)",
+     "ex": "This puzzle is hard. Can you figure out the answer?",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't make out what he's saying.",
+     "ru": "Не могу разобрать, что он говорит. (make out — разобрать)",
+     "ex": "The line is bad. I can't make out what he's saying.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He made the whole story up.",
+     "ru": "Он всё выдумал. (make up — выдумать)",
+     "ex": "Did he really meet the Queen? / No, he made the whole story up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I always mix up their names.",
+     "ru": "Я вечно путаю их имена. (mix up — перепутать)",
+     "ex": "That's Anna, not Hanna! / Sorry, I always mix up their names.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I really messed up.",
+     "ru": "Я всё испортил. (mess up — напортачить, разг.)",
+     "ex": "I forgot the client's meeting. I really messed up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sit down, please.",
+     "ru": "Садитесь, пожалуйста. (sit down — садиться)",
+     "ex": "Hello, come in. Sit down, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Stand up, please.",
+     "ru": "Встаньте, пожалуйста. (stand up — вставать)",
+     "ex": "Stand up, please, when the judge comes in.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Come in!",
+     "ru": "Войдите! (come in — входить)",
+     "ex": "(knock knock) / Come in!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Come on, you can do it!",
+     "ru": "Давай, у тебя получится! (come on — подбадривание)",
+     "ex": "I'm so tired. / Come on, you can do it!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Hurry up, we're late!",
+     "ru": "Поторопись, мы опаздываем! (hurry up — поторопиться)",
+     "ex": "Hurry up, we're late! / I'm coming!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Come back soon!",
+     "ru": "Возвращайся скорее! (come back — возвращаться)",
+     "ex": "Bye! Come back soon!",
+     "lvl": "A2"
+    },
+    {
+     "en": "I came across an old photo.",
+     "ru": "Я наткнулся на старое фото. (come across — случайно найти)",
+     "ex": "I came across an old photo of you as a baby!",
+     "lvl": "B2"
+    },
+    {
+     "en": "He came up with a great idea.",
+     "ru": "Он придумал отличную идею. (come up with — придумать)",
+     "ex": "Who suggested the trip? / Tom. He came up with a great idea.",
+     "lvl": "B2"
+    },
+    {
+     "en": "My birthday is coming up.",
+     "ru": "Скоро мой день рождения. (come up — приближаться)",
+     "ex": "My birthday is coming up. Any ideas for a party?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Her parents came round for dinner.",
+     "ru": "Её родители заходили на ужин. (come round — зайти в гости, брит.)",
+     "ex": "What did you do on Saturday? / Her parents came round for dinner.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Pop in any time.",
+     "ru": "Заходи в любое время. (pop in — заскочить, брит.)",
+     "ex": "I live just over the road. Pop in any time.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Drop by when you're free.",
+     "ru": "Заскочи, когда будешь свободен. (drop by — заглянуть)",
+     "ex": "I've got your book. Drop by when you're free.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'll call in on my way home.",
+     "ru": "Я заскочу по дороге домой. (call in — зайти ненадолго, брит.)",
+     "ex": "Can you bring the keys? / Sure, I'll call in on my way home.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Pick it up off the floor.",
+     "ru": "Подними это с пола. (pick up — поднять)",
+     "ex": "You dropped your scarf. Pick it up off the floor.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I picked up some Spanish in Madrid.",
+     "ru": "Я нахватался испанского в Мадриде. (pick up — освоить без учёбы)",
+     "ex": "You speak Spanish? / A bit. I picked up some Spanish in Madrid.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Put it away.",
+     "ru": "Убери это на место. (put away — убрать)",
+     "ex": "You've finished with the scissors? Put them away, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can we put off the meeting?",
+     "ru": "Можем отложить встречу? (put off — откладывать)",
+     "ex": "I'm ill today. Can we put off the meeting until Monday?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The smell put me off.",
+     "ru": "Запах отбил у меня охоту. (put off — оттолкнуть)",
+     "ex": "Why didn't you eat the fish? / The smell put me off.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't put up with the noise.",
+     "ru": "Я не могу мириться с шумом. (put up with — терпеть)",
+     "ex": "I'm moving out. I can't put up with the noise any more.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Can you put me up for the night?",
+     "ru": "Пустишь меня переночевать? (put up — приютить, брит.)",
+     "ex": "I missed the last train. Can you put me up for the night?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Put out the fire.",
+     "ru": "Потуши огонь. (put out — потушить)",
+     "ex": "We're leaving the campsite. Put out the fire first.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He took me out for dinner.",
+     "ru": "Он пригласил меня на ужин. (take out — сводить куда-то)",
+     "ex": "What did you do for your birthday? / He took me out for dinner.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The new manager takes over next month.",
+     "ru": "Новый менеджер вступает в должность в следующем месяце. (take over — принять дела)",
+     "ex": "Is Sarah leaving? / Yes, the new manager takes over next month.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Try out the new app.",
+     "ru": "Попробуй новое приложение. (try out — опробовать)",
+     "ex": "Try out the new app. It's really useful.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you check out this website?",
+     "ru": "Глянь этот сайт. (check out — посмотреть, разг.)",
+     "ex": "Can you check out this website? Is it safe?",
+     "lvl": "B1"
+    },
+    {
+     "en": "We set off at dawn.",
+     "ru": "Мы выехали на рассвете. (set off — отправиться в путь)",
+     "ex": "What time did you leave? / We set off at dawn.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm setting up my own business.",
+     "ru": "Я открываю своё дело. (set up — основать)",
+     "ex": "Are you still at the bank? / No, I'm setting up my own business.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's catch up soon.",
+     "ru": "Давай скоро встретимся и поболтаем. (catch up — наверстать новости)",
+     "ex": "It was great to see you. Let's catch up soon.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I need to catch up on sleep.",
+     "ru": "Мне нужно отоспаться. (catch up on — наверстать)",
+     "ex": "Busy week? / Yes, I need to catch up on sleep this weekend.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't keep up with you.",
+     "ru": "Я за тобой не успеваю. (keep up with — поспевать)",
+     "ex": "Slow down! I can't keep up with you.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He kept on talking.",
+     "ru": "Он продолжал говорить. (keep on — продолжать)",
+     "ex": "I asked him to stop, but he kept on talking.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Keep away from the edge.",
+     "ru": "Держись подальше от края. (keep away from — держаться подальше)",
+     "ex": "Be careful! Keep away from the edge.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't let me down.",
+     "ru": "Не подведи меня. (let down — подвести)",
+     "ex": "I'm counting on you. Don't let me down.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't let the cat in.",
+     "ru": "Не впускай кошку. (let in — впустить)",
+     "ex": "Don't let the cat in. It's covered in mud.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We ran out of time.",
+     "ru": "У нас закончилось время. (run out of — закончиться)",
+     "ex": "Did you finish the test? / No, we ran out of time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I ran into my old teacher at the supermarket.",
+     "ru": "Я случайно встретил своего старого учителя в супермаркете. (run into — случайно встретить)",
+     "ex": "Guess who I ran into at the supermarket? My old teacher!",
+     "lvl": "B2"
+    },
+    {
+     "en": "The dog ran away.",
+     "ru": "Собака убежала. (run away — убежать)",
+     "ex": "Where's Max? / The dog ran away. We're looking for him.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's run through the plan again.",
+     "ru": "Давай ещё раз пробежимся по плану. (run through — быстро повторить)",
+     "ex": "Let's run through the plan again before the meeting.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She broke down in tears.",
+     "ru": "Она расплакалась. (break down — не выдержать)",
+     "ex": "How did she take the news? / She broke down in tears.",
+     "lvl": "B2"
+    },
+    {
+     "en": "School breaks up for summer next week.",
+     "ru": "Школа уходит на летние каникулы на следующей неделе. (break up — закончить семестр, брит.)",
+     "ex": "When do the holidays start? / School breaks up for summer next week.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Carry on, please.",
+     "ru": "Продолжайте, пожалуйста. (carry on — продолжать)",
+     "ex": "Sorry I'm late. Carry on, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll sort it out.",
+     "ru": "Я разберусь с этим. (sort out — уладить)",
+     "ex": "There's a problem with the order. / Don't worry, I'll sort it out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'll deal with it tomorrow.",
+     "ru": "Я займусь этим завтра. (deal with — разбираться с чем-то)",
+     "ex": "What about the emails? / I'll deal with it tomorrow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He pointed out a mistake.",
+     "ru": "Он указал на ошибку. (point out — указать)",
+     "ex": "Was the report OK? / He pointed out a mistake on page two.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Stop showing off!",
+     "ru": "Хватит выпендриваться! (show off — красоваться)",
+     "ex": "Look, I can ride with no hands! / Stop showing off!",
+     "lvl": "B1"
+    },
+    {
+     "en": "She showed up two hours late.",
+     "ru": "Она объявилась на два часа позже. (show up — появиться)",
+     "ex": "Was Jess on time? / No, she showed up two hours late.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We hang out at the weekend.",
+     "ru": "Мы тусуемся вместе по выходным. (hang out — проводить время)",
+     "ex": "Do you see Tom a lot? / Yes, we hang out at the weekend.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hang on a second.",
+     "ru": "Подожди секунду. (hang on — подождать)",
+     "ex": "Are you ready? / Hang on a second. I need my keys.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can I join in?",
+     "ru": "Можно с вами? (join in — присоединиться)",
+     "ex": "You're playing cards? Can I join in?",
+     "lvl": "B1"
+    },
+    {
+     "en": "The match kicks off at three.",
+     "ru": "Матч начинается в три. (kick off — начинаться)",
+     "ex": "What time is the football? / The match kicks off at three.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Sorry, I got held up in traffic.",
+     "ru": "Извини, я застрял в пробке. (hold up — задержать)",
+     "ex": "You're late! / Sorry, I got held up in traffic.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'd better head off.",
+     "ru": "Мне пора выдвигаться. (head off — уходить)",
+     "ex": "It's getting late. I'd better head off.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They called off the wedding.",
+     "ru": "Они отменили свадьбу. (call off — отменить)",
+     "ex": "Are they still getting married? / No, they called off the wedding.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't bring up politics at dinner.",
+     "ru": "Не поднимай тему политики за ужином. (bring up — затронуть тему)",
+     "ex": "My uncle gets angry. Don't bring up politics at dinner.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What do you want to be when you grow up?",
+     "ru": "Кем ты хочешь стать, когда вырастешь? (grow up — вырасти)",
+     "ex": "What do you want to be when you grow up? / A pilot!",
+     "lvl": "A2"
+    },
+    {
+     "en": "He's grown out of his shoes.",
+     "ru": "Он вырос из своих ботинок. (grow out of — вырасти из)",
+     "ex": "Why are you buying new shoes? / He's grown out of his shoes.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I moved out when I was eighteen.",
+     "ru": "Я съехал от родителей в восемнадцать. (move out — съехать)",
+     "ex": "Do you live with your parents? / No, I moved out when I was eighteen.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's eat out tonight.",
+     "ru": "Давай сегодня поедим не дома. (eat out — есть в ресторане)",
+     "ex": "I don't want to cook. Let's eat out tonight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I fell over on the ice.",
+     "ru": "Я упал на льду. (fall over — упасть)",
+     "ex": "What happened to your arm? / I fell over on the ice.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My shoes are falling apart.",
+     "ru": "Мои ботинки разваливаются. (fall apart — разваливаться)",
+     "ex": "You need new shoes. / I know, my shoes are falling apart.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He fell for her straight away.",
+     "ru": "Он сразу в неё влюбился. (fall for — влюбиться)",
+     "ex": "How did they meet? / At work. He fell for her straight away.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's tidy up before they arrive.",
+     "ru": "Давай приберёмся до их прихода. (tidy up — прибраться)",
+     "ex": "The guests are coming at six. Let's tidy up before they arrive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Who's going to clean up this mess?",
+     "ru": "Кто будет убирать этот бардак? (clean up — убрать)",
+     "ex": "Great party! But who's going to clean up this mess?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Don't throw it away!",
+     "ru": "Не выбрасывай это! (throw away — выбросить)",
+     "ex": "This old box is useless. / Don't throw it away! I need it.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I think I'm going to throw up.",
+     "ru": "Кажется, меня сейчас стошнит. (throw up — тошнить)",
+     "ex": "Stop the car! I think I'm going to throw up.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He passed out from the heat.",
+     "ru": "Он потерял сознание от жары. (pass out — отключиться)",
+     "ex": "Is he OK? / He passed out from the heat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "They blew up the balloons.",
+     "ru": "Они надули шарики. (blow up — надувать)",
+     "ex": "Is the room ready for the party? / Yes, they blew up the balloons.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's all chip in for a present.",
+     "ru": "Давайте скинемся на подарок. (chip in — скинуться)",
+     "ex": "It's Anna's birthday. Let's all chip in for a present.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The meeting dragged on for hours.",
+     "ru": "Встреча затянулась на несколько часов. (drag on — затягиваться)",
+     "ex": "Why are you so late? / The meeting dragged on for hours.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I didn't fit in at school.",
+     "ru": "Я не вписывался в школьный коллектив. (fit in — вписаться)",
+     "ex": "Did you like school? / Not really. I didn't fit in.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't freak out!",
+     "ru": "Не паникуй! (freak out — запаниковать, разг.)",
+     "ex": "There's a spider! / Don't freak out! It's tiny.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Nobody owned up.",
+     "ru": "Никто не признался. (own up — признаться)",
+     "ex": "Who broke the window? Nobody owned up.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Stop picking on your brother!",
+     "ru": "Перестань цепляться к брату! (pick on — придираться)",
+     "ex": "He took my toy! / Stop picking on your brother!",
+     "lvl": "B2"
+    },
+    {
+     "en": "We saw her off at the airport.",
+     "ru": "Мы проводили её в аэропорту. (see off — проводить)",
+     "ex": "Did Mum leave today? / Yes, we saw her off at the airport.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Your CV needs to stand out.",
+     "ru": "Твоё резюме должно выделяться. (stand out — выделяться)",
+     "ex": "Hundreds of people apply. Your CV needs to stand out.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What does BBC stand for?",
+     "ru": "Как расшифровывается BBC? (stand for — означать)",
+     "ex": "What does BBC stand for? / British Broadcasting Corporation.",
+     "lvl": "B1"
+    },
+    {
+     "en": "She talked me into it.",
+     "ru": "Она меня уговорила. (talk into — уговорить)",
+     "ex": "Why did you buy a dog? / My wife talked me into it.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The teacher told us off.",
+     "ru": "Учитель нас отругал. (tell off — отчитать, брит.)",
+     "ex": "Why are you sad? / The teacher told us off for talking.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Think it over and let me know.",
+     "ru": "Обдумай и дай мне знать. (think over — обдумать)",
+     "ex": "I'm not sure about the job. / Think it over and let me know.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I'm worn out.",
+     "ru": "Я выдохся. (wear out — измотать)",
+     "ex": "Want to go for a walk? / No, I'm worn out after work.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Back me up here!",
+     "ru": "Поддержи меня! (back up — поддержать)",
+     "ex": "Tell them it's true. Back me up here!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Don't leave anything out.",
+     "ru": "Ничего не упускай. (leave out — пропустить)",
+     "ex": "Tell me everything that happened. Don't leave anything out.",
+     "lvl": "B2"
+    },
+    {
+     "en": "He backed out at the last minute.",
+     "ru": "Он отказался в последний момент. (back out — пойти на попятную)",
+     "ex": "Is Tom coming on the trip? / No, he backed out at the last minute.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I need to brush up on my English.",
+     "ru": "Мне нужно подтянуть английский. (brush up on — освежить знания)",
+     "ex": "I've got an interview in London. I need to brush up on my English.",
+     "lvl": "B2"
+    }
+   ]
+  },
+  {
+   "id": "fillers",
+   "title": "Связки и разговорные слова",
+   "phrases": [
+    {
+     "en": "Well, I'm not sure.",
+     "ru": "Ну, я не уверен. (well — «ну», пауза перед ответом)",
+     "ex": "Is the restaurant good? / Well, I'm not sure.",
+     "lvl": "A2"
+    },
+    {
+     "en": "So, what's the plan?",
+     "ru": "Итак, какой план? (so — начать разговор, сменить тему)",
+     "ex": "So, what's the plan for tonight?",
+     "lvl": "A2"
+    },
+    {
+     "en": "Right, let's start.",
+     "ru": "Так, давайте начнём. (right — брит., переход к делу)",
+     "ex": "Right, let's start. Everyone's here.",
+     "lvl": "B1"
+    },
+    {
+     "en": "OK, so here's the thing.",
+     "ru": "Так, в общем, дело вот в чём.",
+     "ex": "OK, so here's the thing. I can't come to the wedding.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Actually, I'm from Kazan, not Moscow.",
+     "ru": "Вообще-то я из Казани, а не из Москвы. (actually — на самом деле; не «актуально»!)",
+     "ex": "So you're from Moscow? / Actually, I'm from Kazan, not Moscow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Actually, that's a good idea.",
+     "ru": "А ведь это хорошая идея. (actually — удивление)",
+     "ex": "We could go by bike. / Actually, that's a good idea.",
+     "lvl": "B1"
+    },
+    {
+     "en": "You know, I've never been to London.",
+     "ru": "Знаешь, я никогда не был в Лондоне. (you know — «знаешь»)",
+     "ex": "You know, I've never been to London.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I mean, it's not bad, but it's not great.",
+     "ru": "В смысле, неплохо, но и не супер. (I mean — уточнение)",
+     "ex": "Did you like the film? / I mean, it's not bad, but it's not great.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Basically, we need more time.",
+     "ru": "В общем-то, нам нужно больше времени. (basically — по сути)",
+     "ex": "What's the problem? / Basically, we need more time.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Like, it was really weird.",
+     "ru": "Ну, типа, это было очень странно. (like — разговорное «типа», не злоупотребляйте)",
+     "ex": "How was the party? / Like, it was really weird.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Listen, I need to tell you something.",
+     "ru": "Слушай, мне нужно тебе кое-что сказать. (listen — привлечь внимание)",
+     "ex": "Listen, I need to tell you something important.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Look, it's not my fault.",
+     "ru": "Слушай, это не моя вина. (look — с раздражением)",
+     "ex": "You broke it! / Look, it's not my fault.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Know what? I'll come with you.",
+     "ru": "Знаешь что? Я пойду с тобой.",
+     "ex": "I'm going to the shops. / Know what? I'll come with you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Hmm, let me see...",
+     "ru": "Хм, сейчас посмотрим... (let me see — пауза, чтобы подумать)",
+     "ex": "What time is the train? / Hmm, let me see... 4:15.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How can I put it?",
+     "ru": "Как бы это сказать?",
+     "ex": "Do you like him? / How can I put it? He's... interesting.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What's the word?",
+     "ru": "Как же это слово?",
+     "ex": "It's a... what's the word? A corkscrew!",
+     "lvl": "B1"
+    },
+    {
+     "en": "You know what I mean?",
+     "ru": "Понимаешь, о чём я?",
+     "ex": "He's nice, but a bit strange. You know what I mean?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Does that make sense?",
+     "ru": "Понятно? / Логично звучит?",
+     "ex": "So we meet at ten, then drive together. Does that make sense?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Just a second.",
+     "ru": "Секундочку.",
+     "ex": "Can you help me? / Just a second.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Wait a minute, that's not right.",
+     "ru": "Погоди, это неправильно.",
+     "ex": "It's thirty pounds. / Wait a minute, that's not right.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Anyway, where was I?",
+     "ru": "Так, на чём я остановился? (anyway — возврат к теме)",
+     "ex": "Sorry, my phone rang. Anyway, where was I?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Anyway, it doesn't matter.",
+     "ru": "Как бы то ни было, это не важно. (anyway — закрыть тему)",
+     "ex": "Who said it first? Anyway, it doesn't matter.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Speaking of Tom, have you seen him?",
+     "ru": "Кстати о Томе, ты его видел? (speaking of — раз уж речь зашла)",
+     "ex": "Tom loves this café. Speaking of Tom, have you seen him?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Talking of holidays, where are you going this year?",
+     "ru": "Кстати об отпуске, куда ты едешь в этом году? (talking of — брит.)",
+     "ex": "I need a holiday. / Talking of holidays, where are you going this year?",
+     "lvl": "B2"
+    },
+    {
+     "en": "Oh, and another thing...",
+     "ru": "Да, и ещё кое-что...",
+     "ex": "Oh, and another thing... don't forget your passport.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Honestly, I don't mind.",
+     "ru": "Честно, мне всё равно. (honestly — честно)",
+     "ex": "Where shall we eat? / Honestly, I don't mind.",
+     "lvl": "B1"
+    },
+    {
+     "en": "If I'm honest, I'm a bit scared.",
+     "ru": "Если честно, мне немного страшно.",
+     "ex": "Are you excited about the trip? / If I'm honest, I'm a bit scared.",
+     "lvl": "B1"
+    },
+    {
+     "en": "To tell you the truth, I forgot.",
+     "ru": "По правде говоря, я забыл.",
+     "ex": "Did you call your mum? / To tell you the truth, I forgot.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Frankly, it was a disaster.",
+     "ru": "Откровенно говоря, это была катастрофа. (frankly — откровенно)",
+     "ex": "How was the presentation? / Frankly, it was a disaster.",
+     "lvl": "B2"
+    },
+    {
+     "en": "To be fair, he did try.",
+     "ru": "Справедливости ради, он старался. (to be fair — брит.)",
+     "ex": "He failed the test. / To be fair, he did try.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Seriously, you have to try this.",
+     "ru": "Серьёзно, ты должен это попробовать.",
+     "ex": "Seriously, you have to try this cake. It's amazing.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Luckily, nobody was hurt.",
+     "ru": "К счастью, никто не пострадал. (luckily — к счастью)",
+     "ex": "There was a fire. Luckily, nobody was hurt.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Unfortunately, the shop was closed.",
+     "ru": "К сожалению, магазин был закрыт. (unfortunately — к сожалению)",
+     "ex": "Did you buy the milk? / Unfortunately, the shop was closed.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Hopefully, it'll be sunny.",
+     "ru": "Надеюсь, будет солнечно. (hopefully — надеюсь)",
+     "ex": "We're going to the beach tomorrow. Hopefully, it'll be sunny.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Apparently, he's moving to Spain.",
+     "ru": "Говорят, он переезжает в Испанию. (apparently — судя по всему, по слухам)",
+     "ex": "Have you heard about Mark? Apparently, he's moving to Spain.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Obviously, I'll help you move.",
+     "ru": "Разумеется, я помогу тебе с переездом. (obviously — очевидно, разумеется)",
+     "ex": "Are you free on Saturday? / Obviously, I'll help you move.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Of course, you're welcome to stay.",
+     "ru": "Конечно, оставайся.",
+     "ex": "Can I sleep on your sofa? / Of course, you're welcome to stay.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Surely you're not serious?",
+     "ru": "Ты же не всерьёз? (surely — выражает удивление)",
+     "ex": "I'm going to quit my job tomorrow. / Surely you're not serious?",
+     "lvl": "B2"
+    },
+    {
+     "en": "In fact, it was the opposite.",
+     "ru": "На самом деле всё было наоборот. (in fact — на самом деле)",
+     "ex": "Was he angry? / No. In fact, it was the opposite. He was happy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "As a matter of fact, I do.",
+     "ru": "Вообще-то да. (as a matter of fact — на самом деле)",
+     "ex": "You don't know anyone here, do you? / As a matter of fact, I do.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Believe it or not, he passed.",
+     "ru": "Хочешь верь, хочешь нет, но он сдал.",
+     "ex": "Did Sam pass his driving test? / Believe it or not, he passed!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Funnily enough, I was just thinking about you.",
+     "ru": "Как ни странно, я как раз о тебе думал. (брит.)",
+     "ex": "Hi, it's Anna! / Funnily enough, I was just thinking about you.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Also, don't forget your passport.",
+     "ru": "И ещё, не забудь паспорт. (also — также)",
+     "ex": "Bring warm clothes. Also, don't forget your passport.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Plus, it's cheaper.",
+     "ru": "К тому же это дешевле. (plus — к тому же, разг.)",
+     "ex": "Let's take the train. It's faster. Plus, it's cheaper.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Besides, it's too late now.",
+     "ru": "Кроме того, уже слишком поздно. (besides — кроме того)",
+     "ex": "I don't want to go out. Besides, it's too late now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "What's more, the food was cold.",
+     "ru": "Более того, еда была холодной. (what's more — более того)",
+     "ex": "The service was slow. What's more, the food was cold.",
+     "lvl": "B2"
+    },
+    {
+     "en": "On top of that, it started raining.",
+     "ru": "Вдобавок ко всему пошёл дождь. (on top of that — вдобавок)",
+     "ex": "We missed the bus. On top of that, it started raining.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Not to mention the price.",
+     "ru": "Не говоря уже о цене. (not to mention — не говоря уже о)",
+     "ex": "The hotel was dirty and noisy. Not to mention the price!",
+     "lvl": "B2"
+    },
+    {
+     "en": "I can't boil an egg, let alone cook dinner.",
+     "ru": "Я и яйцо сварить не могу, не то что ужин приготовить. (let alone — не говоря уже о)",
+     "ex": "Can you cook for the party? / I can't boil an egg, let alone cook dinner.",
+     "lvl": "B2"
+    },
+    {
+     "en": "However, there's one problem.",
+     "ru": "Однако есть одна проблема. (however — однако)",
+     "ex": "The flat is perfect. However, there's one problem. It's very expensive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Mind you, it was very cheap.",
+     "ru": "Правда, это было очень дёшево. (mind you — оговорка, брит.)",
+     "ex": "The hotel wasn't great. Mind you, it was very cheap.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Having said that, I'd go again.",
+     "ru": "Но при этом я бы поехал ещё раз. (having said that — тем не менее)",
+     "ex": "It rained every day. Having said that, I'd go again.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Still, it was worth it.",
+     "ru": "И всё же оно того стоило. (still — тем не менее)",
+     "ex": "The tickets were expensive. Still, it was worth it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Even so, I'm glad I went.",
+     "ru": "И всё-таки я рад, что сходил. (even so — и всё же)",
+     "ex": "The film was too long. Even so, I'm glad I went.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It was nice, though.",
+     "ru": "Хотя было приятно. (though в конце фразы — «хотя», разг.)",
+     "ex": "The weekend was too short. It was nice, though.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Though I must admit, it was fun.",
+     "ru": "Хотя должен признать, было весело. (though — хотя)",
+     "ex": "I didn't want to go dancing. Though I must admit, it was fun.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I love tea, whereas my wife prefers coffee.",
+     "ru": "Я люблю чай, а моя жена предпочитает кофе. (whereas — тогда как)",
+     "ex": "Do you both drink tea? / No. I love tea, whereas my wife prefers coffee.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Instead, we stayed at home.",
+     "ru": "Вместо этого мы остались дома. (instead — вместо этого)",
+     "ex": "Did you go to the cinema? / No. Instead, we stayed at home.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Otherwise, we'll be late.",
+     "ru": "Иначе мы опоздаем. (otherwise — иначе)",
+     "ex": "Leave now. Otherwise, we'll be late.",
+     "lvl": "B1"
+    },
+    {
+     "en": "In that case, let's take a taxi.",
+     "ru": "В таком случае давай возьмём такси. (in that case — в таком случае)",
+     "ex": "The buses aren't running. / In that case, let's take a taxi.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Either way, I'll call you.",
+     "ru": "В любом случае я тебе позвоню. (either way — в любом случае)",
+     "ex": "I might be late, or I might not come. Either way, I'll call you.",
+     "lvl": "B1"
+    },
+    {
+     "en": "In any case, it's too late.",
+     "ru": "Как бы там ни было, уже поздно. (in any case — в любом случае)",
+     "ex": "Should we call them? / In any case, it's too late now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "At least we tried.",
+     "ru": "По крайней мере, мы попытались. (at least — по крайней мере)",
+     "ex": "We didn't win. / At least we tried.",
+     "lvl": "B1"
+    },
+    {
+     "en": "After all, he's only five.",
+     "ru": "В конце концов, ему всего пять. (after all — ведь, всё-таки)",
+     "ex": "Don't be angry with him. After all, he's only five.",
+     "lvl": "B2"
+    },
+    {
+     "en": "At the end of the day, it's your choice.",
+     "ru": "В конечном счёте это твой выбор. (at the end of the day — разг.)",
+     "ex": "Should I study medicine? / At the end of the day, it's your choice.",
+     "lvl": "B2"
+    },
+    {
+     "en": "That's why I'm late.",
+     "ru": "Вот почему я опоздал.",
+     "ex": "The bus broke down. That's why I'm late.",
+     "lvl": "A2"
+    },
+    {
+     "en": "So that's why!",
+     "ru": "Так вот почему!",
+     "ex": "He's got a new girlfriend. / So that's why he's so happy!",
+     "lvl": "B1"
+    },
+    {
+     "en": "That's because I was ill.",
+     "ru": "Это потому, что я болел.",
+     "ex": "Why weren't you at work? / That's because I was ill.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Because of the snow, the school closed.",
+     "ru": "Из-за снега школу закрыли. (because of — из-за)",
+     "ex": "Why are the kids at home? / Because of the snow, the school closed.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Thanks to you, I passed.",
+     "ru": "Благодаря тебе я сдал. (thanks to — благодаря)",
+     "ex": "Thanks to you, I passed the exam! / Well done!",
+     "lvl": "B1"
+    },
+    {
+     "en": "As a result, the flight was cancelled.",
+     "ru": "В результате рейс отменили. (as a result — в результате)",
+     "ex": "There was a storm. As a result, the flight was cancelled.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's leave now so that we don't miss the train.",
+     "ru": "Давай выйдем сейчас, чтобы не опоздать на поезд. (so that — чтобы)",
+     "ex": "It's only eight. / Let's leave now so that we don't miss the train.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm saving in order to buy a car.",
+     "ru": "Я коплю, чтобы купить машину. (in order to — для того чтобы)",
+     "ex": "Why do you work weekends? / I'm saving in order to buy a car.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We'll go unless it rains.",
+     "ru": "Мы пойдём, если не будет дождя. (unless — если не)",
+     "ex": "Are we having the picnic? / Yes, we'll go unless it rains.",
+     "lvl": "B1"
+    },
+    {
+     "en": "As long as you're back by ten.",
+     "ru": "Если только ты вернёшься к десяти. (as long as — при условии что)",
+     "ex": "Can I go to the party? / As long as you're back by ten.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Just in case.",
+     "ru": "На всякий случай.",
+     "ex": "Why are you taking a coat? It's sunny. / Just in case.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Even though it was raining, we went out.",
+     "ru": "Хотя шёл дождь, мы пошли гулять. (even though — хотя)",
+     "ex": "Did you stay in? / No. Even though it was raining, we went out.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Although he's rich, he's not happy.",
+     "ru": "Хотя он богат, он несчастлив. (although — хотя)",
+     "ex": "Although he's rich, he's not happy. Money isn't everything.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Despite the rain, we had fun.",
+     "ru": "Несмотря на дождь, мы повеселились. (despite — несмотря на)",
+     "ex": "How was the festival? / Despite the rain, we had fun.",
+     "lvl": "B2"
+    },
+    {
+     "en": "In spite of everything, we're still friends.",
+     "ru": "Несмотря ни на что, мы всё ещё друзья. (in spite of — несмотря на)",
+     "ex": "You argued a lot. / Yes, but in spite of everything, we're still friends.",
+     "lvl": "B2"
+    },
+    {
+     "en": "First of all, thank you for coming.",
+     "ru": "Прежде всего, спасибо, что пришли. (first of all — прежде всего)",
+     "ex": "First of all, thank you for coming. Let's begin.",
+     "lvl": "B1"
+    },
+    {
+     "en": "To start with, it's too expensive.",
+     "ru": "Начнём с того, что это слишком дорого. (to start with — для начала)",
+     "ex": "Why don't you like the plan? / To start with, it's too expensive.",
+     "lvl": "B2"
+    },
+    {
+     "en": "At first, I didn't like it.",
+     "ru": "Сначала мне не понравилось. (at first — сначала)",
+     "ex": "Do you like London? / At first, I didn't like it. Now I love it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Then, add the eggs.",
+     "ru": "Затем добавьте яйца. (then — затем)",
+     "ex": "Mix the flour and sugar. Then, add the eggs.",
+     "lvl": "A2"
+    },
+    {
+     "en": "After that, we went to the beach.",
+     "ru": "После этого мы пошли на пляж. (after that — после этого)",
+     "ex": "We had lunch in town. After that, we went to the beach.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Meanwhile, I'll make some tea.",
+     "ru": "А тем временем я заварю чай. (meanwhile — тем временем)",
+     "ex": "The cake needs twenty minutes. Meanwhile, I'll make some tea.",
+     "lvl": "B2"
+    },
+    {
+     "en": "In the meantime, have a seat.",
+     "ru": "Пока что присаживайтесь. (in the meantime — пока что)",
+     "ex": "The doctor is busy. In the meantime, have a seat.",
+     "lvl": "B2"
+    },
+    {
+     "en": "In the end, we took the train.",
+     "ru": "В итоге мы поехали на поезде. (in the end — в итоге)",
+     "ex": "Did you drive? / We wanted to, but in the end, we took the train.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Eventually, he said yes.",
+     "ru": "В конце концов он согласился. (eventually — в конце концов, а не «возможно»!)",
+     "ex": "Did your dad let you go? / Eventually, he said yes.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Finally, I'd like to thank my family.",
+     "ru": "И наконец, я хотел бы поблагодарить свою семью. (finally — наконец)",
+     "ex": "Finally, I'd like to thank my family for their support.",
+     "lvl": "B1"
+    },
+    {
+     "en": "So far, so good.",
+     "ru": "Пока всё хорошо.",
+     "ex": "How's the new job? / So far, so good.",
+     "lvl": "B1"
+    },
+    {
+     "en": "For example, you could take the bus.",
+     "ru": "Например, можно поехать на автобусе. (for example — например)",
+     "ex": "How do I get there? / For example, you could take the bus.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Such as?",
+     "ru": "Например? (попросить пример)",
+     "ex": "There are lots of things to do here. / Such as?",
+     "lvl": "B1"
+    },
+    {
+     "en": "In other words, we're broke.",
+     "ru": "Другими словами, мы на мели. (in other words — другими словами)",
+     "ex": "We've spent all our savings. In other words, we're broke.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Just to be clear, I'm not angry.",
+     "ru": "Просто чтобы было понятно: я не злюсь.",
+     "ex": "Just to be clear, I'm not angry. I'm just tired.",
+     "lvl": "B2"
+    },
+    {
+     "en": "As I said, I can't come on Friday.",
+     "ru": "Как я уже говорил, в пятницу я не смогу. (as I said — как я уже сказал)",
+     "ex": "Are you coming on Friday? / As I said, I can't come on Friday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "As far as I know, the shop is open.",
+     "ru": "Насколько я знаю, магазин открыт. (as far as I know — насколько я знаю)",
+     "ex": "Is the shop open today? / As far as I know, it is.",
+     "lvl": "B1"
+    },
+    {
+     "en": "If I remember rightly, it was in 2019.",
+     "ru": "Если я правильно помню, это было в 2019-м. (брит.)",
+     "ex": "When did you move? / If I remember rightly, it was in 2019.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Generally speaking, it's safe here.",
+     "ru": "Вообще говоря, здесь безопасно. (generally speaking — в целом)",
+     "ex": "Is this area safe? / Generally speaking, it's safe here.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Overall, I'm happy.",
+     "ru": "В целом я доволен. (overall — в целом)",
+     "ex": "How was the course? / Some parts were hard, but overall, I'm happy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "On the whole, people were friendly.",
+     "ru": "В общем и целом люди были дружелюбными. (on the whole — в целом)",
+     "ex": "How did you find Scotland? / On the whole, people were friendly.",
+     "lvl": "B2"
+    },
+    {
+     "en": "All in all, it was a great trip.",
+     "ru": "В целом это была отличная поездка. (all in all — в общем)",
+     "ex": "There were some problems, but all in all, it was a great trip.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I literally ran all the way.",
+     "ru": "Я буквально всю дорогу бежал. (literally — разговорное усиление)",
+     "ex": "How did you get here so fast? / I literally ran all the way.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Absolutely!",
+     "ru": "Безусловно! / Ещё бы!",
+     "ex": "Are you coming tonight? / Absolutely!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Totally!",
+     "ru": "Абсолютно! / Полностью! (разг.)",
+     "ex": "Wasn't that film amazing? / Totally!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Sure thing!",
+     "ru": "Конечно! / Без проблем! (разг.)",
+     "ex": "Can you send me the photos? / Sure thing!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Right, got it.",
+     "ru": "Так, понял. (got it — понял)",
+     "ex": "Turn left, then second right. / Right, got it.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Pretty much.",
+     "ru": "Почти. / Практически. (разг.)",
+     "ex": "Are you finished? / Pretty much.",
+     "lvl": "B1"
+    },
+    {
+     "en": "More or less.",
+     "ru": "Более или менее.",
+     "ex": "Do you understand the rules? / More or less.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Something like that.",
+     "ru": "Что-то вроде того.",
+     "ex": "So he's a doctor? / Something like that. He works in a hospital.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We watched films and stuff like that.",
+     "ru": "Мы смотрели фильмы и всё такое. (and stuff like that — и всё такое, разг.)",
+     "ex": "What did you do at the weekend? / We watched films and stuff like that.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Let's get a pizza or something.",
+     "ru": "Давай возьмём пиццу или что-нибудь такое. (or something — или что-то вроде)",
+     "ex": "I'm hungry. / Let's get a pizza or something.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Whatever.",
+     "ru": "Да как хочешь. / Мне всё равно. (часто звучит грубовато)",
+     "ex": "Shall we go now or later? / Whatever.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Oh well, never mind.",
+     "ru": "Ну что ж, ничего страшного. (oh well — смирение с ситуацией)",
+     "ex": "Sorry, the shop has sold out. / Oh well, never mind.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Brilliant!",
+     "ru": "Отлично! (брит.)",
+     "ex": "I've got the tickets! / Brilliant!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Lovely!",
+     "ru": "Чудесно! / Отлично! (брит., очень частое)",
+     "ex": "Your coffee, madam. / Lovely, thank you!",
+     "lvl": "A2"
+    },
+    {
+     "en": "Cheers, mate.",
+     "ru": "Спасибо, дружище. (брит., разг.)",
+     "ex": "Here's your pen. / Cheers, mate.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Ta!",
+     "ru": "Спасибо! (брит., очень разг.)",
+     "ex": "Here's your tea. / Ta!",
+     "lvl": "B2"
+    },
+    {
+     "en": "Sorted!",
+     "ru": "Готово! / Решено! (брит., разг.)",
+     "ex": "I've booked the hotel. / Sorted!",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's amazing, right?",
+     "ru": "Классно, правда? (right? — в конце фразы, ожидая согласия)",
+     "ex": "This view! It's amazing, right?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's cold today, isn't it?",
+     "ru": "Сегодня холодно, правда? (разделительный вопрос)",
+     "ex": "It's cold today, isn't it? / Freezing!",
+     "lvl": "A2"
+    },
+    {
+     "en": "You went to Paris last year, didn't you?",
+     "ru": "Ты же ездил в Париж в прошлом году? (разделительный вопрос)",
+     "ex": "You went to Paris last year, didn't you? / Yes, in May.",
+     "lvl": "B1"
+    },
+    {
+     "en": "That was a great film, wasn't it?",
+     "ru": "Отличный был фильм, правда? (разделительный вопрос)",
+     "ex": "That was a great film, wasn't it? / The best this year!",
+     "lvl": "B1"
+    }
+   ]
+  },
+  {
+   "id": "numbers",
+   "title": "Числа, время, даты",
+   "phrases": [
+    {
+     "en": "What time is it?",
+     "ru": "Который час?",
+     "ex": "What time is it? / It's half past three.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Have you got the time?",
+     "ru": "Не подскажете, который час? (брит.)",
+     "ex": "Excuse me, have you got the time? / It's ten to four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's five o'clock.",
+     "ru": "Пять часов.",
+     "ex": "What time is it? / It's five o'clock.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's ten past three.",
+     "ru": "Десять минут четвёртого. (3:10)",
+     "ex": "What time is it? / It's ten past three.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's quarter past four.",
+     "ru": "Четверть пятого. (4:15)",
+     "ex": "When does the film start? / At quarter past four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's half past six.",
+     "ru": "Половина седьмого. (6:30)",
+     "ex": "What time is dinner? / It's at half past six.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's half seven.",
+     "ru": "Полвосьмого. (7:30; брит. разг. half seven = half past seven, а не 6:30!)",
+     "ex": "What time shall we meet? / Half seven?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's twenty to five.",
+     "ru": "Без двадцати пять. (4:40)",
+     "ex": "Is it four yet? / It's twenty to five.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's quarter to nine.",
+     "ru": "Без четверти девять. (8:45)",
+     "ex": "Hurry up! It's quarter to nine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's just gone eight.",
+     "ru": "Только что пробило восемь. (брит., разг.)",
+     "ex": "What time is it? / It's just gone eight.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's nearly midnight.",
+     "ru": "Почти полночь.",
+     "ex": "Go to bed! It's nearly midnight.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Let's meet at noon.",
+     "ru": "Давай встретимся в полдень.",
+     "ex": "When shall we have lunch? / Let's meet at noon.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The meeting is at nine a.m.",
+     "ru": "Встреча в 9 утра. (a.m. — до полудня, p.m. — после)",
+     "ex": "When's the meeting? / The meeting is at nine a.m.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It starts at seven p.m. sharp.",
+     "ru": "Начинается ровно в 7 вечера. (sharp — ровно)",
+     "ex": "What time is the concert? / It starts at seven p.m. sharp.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Be there at eight on the dot.",
+     "ru": "Будь там ровно в восемь. (on the dot — минута в минуту)",
+     "ex": "When should I arrive? / Be there at eight on the dot.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The train leaves at fourteen oh five.",
+     "ru": "Поезд отправляется в 14:05. (так объявляют время в расписании)",
+     "ex": "When does the train leave? / The train leaves at fourteen oh five.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Let's say half past two.",
+     "ru": "Давай, скажем, в полтретьего.",
+     "ex": "What time is good for you? / Let's say half past two.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm free after four.",
+     "ru": "Я свободен после четырёх.",
+     "ex": "When can we talk? / I'm free after four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll be there in five minutes.",
+     "ru": "Буду через пять минут.",
+     "ex": "Where are you? / I'll be there in five minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The next one is in an hour.",
+     "ru": "Следующий через час.",
+     "ex": "When's the next bus? / The next one is in an hour.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll be back in a quarter of an hour.",
+     "ru": "Вернусь через четверть часа.",
+     "ex": "Are you going out? / Yes, I'll be back in a quarter of an hour.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It takes about an hour and a half.",
+     "ru": "Это занимает около полутора часов.",
+     "ex": "How long is the flight? / It takes about an hour and a half.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Just over an hour.",
+     "ru": "Чуть больше часа.",
+     "ex": "How long does it take to Oxford? / Just over an hour.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've been waiting for half an hour.",
+     "ru": "Я жду уже полчаса.",
+     "ex": "Where are you? I've been waiting for half an hour!",
+     "lvl": "B1"
+    },
+    {
+     "en": "I'm running ten minutes late.",
+     "ru": "Я опаздываю на десять минут.",
+     "ex": "Sorry, I'm running ten minutes late. Start without me.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We arrived two hours early.",
+     "ru": "Мы приехали на два часа раньше.",
+     "ex": "Why are you at the airport already? / We arrived two hours early.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The film lasts two hours.",
+     "ru": "Фильм идёт два часа.",
+     "ex": "How long is the film? / The film lasts two hours.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's open twenty-four seven.",
+     "ru": "Работает круглосуточно без выходных. (24/7)",
+     "ex": "Is the shop open at night? / Yes, it's open twenty-four seven.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The office is open from Monday to Friday.",
+     "ru": "Офис работает с понедельника по пятницу.",
+     "ex": "Can I come on Saturday? / No, the office is open from Monday to Friday.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm here until Sunday.",
+     "ru": "Я здесь до воскресенья.",
+     "ex": "How long are you staying? / I'm here until Sunday.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What's the date today?",
+     "ru": "Какое сегодня число?",
+     "ex": "What's the date today? / It's the third of May.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's the third of May.",
+     "ru": "Сегодня третье мая. (пишут 3 May, говорят the third of May)",
+     "ex": "What's the date today? / It's the third of May.",
+     "lvl": "A2"
+    },
+    {
+     "en": "My birthday is on the twenty-first of June.",
+     "ru": "Мой день рождения 21 июня.",
+     "ex": "When's your birthday? / My birthday is on the twenty-first of June.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Is Tuesday the fourteenth OK?",
+     "ru": "Вторник, 14-е, подходит?",
+     "ex": "When can we meet? Is Tuesday the fourteenth OK?",
+     "lvl": "B1"
+    },
+    {
+     "en": "In Britain, the day comes before the month.",
+     "ru": "В Британии день пишут перед месяцем. (03/05 — это 3 мая)",
+     "ex": "Is 03/05 March or May? / May. In Britain, the day comes before the month.",
+     "lvl": "B1"
+    },
+    {
+     "en": "In America, it's the other way round.",
+     "ru": "В Америке наоборот. (03/05 — это 5 марта)",
+     "ex": "And in the US? / In America, it's the other way round.",
+     "lvl": "B2"
+    },
+    {
+     "en": "I was born in nineteen ninety-five.",
+     "ru": "Я родился в 1995 году. (годы читают парами цифр)",
+     "ex": "When were you born? / I was born in nineteen ninety-five.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It happened in two thousand and eight.",
+     "ru": "Это произошло в 2008 году. (брит.: two thousand and eight)",
+     "ex": "When did you move here? / It happened in two thousand and eight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's twenty twenty-six.",
+     "ru": "Сейчас 2026 год. (годы после 2010-го обычно читают парами)",
+     "ex": "What year is it on the coin? / It's twenty twenty-six.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I grew up in the nineties.",
+     "ru": "Я вырос в девяностые.",
+     "ex": "Do you like this music? / Yes, I grew up in the nineties.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It was popular in the early two thousands.",
+     "ru": "Это было популярно в начале 2000-х.",
+     "ex": "Nobody wears that now. It was popular in the early two thousands.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The house was built in the eighteenth century.",
+     "ru": "Дом построен в XVIII веке.",
+     "ex": "How old is the house? / It was built in the eighteenth century.",
+     "lvl": "B1"
+    },
+    {
+     "en": "See you on Monday morning.",
+     "ru": "Увидимся в понедельник утром.",
+     "ex": "Have a good weekend! See you on Monday morning.",
+     "lvl": "A2"
+    },
+    {
+     "en": "What are you doing at the weekend?",
+     "ru": "Что делаешь на выходных? (брит. at the weekend; амер. on the weekend)",
+     "ex": "What are you doing at the weekend? / Nothing much.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm leaving the day after tomorrow.",
+     "ru": "Я уезжаю послезавтра.",
+     "ex": "When are you leaving? / The day after tomorrow.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I saw her the day before yesterday.",
+     "ru": "Я видел её позавчера.",
+     "ex": "When did you see Anna? / I saw her the day before yesterday.",
+     "lvl": "A2"
+    },
+    {
+     "en": "The party is a week on Friday.",
+     "ru": "Вечеринка через неделю в пятницу. (брит.)",
+     "ex": "When's the party? / The party is a week on Friday.",
+     "lvl": "B2"
+    },
+    {
+     "en": "We're going on holiday in a fortnight.",
+     "ru": "Мы едем в отпуск через две недели. (fortnight — две недели, брит.)",
+     "ex": "When's your holiday? / We're going in a fortnight.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're going in mid-June.",
+     "ru": "Мы едем в середине июня.",
+     "ex": "When is your trip? / We're going in mid-June.",
+     "lvl": "B1"
+    },
+    {
+     "en": "We're moving at the beginning of next year.",
+     "ru": "Мы переезжаем в начале следующего года.",
+     "ex": "When are you moving? / At the beginning of next year.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The deadline is midnight on the thirtieth.",
+     "ru": "Срок — полночь тридцатого числа.",
+     "ex": "When do I need to send it? / The deadline is midnight on the thirtieth.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Monday is a bank holiday.",
+     "ru": "Понедельник — официальный выходной. (bank holiday — брит.)",
+     "ex": "Are you working on Monday? / No, Monday is a bank holiday.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a leap year.",
+     "ru": "Это високосный год.",
+     "ex": "February has 29 days this year. It's a leap year.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The clocks go back this weekend.",
+     "ru": "В эти выходные переводят часы назад. (Британия, последнее воскресенье октября)",
+     "ex": "Don't forget, the clocks go back this weekend. We get an extra hour!",
+     "lvl": "B2"
+    },
+    {
+     "en": "In winter, London is three hours behind Moscow.",
+     "ru": "Зимой Лондон отстаёт от Москвы на три часа. (летом — на два)",
+     "ex": "What time is it in London now? / In winter, London is three hours behind Moscow.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What time is it there?",
+     "ru": "Сколько там сейчас времени?",
+     "ex": "I'll call my brother in New York. What time is it there?",
+     "lvl": "A2"
+    },
+    {
+     "en": "I go running every other day.",
+     "ru": "Я бегаю через день.",
+     "ex": "How often do you run? / I go running every other day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I see my mum twice a week.",
+     "ru": "Я вижусь с мамой два раза в неделю.",
+     "ex": "How often do you visit your mum? / I see my mum twice a week.",
+     "lvl": "A2"
+    },
+    {
+     "en": "We meet once a month.",
+     "ru": "Мы встречаемся раз в месяц.",
+     "ex": "How often does the book club meet? / We meet once a month.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I moved here three years ago.",
+     "ru": "Я переехал сюда три года назад.",
+     "ex": "When did you move here? / I moved here three years ago.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I've lived here since twenty twenty.",
+     "ru": "Я живу здесь с 2020 года. (since — с какого момента)",
+     "ex": "How long have you lived here? / I've lived here since twenty twenty.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've known her for ten years.",
+     "ru": "Я знаю её десять лет. (for — в течение срока)",
+     "ex": "How long have you known Kate? / I've known her for ten years.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I haven't seen him for three days.",
+     "ru": "Я не видел его три дня.",
+     "ex": "Where's Tom? / I don't know. I haven't seen him for three days.",
+     "lvl": "B1"
+    },
+    {
+     "en": "My number is oh seven seven double oh, nine double one, two three four.",
+     "ru": "Мой номер 07700 911234. (0 читают «oh», две одинаковые цифры — «double»)",
+     "ex": "What's your number? / My number is oh seven seven double oh, nine double one, two three four.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's room four double two.",
+     "ru": "Это номер 422. (double — две одинаковые цифры подряд)",
+     "ex": "Which room are you in? / It's room four double two.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's spelt with a double L.",
+     "ru": "Пишется с двумя L.",
+     "ex": "Is it \"Wiliams\" or \"Williams\"? / It's spelt with a double L.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I live at forty-two Baker Street.",
+     "ru": "Я живу на Бейкер-стрит, 42. (номер дома ставят перед улицей)",
+     "ex": "What's your address? / I live at forty-two Baker Street.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's flat three B, on the second floor.",
+     "ru": "Квартира 3B, на втором этаже.",
+     "ex": "Which flat is it? / It's flat three B, on the second floor.",
+     "lvl": "B1"
+    },
+    {
+     "en": "What's your postcode?",
+     "ru": "Какой у вас почтовый индекс? (postcode — брит.)",
+     "ex": "What's your postcode? / SW1A 1AA.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's four ninety-nine.",
+     "ru": "Это стоит 4,99. (так говорят цены: £4.99)",
+     "ex": "How much is the book? / It's four ninety-nine.",
+     "lvl": "A2"
+    },
+    {
+     "en": "That's twelve pounds fifty.",
+     "ru": "С вас двенадцать фунтов пятьдесят. (£12.50)",
+     "ex": "How much is that? / That's twelve pounds fifty, please.",
+     "lvl": "A2"
+    },
+    {
+     "en": "That comes to thirty-four pounds twenty.",
+     "ru": "Итого 34 фунта 20 пенсов. (comes to — составляет в сумме)",
+     "ex": "How much is everything? / That comes to thirty-four pounds twenty.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's fifty p.",
+     "ru": "Это 50 пенсов. (p — пенсы, разг. брит.)",
+     "ex": "How much is a bag? / It's fifty p.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Have you got a fiver?",
+     "ru": "У тебя есть пятёрка? (fiver — 5 фунтов, tenner — 10, брит. разг.)",
+     "ex": "I need change for the parking. Have you got a fiver?",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's only ten quid.",
+     "ru": "Всего десять фунтов. (quid — фунт, брит. разг.; во мн. ч. не меняется)",
+     "ex": "Is the ticket expensive? / No, it's only ten quid.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The car cost five grand.",
+     "ru": "Машина стоила пять тысяч. (grand — тысяча, разг.)",
+     "ex": "How much was the car? / It cost five grand.",
+     "lvl": "B2"
+    },
+    {
+     "en": "It's roughly two hundred pounds.",
+     "ru": "Примерно двести фунтов. (roughly — приблизительно)",
+     "ex": "How much is the flight? / It's roughly two hundred pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Just under fifty pounds.",
+     "ru": "Чуть меньше пятидесяти фунтов.",
+     "ex": "How much did you spend? / Just under fifty pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Prices start from ninety-nine pounds.",
+     "ru": "Цены от 99 фунтов.",
+     "ex": "How much is a room? / Prices start from ninety-nine pounds.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Do you have anything smaller than a fifty?",
+     "ru": "У вас нет купюры помельче пятидесяти?",
+     "ex": "I can't change that. Do you have anything smaller than a fifty?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Can you count it again?",
+     "ru": "Можете пересчитать?",
+     "ex": "I think there's a mistake. Can you count it again?",
+     "lvl": "B1"
+    },
+    {
+     "en": "It costs two and a half thousand pounds.",
+     "ru": "Это стоит две с половиной тысячи фунтов.",
+     "ex": "How much is the course? / It costs two and a half thousand pounds.",
+     "lvl": "B2"
+    },
+    {
+     "en": "There were a hundred and twenty people.",
+     "ru": "Там было сто двадцать человек. (брит.: hundred AND twenty)",
+     "ex": "How many people came? / There were a hundred and twenty people.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The population is about nine million.",
+     "ru": "Население — около девяти миллионов.",
+     "ex": "How big is London? / The population is about nine million.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's a quarter of a million.",
+     "ru": "Это четверть миллиона.",
+     "ex": "How many people live in the city? / About a quarter of a million.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Thousands of people came.",
+     "ru": "Пришли тысячи людей.",
+     "ex": "Was the festival busy? / Yes, thousands of people came.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I've told you dozens of times!",
+     "ru": "Я говорил тебе десятки раз!",
+     "ex": "Close the door! I've told you dozens of times!",
+     "lvl": "B1"
+    },
+    {
+     "en": "Give me a couple of minutes.",
+     "ru": "Дай мне пару минут.",
+     "ex": "Are you ready? / Give me a couple of minutes.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'll stay for a few days.",
+     "ru": "Я останусь на несколько дней.",
+     "ex": "How long are you staying? / I'll stay for a few days.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Cut it in half.",
+     "ru": "Разрежь пополам.",
+     "ex": "Let's share the sandwich. Cut it in half.",
+     "lvl": "A2"
+    },
+    {
+     "en": "A quarter of the class was ill.",
+     "ru": "Четверть класса болела.",
+     "ex": "Why was school closed? / A quarter of the class was ill.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Two thirds of people agreed.",
+     "ru": "Две трети людей согласились.",
+     "ex": "Did people like the idea? / Two thirds of people agreed.",
+     "lvl": "B2"
+    },
+    {
+     "en": "One in five people work from home.",
+     "ru": "Каждый пятый работает из дома.",
+     "ex": "One in five people work from home now.",
+     "lvl": "B2"
+    },
+    {
+     "en": "Prices went up by ten percent.",
+     "ru": "Цены выросли на десять процентов.",
+     "ex": "Everything is more expensive. Prices went up by ten percent.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's nought point five percent.",
+     "ru": "Это 0,5 процента. (nought — ноль, брит.)",
+     "ex": "What's the interest rate? / It's nought point five percent.",
+     "lvl": "B2"
+    },
+    {
+     "en": "The baby weighs three point two kilos.",
+     "ru": "Ребёнок весит 3,2 кг. (в английском дробную часть отделяют точкой: 3.2)",
+     "ex": "How big is the baby? / The baby weighs three point two kilos.",
+     "lvl": "B1"
+    },
+    {
+     "en": "I drink one and a half litres of water a day.",
+     "ru": "Я пью полтора литра воды в день.",
+     "ex": "How much water do you drink? / One and a half litres a day.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's twice as expensive here.",
+     "ru": "Здесь вдвое дороже.",
+     "ex": "Let's not buy it here. It's twice as expensive.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Their house is three times bigger than ours.",
+     "ru": "Их дом в три раза больше нашего.",
+     "ex": "Have you seen their new house? It's three times bigger than ours.",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's fifty-fifty.",
+     "ru": "Шансы пятьдесят на пятьдесят.",
+     "ex": "Will they win? / It's fifty-fifty.",
+     "lvl": "B1"
+    },
+    {
+     "en": "This is my second time in London.",
+     "ru": "Я в Лондоне второй раз.",
+     "ex": "Is this your first visit? / No, this is my second time in London.",
+     "lvl": "A2"
+    },
+    {
+     "en": "He came first in the race.",
+     "ru": "Он пришёл первым в забеге.",
+     "ex": "How did your son do? / He came first in the race!",
+     "lvl": "B1"
+    },
+    {
+     "en": "It's two all.",
+     "ru": "Счёт два — два. (брит.)",
+     "ex": "What's the score? / It's two all.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How tall are you?",
+     "ru": "Какой у тебя рост?",
+     "ex": "How tall are you? / One metre seventy.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm one metre seventy.",
+     "ru": "Мой рост метр семьдесят.",
+     "ex": "How tall are you? / I'm one metre seventy.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How much do you weigh?",
+     "ru": "Сколько ты весишь? (обычно личный вопрос)",
+     "ex": "How much do you weigh? / About sixty kilos.",
+     "lvl": "A2"
+    },
+    {
+     "en": "It's five miles away.",
+     "ru": "Это в пяти милях отсюда. (миля ≈ 1,6 км; в Британии расстояния в милях)",
+     "ex": "How far is the beach? / It's five miles away.",
+     "lvl": "B1"
+    },
+    {
+     "en": "How far is it in kilometres?",
+     "ru": "Сколько это в километрах?",
+     "ex": "It's ten miles. / How far is it in kilometres?",
+     "lvl": "B1"
+    },
+    {
+     "en": "Half a pint, please.",
+     "ru": "Полпинты, пожалуйста. (пинта ≈ 0,57 л, брит.)",
+     "ex": "What can I get you? / Half a pint, please.",
+     "lvl": "B1"
+    },
+    {
+     "en": "The temperature is in the high twenties.",
+     "ru": "Температура около 27–29 градусов. (high twenties)",
+     "ex": "How hot is it in Spain? / The temperature is in the high twenties.",
+     "lvl": "B2"
+    },
+    {
+     "en": "She's in her thirties.",
+     "ru": "Ей за тридцать. (от 30 до 39)",
+     "ex": "How old is your boss? / She's in her thirties.",
+     "lvl": "B1"
+    },
+    {
+     "en": "He's about forty.",
+     "ru": "Ему около сорока.",
+     "ex": "How old is he? / He's about forty.",
+     "lvl": "A2"
+    },
+    {
+     "en": "I'm twenty-five years old.",
+     "ru": "Мне двадцать пять лет.",
+     "ex": "How old are you? / I'm twenty-five years old.",
+     "lvl": "A2"
+    },
+    {
+     "en": "My son is turning ten next week.",
+     "ru": "На следующей неделе моему сыну исполняется десять.",
+     "ex": "My son is turning ten next week. We're having a party.",
+     "lvl": "B1"
+    },
+    {
+     "en": "Count to ten.",
+     "ru": "Посчитай до десяти.",
+     "ex": "You're angry. Count to ten and breathe.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Two plus two is four.",
+     "ru": "Два плюс два — четыре.",
+     "ex": "What's two plus two? / Two plus two is four.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Ten minus three is seven.",
+     "ru": "Десять минус три — семь.",
+     "ex": "What's ten minus three? / Seven.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Five times four is twenty.",
+     "ru": "Пятью четыре — двадцать.",
+     "ex": "What's five times four? / Twenty.",
+     "lvl": "A2"
+    },
+    {
+     "en": "Twenty divided by five is four.",
+     "ru": "Двадцать разделить на пять — четыре.",
+     "ex": "What's twenty divided by five? / Four.",
+     "lvl": "B1"
+    }
+   ]
   }
  ]
 }
